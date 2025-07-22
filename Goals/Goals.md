@@ -11,5 +11,5 @@
 - #### Milestone 2: Learn Laravel Framework
 	- [ ] Learn how to create [[Laravel]] project.
 
-- #### Milestone 3:
+- #### Milestone 3: 
 
