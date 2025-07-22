@@ -1,11 +1,10 @@
 ## **Core Path**
 
-### Technicals
+### Technology and Framework
 
-#### Priority 1 (PHP/Laravel for the collage training)
+##### Docker 1 (Learn [[PHP Backend]] for collage training)
 
-- Milestone 1: Learn [[PHP]] Language.
-- Milestone 2: Learn [[Laravel]] Framework.
-#### Priority 2 (Rust/Web3 for the Hackathon)
-### [[DevOps/Concepts|Concepts]]
+### Database
+## **Concepts**
 
+- Milestone 1: Learn
