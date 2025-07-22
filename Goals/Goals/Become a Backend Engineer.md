@@ -2,9 +2,9 @@
 
 ### Technology and Framework
 
-##### Learn [[PHP Backend]] for collage training #high
+##### Learn [[Rust Backend]] Tech for the hackathon #important_urgent
 
-##### Learn [[Rust Backend]] Tech for the hackathon #high
+##### Learn [[PHP Backend]] for collage training #un
 
 ##### Learn [[Node Backend]]
 
