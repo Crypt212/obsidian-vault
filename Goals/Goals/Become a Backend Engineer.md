@@ -9,6 +9,4 @@
 ##### Learn [[Node Backend]] #important_unurgent 
 
 ### Database
-## **Concepts**
-
-##### Learn [[API]].
+## **[[Concepts]]**
