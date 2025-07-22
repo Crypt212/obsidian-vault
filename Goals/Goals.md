@@ -3,7 +3,7 @@
 
 ## **Core Path**
 
-- #### Milestone 1: Learn PHP Language
+- #### Milestone 1: Learn [[PHP]] Language
 	- [ ] Install [[XAMP]].
 	- [ ] Learn PHP [[Syntax]].
 	- [ ] Learn PHP [[OOP]].
