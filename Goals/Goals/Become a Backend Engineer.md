@@ -1,8 +1,10 @@
 ## **Core Path**
 
-- #### Milestone 1: Learn [[PHP]] Language.
-- #### Milestone 2: Learn [[Laravel]] Framework.
-- #### Milestone 3: 
+### Pr
+- Milestone 1: Learn [[PHP]] Language.
+- Milestone 2: Learn [[Laravel]] Framework.
+- Milestone 3: 
 
-## Concepts
+## **Concepts**
 
+- Milestone 1: Learn
