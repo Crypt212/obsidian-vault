@@ -11,10 +11,14 @@
             "id": "9c02c3c74a04a3f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
             }
           }
         ]
@@ -164,6 +168,8 @@
   },
   "active": "9c02c3c74a04a3f1",
   "lastOpenFiles": [
+    "Goals/Goals.md",
+    "Goals",
     "README.md",
     "Technicals/Backend/NodeJS.md",
     "TODO/Collage Summer.md",
@@ -198,9 +204,7 @@
     "2025-07-18.md",
     "Untitled.canvas",
     "Technicals/Backend/API/RCP API.md",
-    "Technicals/Backend/API/WebSocket API.md",
     "Technicals/Backend/API",
-    "TODO/Learn Technical/Technicals/DevOps/Docker",
-    "TODO/Learn Technical/Technicals/Web3"
+    "TODO/Learn Technical/Technicals/DevOps/Docker"
   ]
 }
