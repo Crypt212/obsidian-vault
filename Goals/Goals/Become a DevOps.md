@@ -2,6 +2,9 @@
 
 ### Technicals
 
-#### Priority 1 ([[PHP]] for the collage training)
-#### Priority 2 (Rust for the Hackathon)
-### Concepts
+#### Priority 1 (PHP/Laravel for the collage training)
+
+- Milestone 1: Learn [[PHP]] Language.
+- Milestone 2: Learn [[Laravel]] Framework.
+#### Priority 2 (Rust/Web3 for the Hackathon)
+### [[Concepts]]
