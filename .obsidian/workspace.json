@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "REST API"
             }
+          },
+          {
+            "id": "3efe602689d9a3e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Goals/DevOps/Concepts/API/API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9371c4fc0cb56d5",
+  "active": "3efe602689d9a3e4",
   "lastOpenFiles": [
+    "REST API.md",
+    "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/DevOps/Concepts/API/API.md",
     "Goals/Goals/APIs.md",
     "2025-07-22.md",
-    "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/Backend/Concepts/API/SOAP API.md",
     "Goals/Goals/Backend/Concepts/API/RCP API.md",
     "Goals/Goals/Backend/Concepts/API/WebSocket API.md",
@@ -228,7 +244,6 @@
     "Goals/Goals/Backend/NodeJS",
     "Goals/Goals/DevOps/Docker/Volumes.md",
     "Goals/Goals/DevOps/Docker/Images.md",
-    "Goals/Goals/DevOps/Docker/Containers.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]
