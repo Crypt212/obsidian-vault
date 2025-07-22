@@ -25,10 +25,14 @@
             "id": "b9371c4fc0cb56d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Goals/Backend/Concepts/API/REST API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REST API"
             }
           }
         ],
@@ -170,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +193,9 @@
   },
   "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
-    "Goals/Goals/Backend/Concepts/API/APIs.md",
+    "Goals/Goals/DevOps/Concepts/API/API.md",
+    "Goals/Goals/APIs.md",
     "2025-07-22.md",
-    "Goals/Goals/DevOps/Concepts/API.md",
     "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/Backend/Concepts/API/SOAP API.md",
     "Goals/Goals/Backend/Concepts/API/RCP API.md",
