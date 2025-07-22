@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#important-urgent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9371c4fc0cb56d5",
+  "active": "2d99cde948719905",
   "lastOpenFiles": [
     "TODO/Collage Summer.md",
     "Untitled.canvas",

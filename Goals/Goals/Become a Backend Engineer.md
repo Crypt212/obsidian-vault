@@ -2,11 +2,11 @@
 
 ### Technology and Framework
 
-##### Track 1 (Learn [[PHP Backend]] for collage training)
+##### Learn [[PHP Backend]] for collage training #high
 
-##### Track 2 (Learn [[Rust Backend]] Tech for the hackathon) #imp
+##### Learn [[Rust Backend]] Tech for the hackathon #important-urgent
 
-##### Track 3 (Learn [[Node Backend]])
+##### Learn [[Node Backend]]
 
 ### Database
 ## **Concepts**
