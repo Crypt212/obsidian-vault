@@ -5,13 +5,28 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Backend",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "DevOps",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.50364583333333,
-  "lineSizeMultiplier": 2.26927083333333,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.65677083333333,
+  "lineSizeMultiplier": 2.3203125,
   "collapse-forces": false,
   "centerStrength": 0.078125,
   "repelStrength": 8.4375,
