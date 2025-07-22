@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Goals/Backend/Laravel.md",
+                "file": "Technicals/Backend/PHP/XAMPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laravel"
+              "title": "XAMPP"
             }
           }
         ]
@@ -169,11 +169,11 @@
   "active": "9c02c3c74a04a3f1",
   "lastOpenFiles": [
     "Goals/Goals/Backend/PHP.md",
+    "Technicals/Backend/PHP/XAMPP.md",
     "Goals/Goals/Backend/Laravel.md",
     "Goals/Goals.md",
     "Goals/Goals/Backend",
     "Goals/Goals",
-    "Technicals/Backend/PHP/XAMP.md",
     "Technicals/Backend/PHP/OOP.md",
     "Technicals/Backend/PHP/Syntax.md",
     "TODO/Learn Technicals.md",

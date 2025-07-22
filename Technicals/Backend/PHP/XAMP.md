@@ -1,1 +1,0 @@
-Cross-Platform (X), Apache server (A), MariaDB (M), PHP (P), and Perl (P). If you're working with PHP, it's a handy tool because it creates a local web server for testing or development purposes. It's especially useful if you plan to use a database in your project, as it includes MariaDB.
