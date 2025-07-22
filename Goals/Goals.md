@@ -4,4 +4,4 @@
 
 ## [[Learn ICP and Web3]]
 
-## [[Learn a DevOps]]
+## [[Learn DevOps]]

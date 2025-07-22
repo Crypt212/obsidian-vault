@@ -22,10 +22,24 @@
       }
     },
     {
-      "query": "Goals",
+      "query": "file: Goals",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Backend/Node Backend\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.29672115249292597,
+  "scale": 0.2574640321676778,
   "close": false
 }
