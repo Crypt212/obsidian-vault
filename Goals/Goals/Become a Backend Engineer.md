@@ -4,7 +4,7 @@
 
 ##### Track 1 (Learn [[PHP Backend]] for collage training)
 
-##### Track 2 (Learn [[Rust Backend]] and [[Web3]] Tech for the hackathon)
+##### Track 2 (Learn [[Rust Backend]] Tech for the hackathon) #imp
 
 ##### Track 3 (Learn [[Node Backend]])
 
