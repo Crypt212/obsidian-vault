@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Goals/Backend/Concepts/API/REST API.md",
+                "file": "Goals/Goals/Backend/Concepts/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST API"
+              "title": "API"
             }
           },
           {
@@ -204,9 +204,10 @@
   },
   "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
+    "Goals/Goals/Backend/Concepts/API/REST API.md",
+    "Goals/Goals/Backend/Concepts/API.md",
     "Goals/Goals/Backend/PHP/File Handling.md",
     "Goals/Goals.md",
-    "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/DevOps/Concepts/API/API.md",
     "REST API.md",
     "Goals/Goals/APIs.md",
@@ -239,7 +240,6 @@
     "Technicals/Backend/NodeJS.md",
     "Goals/Goals/Backend/NodeJS",
     "Goals/Goals/DevOps/Docker/Volumes.md",
-    "Goals/Goals/DevOps/Docker/Images.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]
