@@ -198,10 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
-    "Backend/Concepts.md",
+    "TODO/Collage Summer.md",
+    "Untitled.canvas",
+    "TODO/Collage Training.md",
+    "TODO/Learn Technicals.md",
     "DevOps/Concepts.md",
+    "Backend/Concepts.md",
     "Goals/Goals/Learn ICP and Web3.md",
     "Goals/Goals.md",
     "Goals/Goals/Learn a DevOps.md",
@@ -226,17 +230,12 @@
     "Backend/Concepts/API/WebSocket API.md",
     "Goals/Goals/DevOps/Concepts/API",
     "README.md",
-    "TODO/Learn Technicals.md",
     "DevOps/Concepts",
     "Backend/Concepts",
     "Backend/PHP Backend/Laravel",
     "Backend/PHP Backend/PHP",
-    "Backend/PHP Backend/PHP/OOP.md",
-    "Backend/PHP Backend/PHP/XAMPP.md",
     "Backend",
     "Goals/Goals",
-    "Backend/PHP Backend/PHP/Syntax.md",
-    "Technicals/Backend/API/API.canvas",
-    "Untitled.canvas"
+    "Technicals/Backend/API/API.canvas"
   ]
 }
