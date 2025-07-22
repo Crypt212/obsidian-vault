@@ -202,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9371c4fc0cb56d5",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Backend/Untitled",
     "Backend/PHP.md",
     "Goals/Goals/Become a Backend Engineer.md",
     "Backend/Laravel.md",
@@ -239,7 +240,6 @@
     "Technicals/Backend/PHP",
     "Technicals/Backend/NodeJS.md",
     "Backend/NodeJS",
-    "DevOps/Docker/Volumes.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]
