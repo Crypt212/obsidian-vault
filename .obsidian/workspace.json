@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Goals/Become a DevOps.md",
+                "file": "Goals/Goals/Backend/Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Become a DevOps"
+              "title": "Concepts"
             }
           }
         ],
@@ -183,20 +183,20 @@
   },
   "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
-    "Goals/Goals/DevOps/Concepts.md",
+    "Goals/Goals/Backend/Laravel.md",
+    "Goals/Goals/Backend/PHP.md",
     "Goals/Goals/Become a DevOps.md",
+    "Goals/Goals/DevOps/Concepts.md",
     "Goals/Goals/DevOps/Concepts",
     "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals.md",
     "Goals/Goals/Backend/PHP/File Handling.md",
     "Goals/Goals/Backend/Concepts.md",
-    "Goals/Goals/Backend/PHP.md",
     "Goals/Goals/Backend/Concepts",
     "Goals/Goals/Backend/Laravel",
     "Goals/Goals/Backend/PHP",
     "Goals/Goals/Backend/PHP/OOP.md",
     "Goals/Goals/Backend/PHP/XAMPP.md",
-    "Goals/Goals/Backend/Laravel.md",
     "Goals/Goals/Backend",
     "Goals/Goals",
     "Goals/Goals/Backend/PHP/Syntax.md",
