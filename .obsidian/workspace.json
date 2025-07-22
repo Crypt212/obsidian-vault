@@ -202,14 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
-    "Backend/Laravel.md",
     "Backend/PHP.md",
-    "Backend/Concepts/API.md",
-    "Backend/Concepts.md",
     "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals/Become a DevOps.md",
+    "Backend/Laravel.md",
+    "Backend/Concepts/API.md",
+    "Backend/Concepts.md",
     "DevOps/Concepts.md",
     "Backend/Concepts/API/REST API.md",
     "Backend/PHP/File Handling.md",
