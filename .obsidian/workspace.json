@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Goals/DevOps/Concepts.md",
+                "file": "Goals/Goals/Backend/Concepts/API/APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concepts"
+              "title": "APIs"
             }
           }
         ],
@@ -183,11 +183,15 @@
   },
   "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
+    "TODO/Learn Technicals.md",
+    "Goals/Goals/Backend/Concepts/API/REST API.md",
+    "Goals/Goals/DevOps/Concepts/Untitled",
+    "Goals/Goals/Backend/Concepts/API/APIs.md",
+    "Goals/Goals/DevOps/Concepts.md",
     "Goals/Goals/Become a DevOps.md",
     "Goals/Goals/Backend/Concepts.md",
     "Goals/Goals/Backend/Laravel.md",
     "Goals/Goals/Backend/PHP.md",
-    "Goals/Goals/DevOps/Concepts.md",
     "Goals/Goals/DevOps/Concepts",
     "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals.md",
@@ -200,7 +204,6 @@
     "Goals/Goals/Backend",
     "Goals/Goals",
     "Goals/Goals/Backend/PHP/Syntax.md",
-    "TODO/Learn Technicals.md",
     "README.md",
     "TODO/Collage Training.md",
     "TODO/Collage Summer.md",
@@ -208,17 +211,13 @@
     "Technicals/Backend/PHP",
     "Technicals/Backend/NodeJS.md",
     "Goals/Goals/Backend/NodeJS",
-    "Technicals/Backend/Concepts",
     "Goals/Goals/DevOps/Docker/Volumes.md",
     "Goals/Goals/DevOps/Docker/Images.md",
     "Goals/Goals/DevOps/Docker/Containers.md",
     "Goals/Goals/Backend/Concepts/API/WebSocket API.md",
     "Goals/Goals/Backend/Concepts/API/SOAP API.md",
-    "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/Backend/Concepts/API/RCP API.md",
-    "Goals/Goals/Backend/Concepts/API/APIs.md",
     "Goals/Goals/DevOps/Docker.md",
-    "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]
