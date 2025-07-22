@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHPMyAdmin.md",
+                "file": "Backend/PHP Backend/PHP/XAMPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHPMyAdmin"
+              "title": "XAMPP"
             }
           }
         ]
@@ -179,16 +179,18 @@
   },
   "active": "3efe602689d9a3e4",
   "lastOpenFiles": [
-    "Backend/PHP Backend/PHP.md",
-    "MariaDB.md",
+    "Backend/PHP Backend/PHP/Installation/Apache and PHP.md",
+    "Backend/PHP Backend/PHP/Installation",
     "Apache.md",
+    "Backend/PHP Backend/PHP.md",
+    "Backend/PHP Backend/PHP/Installation/PHPMyAdmin.md",
+    "Backend/PHP Backend/PHP/Installation/MariaDB.md",
     "[MariaDB.md",
     "Backend/Concepts.md",
     "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals/Learn DevOps.md",
     "Backend/PHP Backend/PHP/Syntax.md",
     "Backend/PHP Backend/PHP/OOP.md",
-    "PHPMyAdmin.md",
     "Backend/PHP Backend.md",
     "Backend/PHP Backend/PHP/XAMPP.md",
     "APIs.md",
@@ -208,15 +210,12 @@
     "Backend/PHP Backend",
     "Backend/PHP Backend/Laravel.md",
     "Backend/Concepts/API.md",
-    "Backend/Concepts/API/REST API.md",
-    "Backend/PHP Backend/PHP/File Handling.md",
     "Goals/Goals/DevOps/Concepts/API",
     "DevOps/Concepts",
     "Backend/Concepts",
     "Backend/PHP Backend/Laravel",
     "Backend/PHP Backend/PHP",
     "Backend",
-    "Goals/Goals",
     "Technicals/Backend/API/API.canvas"
   ]
 }
