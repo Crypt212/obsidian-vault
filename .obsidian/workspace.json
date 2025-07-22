@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technicals/Backend/PHP Syntax.md",
+                "file": "TODO/Learn Technicals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP Syntax"
+              "title": "Learn Technicals"
             }
           }
         ]
@@ -166,45 +166,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "9c02c3c74a04a3f1",
   "lastOpenFiles": [
+    "TODO/Collage Training.md",
+    "TODO/Collage Summer.md",
+    "Technicals/Backend/Rust/Syntax.md",
+    "Technicals/Backend/Rust",
+    "Technicals/Backend/PHP",
+    "Technicals/Backend/NodeJS.md",
+    "Technicals/Backend/NodeJS",
     "Technicals/Backend/Concepts",
     "Goals/Goals.md",
-    "Technicals/Backend/PHP Syntax.md",
     "Goals",
     "README.md",
-    "Technicals/Backend/NodeJS.md",
-    "TODO/Collage Summer.md",
     "Technicals/DevOps/Docker/Volumes.md",
     "Technicals/DevOps/Docker/Images.md",
     "Technicals/DevOps/Docker/Containers.md",
-    "Technicals/Backend/API/WebSocket API.md",
-    "Technicals/Backend/API/SOAP API.md",
-    "Technicals/Backend/API/REST API.md",
-    "Technicals/Backend/API/RCP API.md",
-    "Technicals/Backend/API/APIs.md",
+    "Technicals/Backend/Concepts/API/WebSocket API.md",
+    "Technicals/Backend/Concepts/API/SOAP API.md",
+    "Technicals/Backend/Concepts/API/REST API.md",
+    "Technicals/Backend/Concepts/API/RCP API.md",
+    "Technicals/Backend/Concepts/API/APIs.md",
     "Technicals/DevOps/Docker.md",
     "Technicals/DevOps/Docker",
-    "Technicals/Backend/API",
+    "Technicals/Backend/Concepts/API",
     "Technicals/DevOps",
     "Technicals/Backend",
     "Technicals",
     "TODO/Learn Technicals.md",
-    "TODO/Collage Training.md",
-    "TODO/Collage Summer.md",
-    "TODO",
-    "My Vault",
-    "Technicals/Backend/API/REST API.md",
-    "Technicals/Backend/API/APIs.md",
+    "Technicals/Backend/Concepts/API/REST API.md",
+    "Technicals/Backend/Concepts/API/APIs.md",
     "Technicals/DevOps/Docker.md",
     "Technicals/DevOps/Docker/Volumes.md",
-    "Technicals/Backend/NodeJS.md",
     "TODO/Learn Technicals.md",
-    "TODO/Collage Training.md",
     "Technicals/Backend/API/API.canvas",
-    "Technicals/Backend/API/SOAP API.md",
-    "Untitled.canvas",
-    "Technicals/Backend/API",
-    "TODO/Learn Technical/Technicals/DevOps/Docker"
+    "Technicals/Backend/Concepts/API/SOAP API.md",
+    "Untitled.canvas"
   ]
 }
