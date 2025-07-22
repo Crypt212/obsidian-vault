@@ -4,7 +4,7 @@
 
 ##### Learn [[PHP Backend]] for collage training #high
 
-##### Learn [[Rust Backend]] Tech for the hackathon #meduim
+##### Learn [[Rust Backend]] Tech for the hackathon #high
 
 ##### Learn [[Node Backend]]
 
