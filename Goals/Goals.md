@@ -4,9 +4,9 @@
 ## **Core Path**
 
 - #### Milestone 1: Learn PHP Language
-	- [ ] Learn [[Syntax]]
+	- [ ] Learn PHP [[Syntax]]
 	- [ ] Learn PHP [[OOP]]
-	- [ ] Learn [[Syntax]]
+	- [ ] Learn PHP [[]]
 - #### Milestone 2: Learn Laravel Framework
 	- [ ] Learn how to create
 - #### Milestone 3:
