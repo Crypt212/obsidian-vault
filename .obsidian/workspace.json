@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/PHP Backend/PHP/XAMPP.md",
+                "file": "Backend/PHP Backend/PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XAMPP"
+              "title": "PHP"
             }
           }
         ]
@@ -180,11 +180,12 @@
   "active": "3efe602689d9a3e4",
   "lastOpenFiles": [
     "Backend/PHP Backend/PHP/Installation/Apache and PHP.md",
+    "Backend/PHP Backend/PHP.md",
+    "Backend/PHP Backend/PHP/Installation/MariaDB.md",
+    "Backend/PHP Backend/PHP/Installation/XAMPP.md",
     "Backend/PHP Backend/PHP/Installation",
     "Apache.md",
-    "Backend/PHP Backend/PHP.md",
     "Backend/PHP Backend/PHP/Installation/PHPMyAdmin.md",
-    "Backend/PHP Backend/PHP/Installation/MariaDB.md",
     "[MariaDB.md",
     "Backend/Concepts.md",
     "Goals/Goals/Become a Backend Engineer.md",
@@ -192,7 +193,6 @@
     "Backend/PHP Backend/PHP/Syntax.md",
     "Backend/PHP Backend/PHP/OOP.md",
     "Backend/PHP Backend.md",
-    "Backend/PHP Backend/PHP/XAMPP.md",
     "APIs.md",
     "DevOps/Docker.md",
     "Goals/Goals.md",
