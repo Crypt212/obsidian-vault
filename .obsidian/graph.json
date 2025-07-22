@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"",
+      "query": "path:DevOps/Docker  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -60,6 +60,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.20090351256788322,
+  "scale": 0.16967434135581919,
   "close": false
 }
