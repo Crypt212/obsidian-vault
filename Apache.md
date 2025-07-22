@@ -2,6 +2,5 @@ The [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server "wikip
 
 ## Installation
 
-Install Apache then refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server
-
-Then, install the PHP Apache module 
+- Install Apache then refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server
+- Then, install the PHP Apache module refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server#PHP
