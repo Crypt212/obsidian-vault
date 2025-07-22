@@ -1,1 +1,0 @@
-Images are blueprints for to create [[Technicals/DevOps/Docker/Containers]], images store the container's operating system, the runtime environment, the base code, dependencies and more, all that is set as layers in the specified order.

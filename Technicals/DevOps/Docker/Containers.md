@@ -1,1 +1,0 @@
-Are the actual runnable instances of the [[Technicals/DevOps/Docker/Images]].
