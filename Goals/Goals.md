@@ -1,5 +1,7 @@
 
 ## Become a Backend Engineer
 
-### Core Path
+## **Core Path**
+
+- #### Milestone 1:
 
