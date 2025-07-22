@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Goals/Become a Backend Engineer.md",
+                "file": "Goals/Goals/Learn a DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Become a Backend Engineer"
+              "title": "Learn a DevOps"
             }
           },
           {
@@ -204,9 +204,11 @@
   },
   "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
-    "Backend/PHP Backend.md",
+    "Goals/Goals/Learn ICP and Web3.md",
     "Goals/Goals/Become a Backend Engineer.md",
+    "Goals/Goals/Learn a DevOps.md",
     "Backend/Rust Backend.md",
+    "Backend/PHP Backend.md",
     "Backend/Node Backend.md",
     "Goals/Goals.md",
     "Backend/Node Backend",
@@ -214,7 +216,6 @@
     "Backend/PHP Backend",
     "Backend/PHP Backend/PHP.md",
     "Backend/PHP Backend/Laravel.md",
-    "Goals/Goals/Become a DevOps.md",
     "Backend/Concepts/API.md",
     "Backend/Concepts.md",
     "DevOps/Concepts.md",
@@ -239,7 +240,6 @@
     "Backend",
     "Goals/Goals",
     "Backend/PHP Backend/PHP/Syntax.md",
-    "TODO/Collage Training.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]
