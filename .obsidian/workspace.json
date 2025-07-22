@@ -39,10 +39,14 @@
             "id": "3efe602689d9a3e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Goals/Backend/Concepts/API/REST API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REST API"
             }
           }
         ],
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 398.5
   },
   "right": {
     "id": "47a550eb51dfa794",
