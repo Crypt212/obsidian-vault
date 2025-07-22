@@ -25,10 +25,14 @@
             "id": "b9371c4fc0cb56d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Goals/Backend/Concepts/API/REST API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REST API"
             }
           }
         ],
@@ -177,15 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "b9371c4fc0cb56d5",
   "lastOpenFiles": [
     "Goals/Goals/DevOps/Concepts/API.md",
+    "Goals/Goals/Backend/Concepts/API/REST API.md",
+    "Goals/Goals/DevOps/Concepts/API",
     "README.md",
     "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals/Backend/Concepts/API/APIs.md",
     "TODO/Learn Technicals.md",
-    "Goals/Goals/Backend/Concepts/API/REST API.md",
-    "Goals/Goals/DevOps/Concepts/Untitled",
     "Goals/Goals/DevOps/Concepts.md",
     "Goals/Goals/Become a DevOps.md",
     "Goals/Goals/Backend/Concepts.md",
@@ -214,7 +218,6 @@
     "Goals/Goals/Backend/Concepts/API/WebSocket API.md",
     "Goals/Goals/Backend/Concepts/API/SOAP API.md",
     "Goals/Goals/Backend/Concepts/API/RCP API.md",
-    "Goals/Goals/DevOps/Docker.md",
     "Technicals/Backend/API/API.canvas",
     "Untitled.canvas"
   ]

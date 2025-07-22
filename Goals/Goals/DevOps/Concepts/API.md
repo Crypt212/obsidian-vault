@@ -1,4 +1,3 @@
-
 is an interface/mechanism that allow two software components to communicate under a set of definitions and protocols. The requesting software is called client, the responding one is called server.
 
 ### There are 4 current ways to configure and create APIs:
