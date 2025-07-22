@@ -25,14 +25,10 @@
             "id": "b9371c4fc0cb56d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Goals/Backend/Concepts/API/APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APIs"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -181,19 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9371c4fc0cb56d5",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Goals/Goals/DevOps/Concepts/API.md",
+    "README.md",
+    "Goals/Goals/Become a Backend Engineer.md",
+    "Goals/Goals/Backend/Concepts/API/APIs.md",
     "TODO/Learn Technicals.md",
     "Goals/Goals/Backend/Concepts/API/REST API.md",
     "Goals/Goals/DevOps/Concepts/Untitled",
-    "Goals/Goals/Backend/Concepts/API/APIs.md",
     "Goals/Goals/DevOps/Concepts.md",
     "Goals/Goals/Become a DevOps.md",
     "Goals/Goals/Backend/Concepts.md",
     "Goals/Goals/Backend/Laravel.md",
     "Goals/Goals/Backend/PHP.md",
     "Goals/Goals/DevOps/Concepts",
-    "Goals/Goals/Become a Backend Engineer.md",
     "Goals/Goals.md",
     "Goals/Goals/Backend/PHP/File Handling.md",
     "Goals/Goals/Backend/Concepts",
@@ -204,7 +202,6 @@
     "Goals/Goals/Backend",
     "Goals/Goals",
     "Goals/Goals/Backend/PHP/Syntax.md",
-    "README.md",
     "TODO/Collage Training.md",
     "TODO/Collage Summer.md",
     "Goals/Goals/Backend/Rust",
