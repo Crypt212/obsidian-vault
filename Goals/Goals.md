@@ -5,8 +5,8 @@
 
 - #### Milestone 1: Learn PHP Language
 	- [ ] Learn [[Syntax]]
-	- [ ] Learn [[PHP OOP]]
-	- [ ] Learn 
+	- [ ] Learn PHP [[OOP]]
+	- [ ] Learn [[Syntax]]
 - #### Milestone 2: Learn Laravel Framework
 	- [ ] Learn how to create
 - #### Milestone 3:
