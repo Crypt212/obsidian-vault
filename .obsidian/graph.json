@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Backend  ",
+      "query": "file: Become a Backend Engineer  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:DevOps  ",
+      "query": "file: Learn DevOps  ",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -39,6 +39,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.19319027380146556,
+  "scale": 0.29672115249292597,
   "close": false
 }
