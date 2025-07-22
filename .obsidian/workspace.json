@@ -11,14 +11,10 @@
             "id": "9c02c3c74a04a3f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Goals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goals"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,10 +165,10 @@
   "active": "9c02c3c74a04a3f1",
   "lastOpenFiles": [
     "Goals/Goals/PHP.md",
+    "Goals/Goals.md",
     "Goals/Goals/Untitled",
     "Goals/Goals",
     "Technicals/Backend/PHP/XAMP.md",
-    "Goals/Goals.md",
     "Technicals/Backend/PHP/OOP.md",
     "Technicals/Backend/PHP/Syntax.md",
     "TODO/Learn Technicals.md",
