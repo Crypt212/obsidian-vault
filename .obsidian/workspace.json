@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/PHP Backend/PHP.md",
+                "file": "PHPMyAdmin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP"
+              "title": "PHPMyAdmin"
             }
           }
         ]
@@ -179,10 +179,11 @@
   },
   "active": "3efe602689d9a3e4",
   "lastOpenFiles": [
+    "Backend/PHP Backend/PHP.md",
+    "PHPMyAdmin.md",
     "Backend/PHP Backend.md",
     "MariaDB.md",
     "Apache.md",
-    "Backend/PHP Backend/PHP.md",
     "Backend/PHP Backend/PHP/XAMPP.md",
     "Goals/Goals/Become a Backend Engineer.md",
     "APIs.md",
@@ -209,7 +210,6 @@
     "Goals/Goals/DevOps/Concepts/API/API.md",
     "REST API.md",
     "Goals/Goals/APIs.md",
-    "2025-07-22.md",
     "Goals/Goals/DevOps/Concepts/API",
     "DevOps/Concepts",
     "Backend/Concepts",
