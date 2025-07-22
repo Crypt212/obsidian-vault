@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Backend",
+      "query": "PHP",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -19,6 +19,20 @@
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "API",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.2548673979179984,
+  "scale": 0.19319027380146556,
   "close": false
 }
