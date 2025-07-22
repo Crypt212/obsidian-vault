@@ -11,28 +11,10 @@
             "id": "9c02c3c74a04a3f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/PHP Backend/PHP/File Handling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "File Handling"
-            }
-          },
-          {
-            "id": "b9371c4fc0cb56d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Goals/Become a Backend Engineer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Become a Backend Engineer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -45,8 +27,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#important-urgent",
+                "query": "tag:#important_urgent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d99cde948719905",
+  "active": "9c02c3c74a04a3f1",
   "lastOpenFiles": [
-    "TODO/Collage Summer.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Goals/Goals/Become a Backend Engineer.md",
+    "TODO/Collage Summer.md",
     "TODO/Collage Training.md",
     "TODO/Learn Technicals.md",
     "DevOps/Concepts.md",
@@ -214,7 +196,6 @@
     "Goals/Goals/Learn ICP and Web3.md",
     "Goals/Goals.md",
     "Goals/Goals/Learn a DevOps.md",
-    "Goals/Goals/Become a Backend Engineer.md",
     "Backend/Rust Backend.md",
     "Backend/PHP Backend.md",
     "Backend/Node Backend.md",
