@@ -6,6 +6,7 @@
 - #### Milestone 1: Learn Backend Language and Framework
 	- [ ] Learn [[PHP]]
 	- [ ] Learn [[Laravel]]
-- #### Milestone 2:
+- #### Milestone 2: 
+	- [ ] Learn 
 - #### Milestone 3:
 
