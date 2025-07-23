@@ -175,6 +175,7 @@
   },
   "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Tags",
     "Source Ideas",
     "Big Ideas/Physics.md",
     "Big Ideas",
@@ -212,7 +213,6 @@
     "Big Ideas/Backend/Rust Backend",
     "Big Ideas/Backend/PHP Backend",
     "Goals/Goals/DevOps/Concepts/API",
-    "Big Ideas/DevOps/Concepts",
     "Technicals/Backend/API/API.canvas"
   ]
 }
