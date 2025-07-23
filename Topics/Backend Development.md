@@ -5,7 +5,6 @@ Tags: #main-topic
 
 # Backend Development
 
-
 # Technologies
 
 - Learn a language. Examples: [[PHP]], [[Javascript]]/[[Typescript]], [[Rust]].
