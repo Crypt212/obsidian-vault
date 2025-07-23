@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/rustup.md",
+                "file": "Topics/XAMPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rustup"
+              "title": "XAMPP"
             }
           }
         ]
@@ -179,8 +179,16 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Topics/Rust.md",
     "Topics/rustup.md",
+    "Topics/Volumes.md",
+    "Topics/XAMPP.md",
+    "Topics/Syntax.md",
+    "Topics/SOAP API.md",
+    "Topics/WebSocket API.md",
+    "Topics/Containers.md",
+    "Topics/Database Management.md",
+    "Templates/Header.md",
+    "Topics/Rust.md",
     "Topics/REST API.md",
     "Topics/RCP API.md",
     "Topics/Physics 101.md",
@@ -195,16 +203,8 @@
     "Topics/Apache.md",
     "Topics/API.md",
     "Topics/Backend Development.md",
-    "Topics/Containers.md",
-    "Topics/Database Management.md",
     "Topics/DevOps Engineering.md",
     "Topics/Docker.md",
-    "Topics/File Handling.md",
-    "Topics/API Design.md",
-    "Templates/Topic.md",
-    "Topics/SOAP API.md",
-    "Topics/Syntax.md",
-    "Topics/Volumes.md",
     "Nodes",
     "Notes",
     "Indexes/Untitled",
