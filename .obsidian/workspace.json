@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals & Priorities.md",
-                "mode": "preview",
+                "file": "Notes/Software Engineering/Rust Language/Rust.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals & Priorities"
+              "title": "Rust"
             }
           }
         ]
