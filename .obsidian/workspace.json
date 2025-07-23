@@ -173,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6a033534fcf05b",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
     "Topics/Apache.md",
     "Topics/Syntax.md",
     "Topics/Containers.md",
     "Topics/WebSocket API.md",
     "Topics/Rust.md",
-    "Nodes/rustup.md",
+    "Topics/rustup.md",
     "Nodes",
     "Topics/PHP.md",
     "Topics/PHPMyAdmin.md",

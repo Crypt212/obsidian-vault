@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Goals\"  ",
+      "query": "tag:main-topic",
       "color": {
         "a": 1,
         "rgb": 15058218
       }
     },
     {
-      "query": "path:\"Topics\"  ",
+      "query": "path:Topics\" ",
       "color": {
         "a": 1,
         "rgb": 2459569
@@ -39,6 +39,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.18215124431607754,
+  "scale": 0.24030409374580075,
   "close": false
 }
