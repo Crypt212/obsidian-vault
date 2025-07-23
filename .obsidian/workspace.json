@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Backend Development.md",
+                "file": "Indexes/PHP Backend Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Development"
+              "title": "PHP Backend Development"
             }
           }
         ],
@@ -194,11 +194,12 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Indexes/Database Development.md",
-    "Indexes/Backend Development.md",
-    "Indexes/PHP Backend Development.md",
-    "Indexes/Rust Backend Development.md",
     "Indexes/Node Backend Develpment.md",
+    "Indexes/Rust Backend Development.md",
+    "Indexes/PHP Backend Development.md",
+    "Indexes/Backend Development.md",
+    "Indexes/Untitled",
+    "Indexes/Database Development.md",
     "Goals & Priorities.md",
     "Goals",
     "Atomic Notes/Backend/PHP Backend/PHP Language.md",
@@ -226,7 +227,6 @@
     "Atomic Notes/Backend/PHP Backend/PHP/Installation/XAMPP.md",
     "Atomic Notes/Backend/PHP Backend/PHP/Installation/Apache and PHP.md",
     "Atomic Notes/Backend/PHP Backend/PHP/Installation/MariaDB.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Installation",
     "Apache.md",
     "[MariaDB.md",
     "Untitled 1.canvas",
