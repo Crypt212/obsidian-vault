@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:Topics\" ",
+      "query": "path:\"Topics\"",
       "color": {
         "a": 1,
         "rgb": 2459569

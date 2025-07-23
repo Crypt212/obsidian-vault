@@ -1,3 +1,11 @@
+
+2025-07-23 18:39
+
+Tags: #main-topic
+
+# Backend Development
+
+
 # Technologies
 
 - Learn a language. Examples: [[PHP]], [[Javascript]]/[[Typescript]], [[Rust]].
@@ -7,3 +15,6 @@
 
 - Learn [[Database Management]].
 - Learn [[API Design]].
+
+# References
+
