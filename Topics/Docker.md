@@ -1,5 +1,5 @@
 2025-07-23 18:47
-Tags: 
+Tags: #mid-topic 
 
 # Docker
 
@@ -20,6 +20,6 @@ Tags:
 
 - Are a mappings from the current machine to the files and folders inside the image, allowing the change of files on the machine to be mirrored inside the created container without needing to rebuild its image.
 
-## Layer Cashing
+### Layer Cashing
 
 - Is a property of Docker images that allow it to cache unchanged layers
