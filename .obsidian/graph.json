@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Topics\"  ",
+      "query": "path:\"Goals\"  ",
       "color": {
         "a": 1,
         "rgb": 15058218
       }
     },
     {
-      "query": "path:\"Notes\"  ",
+      "query": "path:\"Topics\"  ",
       "color": {
         "a": 1,
         "rgb": 2459569
       }
     },
     {
-      "query": "file:Goals & Priorities",
+      "query": "path:\"Notes\"",
       "color": {
         "a": 1,
         "rgb": 14701138
