@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Tech",
+      "query": "path:/  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 15728640
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.12774746495723666,
+  "scale": 0.11273466686136659,
   "close": false
 }
