@@ -1,5 +1,5 @@
 2025-07-23 18:51
-Tags: #tool 
+Tags:  
 
 # rustup
 
