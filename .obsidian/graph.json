@@ -43,17 +43,10 @@
       }
     },
     {
-      "query": "path:Tech/Tech",
-      "color": {
-        "a": 1,
-        "rgb": 14729554
-      }
-    },
-    {
       "query": "path:\"Big Ideas\"  ",
       "color": {
         "a": 1,
-        "rgb": 16050084
+        "rgb": 15058218
       }
     }
   ],
