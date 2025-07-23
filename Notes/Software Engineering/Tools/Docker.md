@@ -9,7 +9,7 @@ Tags:
 
 ### Images
 
-- Images are blueprints for to create [[Containers]], images store the container's operating system, the runtime environment, the base code, dependencies and more, all that is set as layers in the specified order.
+- Images are blueprints for to create Containers, images store the container's operating system, the runtime environment, the base code, dependencies and more, all that is set as layers in the specified order.
 - It has layers 
 
 ### Containers
@@ -18,7 +18,7 @@ Tags:
 
 ### Volumes
 
-- Are mappings from folders and files in the current machine running the [[Containers]], to folders and files inside these [[Containers]], allowing changing files inside the [[Containers]] without having to rebuild the [[Images]], and recreating the [[Containers]].
+- Are mappings from folders and files in the current machine running the Containers, to folders and files inside these Containers, allowing changing files inside the Containers without having to rebuild the Images, and recreating the Containers.
 ### Layer Cashing
 
 - Is a property of Docker images that allow it to cache unchanged layers
