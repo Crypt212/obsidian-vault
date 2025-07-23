@@ -3,4 +3,4 @@
 
 ## Language and Framework
 
-- Learning a language
+- Learn a language. Examples: [[PHP]], [[Rust]], [[Javascript]]/[[Typescript]]
