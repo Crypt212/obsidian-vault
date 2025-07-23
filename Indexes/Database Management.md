@@ -1,3 +1,1 @@
-# Database Management
-
-## **Database Design**
+# Basics
