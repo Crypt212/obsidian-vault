@@ -26,7 +26,9 @@ cargo new --vcs=git
 ```
 
 Cargo project has a config file _Cargo.toml_, it has 2 sections:
-- [package] 
+
+- `[package]` which specifies configurations for packages.
+- `[de`
 ## Basics
 
 #
