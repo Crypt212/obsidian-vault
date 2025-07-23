@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Backend Development.md",
+                "file": "Goals & Priorities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Development"
+              "title": "Goals & Priorities"
             }
           }
         ],
@@ -194,8 +194,9 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Goals & Priorities.md",
     "Indexes/Backend Development.md",
+    "Goals",
+    "Goals & Priorities.md",
     "Atomic Notes/Backend/PHP Backend/PHP Language.md",
     "Templates/Main Note.md",
     "Indexes/PHP Backend Development.md",
@@ -206,7 +207,6 @@
     "Atomic Notes/Backend/PHP Backend/Laravel Framework.md",
     "Templates/Index.md",
     "Atomic Notes/Physics.md",
-    "Untitled",
     "Templates",
     "Indexes",
     "Tags",
@@ -229,7 +229,6 @@
     "Atomic Notes/Backend/PHP Backend/PHP/Installation",
     "Apache.md",
     "[MariaDB.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/OOP.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Technicals/Backend/API/API.canvas"
