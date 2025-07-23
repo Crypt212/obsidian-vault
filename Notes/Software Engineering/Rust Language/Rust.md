@@ -30,7 +30,7 @@ Cargo project has a config file _Cargo.toml_ which is a [[TOML]] file, it has 2 
 - `[package]` which specifies configurations for packages.
 - `[dependencies]` which specifies the dependencies of the project
 
-Build the project using `cargo build`.
+Build the project using `cargo build`, This command creates an executable file in _target/debug/hello_cargo_ (or _target\debug\hello_cargo.exe_ on Windows) rather than in your current directory. Because the default build is a debug build
 ## Basics
 
 
