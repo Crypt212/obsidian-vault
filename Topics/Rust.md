@@ -11,7 +11,7 @@ Rust is a low-level programming for developing fast and reliable software, it is
 ## Installation
 
 - Install [[rustup]] cli tool managing rust versions and associated tools.
-- Install a linker, could just be the C li
+- Install a linker, could just be the C linker that comes with [[GCC]] or [[]]
 
 
 # References
