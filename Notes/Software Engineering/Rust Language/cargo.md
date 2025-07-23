@@ -12,4 +12,4 @@ cargo new hello_cargo
 $ cd hello_cargo
 ```
 
-This initialized a rust project and 
+This initialised a rust project, it also initialises it as a git repo
