@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:/  ",
-      "color": {
-        "a": 1,
-        "rgb": 15728640
-      }
-    },
-    {
       "query": "path:\"Backend/Node Backend\"  ",
       "color": {
         "a": 1,
@@ -50,10 +43,17 @@
       }
     },
     {
-      "query": "path:Tech/Tech  ",
+      "query": "path:Tech/Tech",
       "color": {
         "a": 1,
         "rgb": 14729554
+      }
+    },
+    {
+      "query": "path:\"Big Ideas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16050084
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.16020272916386744,
+  "scale": 0.19687155291497854,
   "close": false
 }
