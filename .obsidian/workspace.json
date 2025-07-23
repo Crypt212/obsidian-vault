@@ -25,10 +25,14 @@
             "id": "1a6a033534fcf05b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Main Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Note"
             }
           }
         ],
@@ -190,6 +194,7 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Templates/Main Note.md",
     "Atomic Notes/Backend/Concepts/APIs.md",
     "Indexes/Back-end Concepts.md",
     "Atomic Notes/Physics.md",
@@ -227,7 +232,6 @@
     "Untitled.canvas",
     "TODO/Learn Technicals.md",
     "DevOps/Concepts.md",
-    "Indexes/Node Backend.md",
     "Technicals/Backend/API/API.canvas"
   ]
 }
