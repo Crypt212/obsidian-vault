@@ -9,7 +9,7 @@ Rust is a low-level programming for developing fast and reliable software, it is
 
 - Install [[rustup]] cli tool managing rust versions and associated tools.
 - Install a linker, could just be the C linker that comes with [[GCC]] or [[Clang]].
-- Install [[cargo]] for .... .
+- Install [[cargo]] used for build the rust app and managing its dependancies.
 
 ## Basics
 
