@@ -1,2 +1,2 @@
 -  [[PHP Language]]
-- [[Laravel Framework]]
+- [[Laravel]]
