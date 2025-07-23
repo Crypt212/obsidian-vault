@@ -3,3 +3,4 @@ Tags:
 
 # cargo
 
+Cargo is a tool to build [[Rust]] apps and manage its dependancies,
