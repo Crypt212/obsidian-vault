@@ -1,7 +1,6 @@
 
 # Backend Development
 
-## Language and Framework
-
 - Learn a language. Examples: [[PHP]], [[Javascript]]/[[Typescript]]
-- Learn a backend framework: [[Laravel]], [[A]]
+- Learn a backend framework: [[Laravel]], [[NodeJS]]/[[Express]]
+- Learn [[Database Development]].
