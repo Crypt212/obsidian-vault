@@ -1,1 +1,2 @@
-- [ ] Learn Backend using 
+- [ ] Learn [[Rust Backend Development]] to help learn [[Learn ICP and Web3]] for the Hackathon
+- [ ] Learn [[PHP Backend Development]] to have a temp job and finish the 
