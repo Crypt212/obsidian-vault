@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:super-topic",
+      "query": "file:Goals",
       "color": {
         "a": 1,
         "rgb": 15907100
@@ -19,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 6938410
-      }
-    },
-    {
-      "query": "tag:sub-topic ",
-      "color": {
-        "a": 1,
-        "rgb": 2048199
       }
     },
     {
