@@ -10,7 +10,7 @@ Rust is a low-level programming for developing fast and reliable software, it is
 
 ## Installation
 
-- Install 
+- Install [[rustup]] cli tool managing 
 
 
 # References
