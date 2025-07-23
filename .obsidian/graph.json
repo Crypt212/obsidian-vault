@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Goals\"",
+      "query": "file:Tech",
       "color": {
         "a": 1,
-        "rgb": 14729554
+        "rgb": 16777215
       }
     },
     {
@@ -47,6 +47,13 @@
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Tech/Tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
