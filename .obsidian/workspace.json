@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/MariaDB.md",
+                "file": "Topics/PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MariaDB"
+              "title": "PHP"
             }
           }
         ]
@@ -179,17 +179,20 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Topics/Measure Heat.md",
+    "Topics/MariaDB.md",
     "Topics/Laravel.md",
-    "Topics/Images.md",
+    "Topics/OOP.md",
     "Topics/Internet Computer Protocol.md",
-    "Topics/Docker.md",
-    "Topics/File Handling.md",
-    "Topics/DevOps Engineering.md",
-    "Topics/Database Management.md",
-    "Topics/Containers.md",
-    "Topics/Backend Development.md",
+    "Topics/Images.md",
     "Topics/Apache.md",
     "Topics/API.md",
+    "Topics/Backend Development.md",
+    "Topics/Containers.md",
+    "Topics/Database Management.md",
+    "Topics/DevOps Engineering.md",
+    "Topics/Docker.md",
+    "Topics/File Handling.md",
     "Topics/API Design.md",
     "Templates/Topic.md",
     "Topics/PHPMyAdmin.md",
@@ -202,9 +205,6 @@
     "Topics/SOAP API.md",
     "Topics/Syntax.md",
     "Topics/Volumes.md",
-    "Topics/WebSocket API.md",
-    "Topics/XAMPP.md",
-    "Templates/Main Note.md",
     "Nodes",
     "Notes",
     "Indexes/Untitled",

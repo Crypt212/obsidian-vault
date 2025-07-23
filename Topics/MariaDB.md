@@ -1,3 +1,8 @@
+2025-07-23 18:49
+Tags: #tool
+
+# MariaDB
+
 [MariaDB](https://en.wikipedia.org/wiki/MariaDB "wikipedia:MariaDB") is a reliable, high performance and full-featured database server which aims to be an 'always Free, backward compatible, drop-in' replacement of [MySQL](https://wiki.archlinux.org/title/MySQL "MySQL").
 
 ## Installation
