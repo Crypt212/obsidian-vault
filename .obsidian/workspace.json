@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Rust Backend.md",
+                "file": "Indexes/Rust Backend Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Backend"
+              "title": "Rust Backend Development"
             }
           },
           {
@@ -194,12 +194,12 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Indexes/Back-end Concepts.md",
-    "Indexes/Node Backend.md",
-    "Indexes/PHP Backend Development.md",
-    "Indexes/Rust Backend.md",
-    "Templates/Index.md",
+    "Indexes/Rust Backend Development.md",
     "Templates/Main Note.md",
+    "Templates/Index.md",
+    "Indexes/PHP Backend Development.md",
+    "Indexes/Back-end Concepts.md",
+    "Indexes/Node Backend Develpment.md",
     "Atomic Notes/Backend/Concepts/APIs.md",
     "Atomic Notes/Physics.md",
     "Untitled",

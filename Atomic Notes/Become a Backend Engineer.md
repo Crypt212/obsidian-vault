@@ -2,11 +2,11 @@
 
 ### Technology and Framework
 
-##### Learn [[Rust Backend]] Tech for the hackathon #important_urgent
+##### Learn [[Rust Backend Development]] Tech for the hackathon #important_urgent
 
 ##### Learn [[PHP Backend Development]] for collage training #unimportent_urgent
 
-##### Learn [[Node Backend]] #important_unurgent 
+##### Learn [[Node Backend Develpment]] #important_unurgent 
 
 ### Database
 ## **[[Back-end Concepts]]**
