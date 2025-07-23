@@ -1,6 +1,6 @@
 # NOW
 
-- [ ] Learn [[Rust Backend Development]] to help learn [[Internet Computer Protocol]] for the Hackathon.
+- [ ] Learn [[Rust]] to help learn [[Internet Computer Protocol]] for the Hackathon.
 - [ ] Learn [[Physics 101]] to pass the collage summer.
 - [ ] Learn [[PHP Backend Development]] to secure a temp job and finish the collage training.
 
