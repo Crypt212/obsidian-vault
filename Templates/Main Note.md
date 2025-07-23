@@ -1,1 +1,6 @@
 
+{{date}} {{time}}
+
+Tags: 
+
+# {{Title}}
