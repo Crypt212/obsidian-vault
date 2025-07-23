@@ -7,9 +7,9 @@ Tags:
 
 - Tool for containerising the development project, providing it what it need to run starting with the OS, the run-time environment, the dependencies and many more, all isolated inside a container that can be run on any machine, regardless of its configuration.
 
-### [[Images]]
+### Images
 
-- Are blueprints for the containers to be run, when they are built, they will store the data needed to run.
+- Images are blueprints for to create [[Containers]], images store the container's operating system, the runtime environment, the base code, dependencies and more, all that is set as layers in the specified order.
 - It has layers 
 
 ### [[Containers]]
