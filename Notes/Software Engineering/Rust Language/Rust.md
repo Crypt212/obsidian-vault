@@ -25,7 +25,8 @@ This initialised a [[Rust]] project, it also initialises it as a [[Git]] repo, G
 cargo new --vcs=git
 ```
 
-Cargo project has a config file _Cargo.toml_, 
+Cargo project has a config file _Cargo.toml_, it has 2 sections:
+- [package] 
 ## Basics
 
 #
