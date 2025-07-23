@@ -11,10 +11,14 @@
             "id": "1ae5e13b793d5d85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Heat/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -173,18 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "1ae5e13b793d5d85",
   "lastOpenFiles": [
+    "TODO/Collage Summer.md",
+    "Physics/Heat/Untitled.md",
+    "TODO/Collage Training.md",
+    "Physics/Properties of Matter",
+    "Physics/Heat",
+    "Physics.md",
     "Physics",
     "Learn ICP and Web3.md",
     "Learn DevOps.md",
     "Become a Backend Engineer.md",
-    "Physics.md",
     "Tech/Tech.md",
     "Backend/Rust Backend.md",
     "Backend/PHP Backend/PHP/Syntax.md",
     "Backend/PHP Backend/PHP.md",
-    "TODO/Collage Training.md",
     "Backend/PHP Backend/PHP/Installation/PHPMyAdmin.md",
     "Backend/PHP Backend/PHP/Installation/XAMPP.md",
     "Backend/PHP Backend/PHP/Installation/Apache and PHP.md",
@@ -199,7 +207,6 @@
     "DevOps/Docker.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "TODO/Collage Summer.md",
     "TODO/Learn Technicals.md",
     "DevOps/Concepts.md",
     "Backend/Node Backend.md",
@@ -210,9 +217,6 @@
     "Goals/Goals/DevOps/Concepts/API",
     "DevOps/Concepts",
     "Backend/Concepts",
-    "Backend/PHP Backend/Laravel",
-    "Backend/PHP Backend/PHP",
-    "Backend",
     "Technicals/Backend/API/API.canvas"
   ]
 }
