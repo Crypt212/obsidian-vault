@@ -179,8 +179,9 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Topics/PHP/Installation/Apache.md",
+    "Topics/PHP/Installation/PHPMyAdmin.md",
     "Topics/PHP.md",
+    "Topics/PHP/Installation/Apache.md",
     "Topics/PHP/Installation/MariaDB.md",
     "Topics/Rust.md",
     "Untitled",
@@ -214,7 +215,6 @@
     "Topics/Physics/Properties of Matter",
     "Tech/Tech.md",
     "Topics/PHP/Syntax.md",
-    "Topics/PHP/Installation/PHPMyAdmin.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Technicals/Backend/API/API.canvas"
