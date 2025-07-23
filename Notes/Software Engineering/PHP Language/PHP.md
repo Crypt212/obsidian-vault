@@ -16,11 +16,11 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ## Basics
 
--  Learn PHP [[Syntax]].
--  Learn PHP [[File Handling]].
--  Learn PHP [[HTTP\Request Handling]].
--  Learn PHP [[State Management]].
--  Learn PHP [[OOP]].
+-  Learn PHP Syntax.
+-  Learn PHP File Handling.
+-  Learn PHP HTTP\Request Handling.
+-  Learn PHP State Management.
+-  Learn PHP OOP.
 
 
 # References
