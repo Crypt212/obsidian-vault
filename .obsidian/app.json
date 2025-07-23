@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Atomic Notes"
 }
