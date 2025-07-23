@@ -173,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ae5e13b793d5d85",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "ICP/Learn ICP and Web3.md",
-    "DevOps/Learn DevOps.md",
-    "Backend/Become a Backend Engineer.md",
-    "TODO/Physics.md",
+    "Physics",
+    "Learn ICP and Web3.md",
+    "Learn DevOps.md",
+    "Become a Backend Engineer.md",
+    "Physics.md",
     "Tech/Tech.md",
     "Backend/Rust Backend.md",
     "Backend/PHP Backend/PHP/Syntax.md",
@@ -206,7 +207,6 @@
     "Backend/Rust Backend",
     "Backend/PHP Backend",
     "Backend/PHP Backend/Laravel.md",
-    "Backend/Concepts/API.md",
     "Goals/Goals/DevOps/Concepts/API",
     "DevOps/Concepts",
     "Backend/Concepts",
