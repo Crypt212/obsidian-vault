@@ -15,9 +15,9 @@
               "state": {
                 "file": "Notes/Software Engineering/Rust Language/Rust.canvas",
                 "viewState": {
-                  "x": -27.780235351716662,
-                  "y": -7.935757963157469,
-                  "zoom": -0.6633333333333336
+                  "x": -220,
+                  "y": 40,
+                  "zoom": -0.3685781881861837
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -182,12 +182,12 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Notes/Software Engineering/PHP Language/PHP.md",
+    "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/Rust Language/Installation.md",
     "Notes/Software Engineering/Tools/cargo.md",
-    "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/Rust Language/Rust.md",
     "Notes/Software Engineering/PHP Language/PHPMyAdmin.md",
-    "Notes/Software Engineering/PHP Language/PHP.md",
     "Notes/Software Engineering/Tools/XAMPP.md",
     "Notes/Software Engineering/Tools/Docker.md",
     "Notes/Software Engineering/DevOps Engineering/Containers.md",
@@ -218,7 +218,6 @@
     "Topics/RCP API.md",
     "Topics/Syntax.md",
     "Topics/SOAP API.md",
-    "Topics/WebSocket API.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Technicals/Backend/API/API.canvas"

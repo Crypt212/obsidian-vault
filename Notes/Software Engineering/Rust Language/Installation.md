@@ -1,8 +1,3 @@
-2025-07-23 21:45
-Tags: 
-
-# Installation
-
 - Install [[rustup]] cli tool managing rust versions and associated tools.
 - Install a linker, could just be the C linker that comes with [[GCC]] or [[Clang]].
 - Install [[cargo]] used for build the rust app and managing its dependancies.
