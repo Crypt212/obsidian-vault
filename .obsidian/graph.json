@@ -53,7 +53,7 @@
       "query": "path:Tech/Tech  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 14729554
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.16074494983701185,
+  "scale": 0.12774746495723666,
   "close": false
 }
