@@ -5,4 +5,11 @@ Tags:
 
 Cargo is a tool to build [[Rust]] apps and manage its dependancies.
 
-## Create a project 
+## Create a project with cargo
+
+```bash
+cargo new hello_cargo
+$ cd hello_cargo
+```
+
+This initialized a rust project and 
