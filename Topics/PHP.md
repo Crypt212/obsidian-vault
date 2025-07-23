@@ -11,8 +11,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 
 -  Install [[MariaDB]] as a database.  
-- Install [[Apache and PHP]]
-- [[PHPMyAdmin]]) or [[XAMPP]].
+- Install [[Apache]] and the PHP Apache module, refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server#PHP.
+- [[PHPMyAdmin]] [[XAMPP]].
 
 ## Basics
 
