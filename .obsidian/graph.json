@@ -15,17 +15,10 @@
       }
     },
     {
-      "query": "tag:mid-topic ",
+      "query": "tag:sub-topic ",
       "color": {
         "a": 1,
         "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:tool ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
       }
     },
     {

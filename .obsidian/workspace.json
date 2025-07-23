@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Software Engineering/Tools/XAMPP.md",
+                "file": "Topics/Software Engineering/PHP Language/PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XAMPP"
+              "title": "PHP"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#important_urgent",
+                "query": "tag:#tool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6a033534fcf05b",
+  "active": "2d99cde948719905",
   "lastOpenFiles": [
+    "Topics/Software Engineering/Backend Development/API Design/API.md",
+    "Topics/Software Engineering/PHP Language/PHP.md",
+    "Topics/Software Engineering/Tools/XAMPP.md",
     "Topics/Physics Science/Physics 101.md",
     "Topics/Software Engineering/Tools/Docker/Volumes.md",
     "Topics/Physics Science",
@@ -196,14 +200,12 @@
     "Topics/RCP API.md",
     "Topics/Software Engineering/Rust Language/Rust.md",
     "Topics/Software Engineering/Tools/rustup.md",
-    "Topics/Software Engineering/Tools/XAMPP.md",
     "Topics/Syntax.md",
     "Topics/SOAP API.md",
     "Topics/WebSocket API.md",
     "Topics/Software Engineering/DevOps Engineering/Containers.md",
     "Topics/Software Engineering/Database Engineering/Database Management.md",
     "Templates/Header.md",
-    "Topics/Software Engineering/PHP Language/PHP.md",
     "Topics/Physics Science/Measure Heat.md",
     "Topics/Software Engineering/Tools/MariaDB.md",
     "Topics/Software Engineering/Technologies/Laravel.md",
@@ -211,7 +213,6 @@
     "Topics/Software Engineering/Internet Computer Protocol/Internet Computer Protocol.md",
     "Topics/Software Engineering/Tools/Docker/Images.md",
     "Topics/Software Engineering/PHP Language/Apache.md",
-    "Topics/Software Engineering/Backend Development/API Design/API.md",
     "Topics/Software Engineering/Backend Development/Backend Development.md",
     "Topics/Software Engineering/DevOps Engineering/DevOps Engineering.md",
     "Untitled 1.canvas",
