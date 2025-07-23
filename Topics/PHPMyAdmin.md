@@ -1,3 +1,10 @@
+2025-07-23 18:44
+Tags: #mid-topic 
+
+# PHPMyAdmin
+
+
+# References
 phpMyAdmin is a web-based tool to help manage [[MariaDB]] or [[MySQL]] databases, written primarily in [[PHP]] and distributed under the GNU GPL. 
 
 - This shows PHPMyAdmin's contents as a graphical tool: https://wiki.archlinux.org/title/MySQL#Graphical_tools

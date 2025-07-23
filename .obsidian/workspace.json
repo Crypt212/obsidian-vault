@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Rust.md",
+                "file": "Topics/PHPMyAdmin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "PHPMyAdmin"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Topics/PHP.md",
+    "Topics/PHPMyAdmin.md",
+    "Topics/Physics 101.md",
     "Topics/RCP API.md",
     "Topics/REST API.md",
     "Topics/Rust.md",
@@ -197,8 +200,6 @@
     "Topics/Database Management.md",
     "Topics/Backend Development.md",
     "Nodes",
-    "Topics/PHP.md",
-    "Topics/PHPMyAdmin.md",
     "Topics/MariaDB.md",
     "Notes",
     "Topics/DevOps Engineering.md",
@@ -206,7 +207,6 @@
     "Topics/Laravel.md",
     "Topics/Internet Computer Protocol.md",
     "Indexes/PHP Backend Development.md",
-    "Indexes/Node Backend Develpment.md",
     "Indexes/Untitled",
     "Goals",
     "Templates",
