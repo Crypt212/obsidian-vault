@@ -179,6 +179,8 @@
   },
   "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Topics/DevOps Engineering",
+    "Topics/PHP Language",
     "Topics/Database Engineering",
     "Topics/API Design",
     "Topics/Rust Language",
@@ -194,7 +196,7 @@
     "Topics/SOAP API.md",
     "Topics/WebSocket API.md",
     "Topics/Containers.md",
-    "Topics/Database Management.md",
+    "Topics/Database Engineering/Database Management.md",
     "Templates/Header.md",
     "Topics/Physics 101.md",
     "Topics/PHP.md",
@@ -213,8 +215,6 @@
     "Indexes/Untitled",
     "Goals",
     "Templates",
-    "Indexes",
-    "Tags",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Technicals/Backend/API/API.canvas"
