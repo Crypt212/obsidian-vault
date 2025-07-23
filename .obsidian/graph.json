@@ -8,45 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Backend/Node Backend\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Backend/PHP Backend\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Backend/Rust Backend\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Backend/Concepts  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:DevOps/Docker  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Big Ideas\"  ",
+      "query": "path:\"Indexes\"  ",
       "color": {
         "a": 1,
         "rgb": 15058218
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
