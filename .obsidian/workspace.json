@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/DevOps Engineering.md",
+                "file": "Indexes/API Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Engineering"
+              "title": "API Design"
             }
           }
         ],
@@ -194,6 +194,8 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Indexes/DevOps Engineering.md",
+    "Indexes/API Design.md",
     "Goals & Priorities.md",
     "Indexes/Internet Computer Protocol.md",
     "Indexes/Backend Development.md",
@@ -220,7 +222,6 @@
     "Atomic Notes/Physics/Properties of Matter",
     "Atomic Notes/Physics/Heat",
     "Atomic Notes/Physics",
-    "Indexes/DevOps Engineering.md",
     "Tech/Tech.md",
     "Atomic Notes/PHP/Syntax.md",
     "Atomic Notes/PHP/Installation/PHPMyAdmin.md",
