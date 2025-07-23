@@ -19,7 +19,7 @@ cargo new hello_cargo
 $ cd hello_cargo
 ```
 
-This initialised a [[Rust]] project, it also initialises it as a [[Git]] repo, Git [[files]] won’t be generated if you run cargo new within an existing [[Git]] repository; you can override this behavior by using:
+This initialised a [[Rust]] project, it also initialises it as a [[Git]] repo,  [[files]] won’t be generated if you run cargo new within an existing [[Git]] repository; you can override this behaviour by using:
 
 ``` bash
 cargo new --vcs=git
@@ -28,7 +28,7 @@ cargo new --vcs=git
 Cargo project has a config file _Cargo.toml_, it has 2 sections:
 
 - `[package]` which specifies configurations for packages.
-- `[de`
+- `[dependencies]` which specifies the dependencies of the project
 ## Basics
 
 #
