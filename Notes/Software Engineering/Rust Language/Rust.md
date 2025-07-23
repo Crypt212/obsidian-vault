@@ -39,9 +39,6 @@ Build the project using `cargo build`, this command creates an executable file i
 `cargo build --release` is used when the project is finally ready for release, it compiles with optimizations and faster run.
 
 If benchmarking, compile in release mode.
-## Basics
-
-
 
 # References
 
