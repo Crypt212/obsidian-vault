@@ -1,21 +1,21 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:",
+      "query": "tag:super-topic",
       "color": {
         "a": 1,
         "rgb": 15907100
       }
     },
     {
-      "query": "tag:main-topic",
+      "query": "tag:topic",
       "color": {
         "a": 1,
         "rgb": 6938410
