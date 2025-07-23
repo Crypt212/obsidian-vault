@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech/Become a Backend Engineer.md",
+                "file": "ICP/Learn ICP and Web3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Become a Backend Engineer"
+              "title": "Learn ICP and Web3"
             }
           }
         ]
@@ -179,10 +179,11 @@
   },
   "active": "1ae5e13b793d5d85",
   "lastOpenFiles": [
+    "DevOps/Learn DevOps.md",
+    "Backend/Become a Backend Engineer.md",
     "TODO/Physics.md",
     "Tech/Tech.md",
-    "Tech/Tech/Learn ICP and Web3.md",
-    "Tech/Tech/Become a Backend Engineer.md",
+    "ICP/Learn ICP and Web3.md",
     "Backend/Rust Backend.md",
     "Backend/PHP Backend/PHP/Syntax.md",
     "Backend/PHP Backend/PHP.md",
@@ -195,7 +196,6 @@
     "Apache.md",
     "[MariaDB.md",
     "Backend/Concepts.md",
-    "Tech/Tech/Learn DevOps.md",
     "Backend/PHP Backend/PHP/OOP.md",
     "Backend/PHP Backend.md",
     "APIs.md",
