@@ -1,7 +1,9 @@
+# Technologies
 
-# Backend Development
+- Learn a language. Examples: [[PHP]], [[Javascript]]/[[Typescript]], [[Rust]].
+- Learn a backend framework: [[Laravel]], [[NodeJS]]/[[Express]].
 
-- Learn a language. Examples: [[PHP]], [[Javascript]]/[[Typescript]]
-- Learn a backend framework: [[Laravel]], [[NodeJS]]/[[Express]]
+# Concepts
+
 - Learn [[Database Management]].
-- Learn [[APIs]].
+- Learn [[API Design]].
