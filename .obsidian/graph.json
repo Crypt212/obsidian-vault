@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:",
       "color": {
         "a": 1,
         "rgb": 15907100
@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "path:\"Topics\"",
+      "query": "path:\"Notes\"",
       "color": {
         "a": 1,
-        "rgb": 2459569
+        "rgb": 5068636
       }
     },
     {
