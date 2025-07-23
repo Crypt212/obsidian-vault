@@ -7,7 +7,7 @@ Tags:
 
 ## Basics
 
-- [ ] Learn how to create [[Laravel Framework]] project.
+- [ ] Learn how to create [[Laravel]] project.
 
 # References
 
