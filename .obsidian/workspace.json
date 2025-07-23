@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Backend Development.md",
+                "file": "Atomic Notes/APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Development"
+              "title": "APIs"
             }
           }
         ],
@@ -194,18 +194,18 @@
   },
   "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "Indexes/Database Development.md",
     "Indexes/Backend Development.md",
+    "Indexes/Database Development.md",
     "Indexes/PHP Backend Development.md",
     "Indexes/Node Backend Develpment.md",
     "Indexes/Rust Backend Development.md",
     "Indexes/Untitled",
     "Goals & Priorities.md",
     "Goals",
-    "Atomic Notes/Backend/PHP Backend/PHP Language.md",
+    "Atomic Notes/PHP Language.md",
     "Templates/Main Note.md",
-    "Atomic Notes/Backend/Concepts/APIs.md",
-    "Atomic Notes/Backend/PHP Backend/Laravel Framework.md",
+    "Atomic Notes/APIs.md",
+    "Atomic Notes/Laravel Framework.md",
     "Templates/Index.md",
     "Atomic Notes/Physics.md",
     "Templates",
@@ -222,11 +222,11 @@
     "Atomic Notes/Learn ICP and Web3.md",
     "Atomic Notes/Learn DevOps.md",
     "Tech/Tech.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Syntax.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Installation/PHPMyAdmin.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Installation/XAMPP.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Installation/Apache and PHP.md",
-    "Atomic Notes/Backend/PHP Backend/PHP/Installation/MariaDB.md",
+    "Atomic Notes/PHP/Syntax.md",
+    "Atomic Notes/PHP/Installation/PHPMyAdmin.md",
+    "Atomic Notes/PHP/Installation/XAMPP.md",
+    "Atomic Notes/PHP/Installation/Apache and PHP.md",
+    "Atomic Notes/PHP/Installation/MariaDB.md",
     "Apache.md",
     "[MariaDB.md",
     "Untitled 1.canvas",
