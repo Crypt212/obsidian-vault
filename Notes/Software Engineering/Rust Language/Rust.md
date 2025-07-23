@@ -32,7 +32,10 @@ Cargo project has a config file _Cargo.toml_ which is a [[TOML]] file, it has 2 
 
 Build the project using `cargo build`, this command creates an executable file in _target/debug/hello_cargo_ rather than in your current directory. Because the default build is a debug build.
 
-`cargo run
+`cargo run`, this builds and runs in one command.
+
+`cargo check`, this command quickly checks your code to make sure it compiles but doesn’t produce an executable.
+
 ## Basics
 
 
