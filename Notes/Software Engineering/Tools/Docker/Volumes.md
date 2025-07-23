@@ -1,1 +1,0 @@
-Are mappings from folders and files in the current machine running the [[Containers]], to folders and files inside these [[Containers]], allowing changing files inside the [[Containers]] without having to rebuild the [[Images]], and recreating the [[Containers]].
