@@ -1,8 +1,5 @@
-2025-07-23 14:45
+2025-07-23 18:50
 Tags: #main-topic 
+
 # Physics 101
-
-
-
-# References
 
