@@ -30,10 +30,11 @@ Cargo project has a config file _Cargo.toml_ which is a [[TOML]] file, it has 2 
 - `[package]` which specifies configurations for packages.
 - `[dependencies]` which specifies the dependencies of the project
 
-Build the project using 
+Build the project using `cargo build`.
 ## Basics
 
-#
+
 
 # References
 
+https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
