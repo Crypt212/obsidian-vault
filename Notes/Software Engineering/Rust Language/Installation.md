@@ -36,9 +36,6 @@ Build the project using `cargo build`, this command creates an executable file i
 
 If benchmarking, compile in release mode.
 
-## Basics
-
-
 # References
 
 https://doc.rust-lang.org/book/ch01-03-hello-cargo.html

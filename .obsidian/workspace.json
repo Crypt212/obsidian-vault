@@ -11,14 +11,17 @@
             "id": "1a6a033534fcf05b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Software Engineering/Rust Language/Installation.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Software Engineering/Rust Language/Rust.canvas",
+                "viewState": {
+                  "x": -27.780235351716662,
+                  "y": -7.935757963157469,
+                  "zoom": -0.6633333333333336
+                }
               },
-              "icon": "lucide-file",
-              "title": "Installation"
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
         ]
@@ -179,8 +182,8 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Notes/Software Engineering/Tools/cargo.md",
     "Notes/Software Engineering/Rust Language/Installation.md",
+    "Notes/Software Engineering/Tools/cargo.md",
     "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/Rust Language/Rust.md",
     "Notes/Software Engineering/PHP Language/PHPMyAdmin.md",
