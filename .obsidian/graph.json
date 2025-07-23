@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Goals",
-      "color": {
-        "a": 1,
-        "rgb": 15907100
-      }
-    },
-    {
       "query": "tag:topic",
       "color": {
         "a": 1,
-        "rgb": 6938410
+        "rgb": 15907100
       }
     },
     {
@@ -47,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 375,
   "scale": 0.24111742475551717,
-  "close": true
+  "close": false
 }
