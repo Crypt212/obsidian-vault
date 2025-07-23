@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/DevOps.md",
+                "file": "Indexes/DevOps Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps"
+              "title": "DevOps Engineering"
             }
           }
         ],
@@ -220,7 +220,7 @@
     "Atomic Notes/Physics/Properties of Matter",
     "Atomic Notes/Physics/Heat",
     "Atomic Notes/Physics",
-    "Indexes/DevOps.md",
+    "Indexes/DevOps Engineering.md",
     "Tech/Tech.md",
     "Atomic Notes/PHP/Syntax.md",
     "Atomic Notes/PHP/Installation/PHPMyAdmin.md",
