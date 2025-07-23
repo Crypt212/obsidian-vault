@@ -4,7 +4,7 @@
 
 ##### Learn [[Rust Backend]] Tech for the hackathon #important_urgent
 
-##### Learn [[PHP Backend]] for collage training #unimportent_urgent
+##### Learn [[PHP Backend Development]] for collage training #unimportent_urgent
 
 ##### Learn [[Node Backend]] #important_unurgent 
 
