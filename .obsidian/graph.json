@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Atomic Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 2459569
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.25884785286069145,
-  "close": false
+  "scale": 0.17909976110429748,
+  "close": true
 }
