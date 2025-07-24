@@ -15,5 +15,5 @@ let mut x = 6;
 x = 8;
 ```
 
-- Immutablil
+- Immutability's is important w
 # Constant
