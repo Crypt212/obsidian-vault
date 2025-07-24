@@ -1,5 +1,2 @@
 {{date}} {{time}}
 Tags: 
-
-# {{Title}}
-
