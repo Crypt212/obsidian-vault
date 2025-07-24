@@ -28,8 +28,9 @@ x = 8;
 
 - The process of re-declaring the variable with the same name, it can change the type of the variable too:-
 ```rust
-let x = 6;
-let x = "ahmed";
+let x = 6; // this is now 6 
+let x = x + 6; // this is now 12
+let x = "ahmed"; // this now "ahmed"
 ```
 
-- 
+- The shadowing lasts until the end of its scope, for example
