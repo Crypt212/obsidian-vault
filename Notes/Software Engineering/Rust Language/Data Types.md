@@ -17,3 +17,4 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - There's also `isize` and `usize`, whose sizes depend on the architecture of the running machine, 32-bit or 64-bit.
 
+- Integers can have type suffixes to desginat
