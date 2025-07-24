@@ -17,6 +17,6 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - There's also `isize` and `usize`, whose sizes depend on the architecture of the running machine, 32-bit or 64-bit.
 
-- Integer literals can have type suffixes to designate the type of the integer, such as `12u8`.
+- [[Integer]] literals can have type suffixes to designate the type of the integer, such as `12u8`.
 
-- Integer literals can have visual separators to make reading easier, such as `1_435_733`(for  [[Decimals]]), `0xff`(for [[Hex]]), `0o77`(for [[Octal]])
+- [[Integer]] literals can have visual separators to make reading easier, such as `1_435_733` `0xff`, `0o77`, `0b1111_0000` and b
