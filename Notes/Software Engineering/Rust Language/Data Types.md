@@ -54,6 +54,8 @@ fn main() {
 
 ## [[Booleans]]
 
-- [[Booleans]] are represented using `bool`.
+- [[Booleans]] are represented using `bool`, they are one byte in size.
 
 ## [[Characters]]
+
+- Rust’s `char` type is the language’s most primitive alphabetic type.
