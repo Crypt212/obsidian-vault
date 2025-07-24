@@ -26,3 +26,4 @@ x = 8;
 
 # Shadowing
 
+- The process of redeclaring the
