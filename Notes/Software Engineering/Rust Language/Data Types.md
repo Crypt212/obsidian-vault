@@ -11,3 +11,14 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - A _scalar_ type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters.
 
+## Integers
+
+- Integers in rust are represented p
+
+| 8-bit   | `i8`    | `u8`    |
+| ------- | ------- | ------- |
+| 16-bit  | `i16`   | `u16`   |
+| 32-bit  | `i32`   | `u32`   |
+| 64-bit  | `i64`   | `u64`   |
+| 128-bit | `i128`  | `u128`  |
+| arch    | `isize` | `usize` |
