@@ -9,7 +9,7 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 # Scaler Types
 
-- A _scalar_ type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters.
+- A _scalar_ type represents a single value. Rust has four primary scalar types: [[Integers]], [[Floating-point numbers]], [[Booleans]], and [[Characters]].
 
 ## Integers
 
@@ -24,4 +24,5 @@ let x: i32 = 6; // x is a 32-bit signed integer
 	- `0xff` (255 in [[Hex]])
 	- `0o77` (63 in [[Octal]])
 	- `0b1111_0000` (240 in [[Binary]])
-	- `b'A'` ([[Integer]] value of letter)
+	- `b'A'` ([[Integer]] value of letter 'A' in [[ASCII]])
+-
