@@ -11,10 +11,17 @@
             "id": "1a6a033534fcf05b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Notes/Software Engineering/Rust Language/Rust.canvas",
+                "viewState": {
+                  "x": -220,
+                  "y": 40,
+                  "zoom": -0.3685781881861837
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rust"
             }
           }
         ]
