@@ -13,7 +13,7 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 ## Integers
 
-- Integers in rust are represented by `i#` or `u#`, where `i` stands for [[signed integers]], and `u` stands for unsi
+- Integers in rust are represented by `i#` or `u#`, where `i` stands for [[signed integers]], and `u` stands for [[unsigned integers]], and `#` is the a number representing the length of the variable in bits, it can 
 
 | 8-bit   | `i8`    | `u8`    |
 | ------- | ------- | ------- |
