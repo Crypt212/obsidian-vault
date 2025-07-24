@@ -11,17 +11,10 @@
             "id": "1a6a033534fcf05b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/Software Engineering/Rust Language/Rust.canvas",
-                "viewState": {
-                  "x": -220,
-                  "y": 40,
-                  "zoom": -0.3685781881861837
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Rust"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Notes/Software Engineering/Rust Language/Rust.md",
+    "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/Rust Language/Installation.md",
     "Rust.md",
-    "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/PHP Language/PHP.md",
     "Notes/Software Engineering/Tools/cargo.md",
-    "Notes/Software Engineering/Rust Language/Rust.md",
     "Notes/Software Engineering/PHP Language/PHPMyAdmin.md",
     "Notes/Software Engineering/Tools/XAMPP.md",
     "Notes/Software Engineering/Tools/Docker.md",
@@ -218,7 +211,6 @@
     "Notes/Software Engineering/Backend Development/API Design/REST API.md",
     "Topics/RCP API.md",
     "Topics/Syntax.md",
-    "Topics/SOAP API.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Technicals/Backend/API/API.canvas"

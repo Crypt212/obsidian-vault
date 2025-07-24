@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"f78c2feb2d5956d3","type":"text","text":"# Rust\n\nRust is a low-level programming for developing fast and reliable software, it is a compiled statically-typed language with no garbage collection while applying strict rules to preserve better memory management.\n\n","x":-320,"y":-300,"width":600,"height":200},
-		{"id":"ec6d4701e32af268","x":-720,"y":-20,"width":400,"height":400,"type":"file","file":"Notes/Software Engineering/Rust Language/Installation.md"}
-	],
-	"edges":[
-		{"id":"47271c5a86002a28","fromNode":"f78c2feb2d5956d3","fromSide":"left","toNode":"ec6d4701e32af268","toSide":"top"}
-	]
-}
