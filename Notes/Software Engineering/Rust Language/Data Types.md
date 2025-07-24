@@ -19,4 +19,4 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - Integer literals can have type suffixes to designate the type of the integer, such as `12u8`.
 
-- Integer literals can have visual seperators, 
+- Integer literals can have visual seperators to make reading easier, such as `1_435_733`(for  decimals), 0xff(fo)
