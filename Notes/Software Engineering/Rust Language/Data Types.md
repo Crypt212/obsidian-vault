@@ -62,4 +62,10 @@ fn main() {
 
 - `char` values are put in single-quotes, unlike string values, which are put in double-quotes.
 
-- [[Rust]]’s `char` type is four bytes in size and represents a Unicode Scalar Value, which means it can represent a lot more than just ASCII. Accented letters; Chinese, Japanese, and Korean characters; emoji; 
+- [[Rust]]’s `char` type is four bytes in size and represents a Unicode Scalar Value, which means it can represent a lot more than just ASCII. Accented letters; Chinese, Japanese, and Korean characters; emoji; and zero-width spaces are all valid `char` values in [[Rust]].
+
+
+# Compound Types
+
+- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[tuples]] and [[arrays]].
+
