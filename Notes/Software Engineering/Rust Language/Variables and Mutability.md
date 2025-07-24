@@ -3,5 +3,11 @@ Tags:
 
 - Variables are created immutable, meaning this code is invalid:
 ```rust
-let x: String = "ahmed";
+let x = 6;
+x = 7;
+```
+
+- To make mutable variables, you have to prepend `mut` keyword, like this:
+```rust
+let 
 ```
