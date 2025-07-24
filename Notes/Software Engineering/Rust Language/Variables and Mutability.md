@@ -26,4 +26,4 @@ x = 8;
 
 # Shadowing
 
-- The process of redeclaring the
+- The process of re-declaring the variable with the same name, it can change the type of the variable,
