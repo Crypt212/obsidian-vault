@@ -11,9 +11,9 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - A _scalar_ type represents a single value. Rust has four primary scalar types: [[Integers]], [[Floating-point Numbers]], [[Booleans]], and [[Characters]].
 
-## Integers
+## [[Integers]]
 
-- Integers in rust are represented by `i#` or `u#`, where `i` stands for [[signed integers]], and `u` stands for [[unsigned integers]], and `#` is the a number representing the length of the variable in bits, it can be 8, 16, 32, 64 or 128.
+- [[Integers]] in rust are represented by `i#` or `u#`, where `i` stands for [[signed integers]], and `u` stands for [[unsigned integers]], and `#` is the a number representing the length of the variable in bits, it can be 8, 16, 32, 64 or 128.
 
 - There's also `isize` and `usize`, whose sizes depend on the architecture of the running machine, 32-bit or 64-bit.
 
@@ -26,6 +26,30 @@ let x: i32 = 6; // x is a 32-bit signed integer
 	- `0b1111_0000` (240 in [[Binary]])
 	- `b'A'` ([[Integer]] value of letter 'A' in [[ASCII]])
 
-## Floating-point Numbers
+## [[Floating-point Numbers]]
 
-- In Rust, there is `f32` and `f`
+- In Rust, there is `f32` and `f64`.
+
+### #### [Numeric Operations](https://doc.rust-lang.org/book/ch03-02-data-types.html#numeric-operations)
+
+```rust
+```rust
+fn main() {
+    // addition
+    let sum = 5 + 10;
+
+    // subtraction
+    let difference = 95.5 - 4.3;
+
+    // multiplication
+    let product = 4 * 30;
+
+    // division
+    let quotient = 56.7 / 32.2;
+    let truncated = -5 / 3; // Results in -1
+
+    // remainder
+    let remainder = 43 % 5;
+}
+```
+```
