@@ -71,4 +71,6 @@ fn main() {
 
 ## Tuples
 
-- A tuple is a way to group a number of values ta
+- A tuple is a way to group a number of values that can vary in types and sizes into one compound type.
+
+- [[Tuples]] have a fixed length.
