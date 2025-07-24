@@ -1,8 +1,6 @@
 2025-07-23 18:47
 Tags:
 
-# Definition
-
 - Tool for containerising the development project, providing it what it need to run starting with the OS, the run-time environment, the dependencies and many more, all isolated inside a container that can be run on any machine, regardless of its configuration.
 
 ## Images
