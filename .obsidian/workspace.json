@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6a033534fcf05b",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Notes/Software Engineering/Rust Language/Installation.md",
+    "Rust.md",
     "Notes/Software Engineering/Rust Language/Rust.canvas",
     "Notes/Software Engineering/PHP Language/PHP.md",
-    "Notes/Software Engineering/Rust Language/Installation.md",
     "Notes/Software Engineering/Tools/cargo.md",
     "Notes/Software Engineering/Rust Language/Rust.md",
     "Notes/Software Engineering/PHP Language/PHPMyAdmin.md",
