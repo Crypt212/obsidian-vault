@@ -26,4 +26,10 @@ x = 8;
 
 # Shadowing
 
-- The process of re-declaring the variable with the same name, it can change the type of the variable,
+- The process of re-declaring the variable with the same name, it can change the type of the variable too:-
+```rust
+let x = 6;
+let x = "ahmed";
+```
+
+- 
