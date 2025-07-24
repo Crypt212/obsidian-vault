@@ -39,7 +39,9 @@ let x = 6;
 println!("{}", x); // 6
 {
 	let x = "ahmed";
-println!("{}", x); // "ahmed"
+	println!("{}", x); // "ahmed"
 }
 println!("{}", x); // 5
 ```
+
+## Differences between shadowing and 
