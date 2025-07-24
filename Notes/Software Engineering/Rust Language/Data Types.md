@@ -30,9 +30,8 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - In Rust, there is `f32` and `f64`.
 
-### #### [Numeric Operations](https://doc.rust-lang.org/book/ch03-02-data-types.html#numeric-operations)
+### [Numeric Operations](https://doc.rust-lang.org/book/ch03-02-data-types.html#numeric-operations)
 
-```rust
 ```rust
 fn main() {
     // addition
@@ -52,4 +51,7 @@ fn main() {
     let remainder = 43 % 5;
 }
 ```
-```
+
+## [[Booleans]]
+
+- 
