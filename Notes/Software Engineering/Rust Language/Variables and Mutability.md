@@ -3,5 +3,5 @@ Tags:
 
 - Variables are created immutable, meaning this code is invalid:
 ```rust
-let x: & = "ahmed";
+let x: String = "ahmed";
 ```
