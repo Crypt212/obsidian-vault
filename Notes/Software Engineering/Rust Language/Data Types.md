@@ -59,3 +59,5 @@ fn main() {
 ## [[Characters]]
 
 - Rust’s `char` type is the language’s most primitive alphabetic type.
+
+- `char` values are put in single-quotes, unlike string values, which are put in double-quotes.
