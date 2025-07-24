@@ -33,4 +33,13 @@ let x = x + 6; // this is now 12
 let x = "ahmed"; // this now "ahmed"
 ```
 
-- The shadowing lasts until the end of its scope, for example
+- The shadowing lasts until the end of its scope, for example:-
+```rust
+let x = 6;
+println!("{}", x); // 6
+{
+	let x = "ahmed";
+println!("{}", x); // "ahmed"
+}
+println!("{}", x); // 5
+```
