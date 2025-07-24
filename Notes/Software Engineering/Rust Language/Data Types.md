@@ -74,3 +74,15 @@ fn main() {
 - A tuple is a way to group a number of values that can vary in types and sizes into one compound type.
 
 - [[Tuples]] have a fixed length.
+
+```rust
+fn main() {
+    let tup = (500, 6.4, 1);
+
+    let (x, y, z) = tup;
+
+    println!("The value of y is: {y}");
+}
+```
+
+- Tuple elements can be accessed 
