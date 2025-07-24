@@ -18,4 +18,4 @@ x = 8;
 - Immutability's is important when you need to make a variable in the some point of the code that is going to hold a value that you want to make sure that it won't change afterwards.
 # Constant
 
-- Constants 
+- Constants are always immutable, they don't have `mut` prefix and they must always be explicitly annot
