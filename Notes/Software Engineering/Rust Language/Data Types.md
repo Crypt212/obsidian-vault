@@ -15,12 +15,5 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 - Integers in rust are represented by `i#` or `u#`, where `i` stands for [[signed integers]], and `u` stands for [[unsigned integers]], and `#` is the a number representing the length of the variable in bits, it can be 8, 16, 32, 64 or 128.
 
-- There's also `isize` and `usize`, whose 
+- There's also `isize` and `usize`, whose sizes depend on the architecture of the running machine, 32-bit or 64-bit.
 
-| 8-bit   | `i8`    | `u8`    |
-| ------- | ------- | ------- |
-| 16-bit  | `i16`   | `u16`   |
-| 32-bit  | `i32`   | `u32`   |
-| 64-bit  | `i64`   | `u64`   |
-| 128-bit | `i128`  | `u128`  |
-| arch    | `isize` | `usize` |
