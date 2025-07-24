@@ -58,6 +58,8 @@ fn main() {
 
 ## [[Characters]]
 
-- Rust’s `char` type is the language’s most primitive alphabetic type.
+- [[Rust]]’s `char` type is the language’s most primitive alphabetic type.
 
 - `char` values are put in single-quotes, unlike string values, which are put in double-quotes.
+
+- [[Rust]]’s `char` type is four bytes in size and represents a Unicode Scalar Value, which means it can represent a lot more than just ASCII. Accented letters; Chinese, Japanese, and Korean characters; emoji; 
