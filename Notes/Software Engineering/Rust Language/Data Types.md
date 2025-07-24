@@ -67,5 +67,8 @@ fn main() {
 
 # Compound Types
 
-- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[tuples]] and [[arrays]].
+- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[Tuples]] and [[Arrays]].
 
+## Tuples
+
+- A tuple is a way to group a number of values ta
