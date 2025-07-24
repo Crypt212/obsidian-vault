@@ -22,4 +22,5 @@ let x: i32 = 6; // x is a 32-bit signed integer
 - [[Integer]] literals can have visual separators to make reading easier, such as:-
 	- `1_000_000` (one million).
 	- `0xff` (255 in [[Hex]]).
-	- `0o77` (, `0b1111_0000`, `b'A'`
+	- `0o77` (63 in [[Octal]])
+	- `0b1111_0000` (, `b'A'`
