@@ -40,6 +40,7 @@ If benchmarking, compile in release mode.
 
 # Basics
 
+[[Variables and Mutability]]
 
 # References
 
