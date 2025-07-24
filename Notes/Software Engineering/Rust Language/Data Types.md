@@ -54,4 +54,6 @@ fn main() {
 
 ## [[Booleans]]
 
-- 
+- [[Booleans]] are represented using `bool`.
+
+## [[Characters]]
