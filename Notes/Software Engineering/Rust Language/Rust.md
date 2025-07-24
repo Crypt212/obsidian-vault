@@ -41,7 +41,8 @@ If benchmarking, compile in release mode.
 # Basics
 
 ## [[Variables and Mutability]].
-
+## [[Data Types]].
+## 
 # References
 
 https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
