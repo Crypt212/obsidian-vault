@@ -42,6 +42,25 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips array content inside other arrays.
 - [Spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/) performs better than the [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) function because it is a language construct and a function call.
+- PHP allows you to apply the spread operator not only to an array but also to any object that implements the `Traversable` interface. Example:
+```php
+
+class RGB implements IteratorAggregate
+{
+    private $colors = ['red', 'green', 'blue'];
+
+    public function getIterator(): Traversable
+    {
+        return new ArrayIterator($this->colors);
+    }
+}
+
+$rgb = new RGB();
+$colors = [...$rgb];
+
+print_r($colors);
+
+```
 - Generator functions are feasible by just putting `yield` statements in normal functions.
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
