@@ -11,7 +11,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - Alternatively you can just install [[XAMPP]].
 
-## Basics
+## Syntax
+
+- 
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
