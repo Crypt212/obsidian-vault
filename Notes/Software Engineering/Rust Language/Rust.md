@@ -64,7 +64,21 @@ println!("{}", x); // 5
 
 
 
-## [[Data Types]].
+## Data Types
+
+- Every value in Rust is of a certain _data type_, which tells Rust what kind of data is being specified so it knows how to work with that data.
+
+```rust
+let x: i32 = 6; // x is a 32-bit signed integer
+```
+
+### Scaler Types
+
+- A _scalar_ type represents a single value. Rust has four primary scalar types: [[Integers]], [[Floating-point Numbers]], [[Booleans]], and [[Characters]].
+
+### Compound Types
+
+- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[Tuples]] and [[Arrays]].
 ## 
 # References
 
