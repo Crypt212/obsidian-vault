@@ -13,7 +13,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ## Syntax
 
-- 
+- We got `var_dump` function that gives info about given variables, could come in handy for debugging 
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
