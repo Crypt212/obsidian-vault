@@ -42,7 +42,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips array content inside other arrays.
 - [Spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/) performs better than the [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) function because it is a language construct and a function call.
-- [[]]
+- Generator functions are feasible by just putting `yield` statements in normal functions.
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
