@@ -13,7 +13,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ## Syntax
 
-- We got `var_dump` function that gives info about given variables, and `print_r` function for printing variables in a formated way, could come in handy for debugging when used with `die`, if you know what i mean.
+- We got `var_dump` function that gives info about given variables, and `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`, if you know what i mean.
 - Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
 
 | Cast Operator               | Conversion                                                       |
@@ -39,6 +39,13 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 	- [in_array()](https://www.phptutorial.net/php-tutorial/php-in_array/) – check if a value exists in an array.
 	- [array_reverse()](https://www.phptutorial.net/php-tutorial/php-array_reverse/) – reverse the order of elements in an array.
 	- [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) – merge multiple arrays into one.
+	
+- sorting arrays like this:
+	-  [ksort()](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort array keys of an associative array.
+	- [usort()](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
+	- [asort()](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array and maintain the index association.
+	- [uasort()](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function and maintains the index association.
+	- [uksort()](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort the keys of an array with a user-defined comparison function.
 
 - `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips array content inside other arrays.
 - [Spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/) performs better than the [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) function because it is a language construct and a function call.
