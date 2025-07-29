@@ -13,7 +13,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ## Syntax
 
-- We got `var_dump` function that gives info about given variables, could come in handy for debugging 
+- We got `var_dump` function that gives info about given variables, could come in handy for debugging when used with `die`, if you know what i mean.
+- Typecasting in [[PHP]] is just prepending 
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
