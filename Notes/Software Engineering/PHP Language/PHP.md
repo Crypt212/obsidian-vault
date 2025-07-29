@@ -15,7 +15,21 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - We got `var_dump` function that gives info about given variables, could come in handy for debugging when used with `die`, if you know what i mean.
 - Typecasting in [[PHP]] is just prepending `(type_name)` to a variable to cast it, we go these casting operators:
-- 
+ |Cast Operators|Conversion|
+|---|---|
+|(array)|[Array](https://www.phptutorial.net/php-tutorial/php-array/)|
+|(bool) or (boolean)|[Boolean](https://www.phptutorial.net/php-tutorial/php-boolean/)|
+|(int) or (integer)|[Integer](https://www.phptutorial.net/php-tutorial/php-int/)|
+|(object)|[Object](https://www.phptutorial.net/php-oop/php-objects/)|
+|(real), (double), or (float)|[Float](https://www.phptutorial.net/php-tutorial/php-float/)|
+|(string)|[String](https://www.phptutorial.net/php-tutorial/php-string/)|
+
+| Cast Operator       | Conversion |
+| ------------------- | ---------- |
+| (array)             |            |
+| (bool) or (boolean) |            |
+|                     |            |
+
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
