@@ -3,7 +3,7 @@ Tags:
 
 Rust is a low-level programming for developing fast and reliable software, it is a compiled statically-typed language with no garbage collection while applying strict rules to preserve better memory management.
 
-## Installation
+# Installation
 
 - Install [[rustup]] CLI tool managing rust versions and associated tools.
 - Install a linker, could just be the C linker that comes with [[GCC]] or [[Clang]].
