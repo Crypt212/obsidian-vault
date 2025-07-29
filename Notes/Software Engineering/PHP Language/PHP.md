@@ -39,8 +39,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 	- [in_array()](https://www.phptutorial.net/php-tutorial/php-in_array/) – check if a value exists in an array.
 	- [array_reverse()](https://www.phptutorial.net/php-tutorial/php-array_reverse/) – reverse the order of elements in an array.
 	- [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) – merge multiple arrays into one.
-- `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips the 
-- Spread operator performs better than the `[array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/)` function because it is a language construct and a function call
+
+- `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips array content inside other arrays.
+- Spread operator performs better than the [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) function because it is a language construct and a function call
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
