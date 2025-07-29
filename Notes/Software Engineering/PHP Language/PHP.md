@@ -14,7 +14,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 ## Syntax
 
 - We got `var_dump` function that gives info about given variables, could come in handy for debugging when used with `die`, if you know what i mean.
-- Typecasting in [[PHP]] is just prepending `(type_name)` to a variable to cast it, we go these casting operators:
+- Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
 
 | Cast Operator               | Conversion                                                       |
 | --------------------------- | ---------------------------------------------------------------- |
@@ -24,7 +24,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 | (object)                    | [Object](https://www.phptutorial.net/php-oop/php-objects/)       |
 | (real), (double) or (float) | [Float](https://www.phptutorial.net/php-tutorial/php-float/)     |
 | (string)                    | [String](https://www.phptutorial.net/php-tutorial/php-string/)   |
-- [[PHP]] is dynamically-typed, so it permits [type juggling](https://www.phptutorial.net/php-tutorial/php-type-juggling/), where [[PHP]] tries to coerce , fortunately for me there is [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) which allows specfi
+- [[PHP]] is dynamically-typed, so it permits [type juggling](https://www.phptutorial.net/php-tutorial/php-type-juggling/), where [[PHP]] tries to coerce variables types, it shoots type-errors if it can't.
+- Fortunately for me there is [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) which allows specfi
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
