@@ -24,8 +24,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 | (object)                    | [Object](https://www.phptutorial.net/php-oop/php-objects/)       |
 | (real), (double) or (float) | [Float](https://www.phptutorial.net/php-tutorial/php-float/)     |
 | (string)                    | [String](https://www.phptutorial.net/php-tutorial/php-string/)   |
-- [[PHP]] is (sadly for me) dynamically-typed, so it permits [type-juggling](https://www.phptutorial.net/php-tutorial/php-type-juggling/), I can't but that shit here. 
-- There is an amaz
+- [[PHP]] is (sadly for me) dynamically-typed, so it permits [type-juggling](https://www.phptutorial.net/php-tutorial/php-type-juggling/), I can't but that shit here, f
+- There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
