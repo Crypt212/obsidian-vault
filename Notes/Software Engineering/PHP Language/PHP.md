@@ -24,11 +24,14 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 |(real), (double), or (float)|[Float](https://www.phptutorial.net/php-tutorial/php-float/)|
 |(string)|[String](https://www.phptutorial.net/php-tutorial/php-string/)|
 
-| Cast Operator       | Conversion |
-| ------------------- | ---------- |
-| (array)             |            |
-| (bool) or (boolean) |            |
-|                     |            |
+| Cast Operator               | Conversion                                                       |
+| --------------------------- | ---------------------------------------------------------------- |
+| (array)                     | [Array](https://www.phptutorial.net/php-tutorial/php-array/)\|   |
+| (bool) or (boolean)         | [Boolean](https://www.phptutorial.net/php-tutorial/php-boolean/) |
+| (int) or (integer)          | \|[Integer](https://www.phptutorial.net/php-tutorial/php-int/)   |
+| (object)                    | \|[Object](https://www.phptutorial.net/php-oop/php-objects/)     |
+| (real), (double) or (float) |                                                                  |
+| (string)                    |                                                                  |
 
 
 -  Learn PHP Syntax.
