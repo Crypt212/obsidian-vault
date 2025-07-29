@@ -26,7 +26,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 | (string)                    | [String](https://www.phptutorial.net/php-tutorial/php-string/)   |
 - [[PHP]] is dynamically-typed, so it permits [type juggling](https://www.phptutorial.net/php-tutorial/php-type-juggling/), where [[PHP]] tries to coerce variables types, it shoots type-errors if it can't.
 - Fortunately for me there is [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) which enforces types to function parameters and return types.
-- [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) 
+- [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) allows type conversion from 
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
