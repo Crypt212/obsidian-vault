@@ -30,6 +30,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Fortunately for me there is [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) which enforces types to function parameters and return types.
 - [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) allows implicit conversion tho, so there is also [strict mode](https://www.phptutorial.net/php-tutorial/php-strict_types/), which will throw errors if types doesn't match, lovely <3 
 - [variadic functions](https://www.phptutorial.net/php-tutorial/php-variadic-functions/)! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
+- 
 
 ### Arrays
 - arrays in [[PHP]] are like maps, they have key-value pairs. When keys are just the indexes of the values in the array, they are called indexed arrays, else, they are called associative arrays.
@@ -118,7 +119,7 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 $arr = ["img10", "img2", "img1"];
 natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0]) 
 ```
-##### **Other Variants**
+##### Other Variants
 
 - `rsort()`, `arsort()`, `krsort()`: Reverse-order versions.
 - `usort()`, `uasort()`, `uksort()`: Takes user-defined compare function.
