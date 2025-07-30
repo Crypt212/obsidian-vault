@@ -108,13 +108,13 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 ###### [`natsort()`](https://www.php.net/manual/en/function.natsort.php)
 `**
 
-- **Behaviour**: Sorts an array by values using **natural order** (human-friendly, e.g., "`img2`" before `img10`).
-- **Key Association**: **Maintained**.
-- **Use Case**: When sorting strings with numbers (e.g., filenames).
+- **Behaviour**: Sorts an array by values using **natural order** (human-friendly, e.g., `img2` before `img10`).
+- **Key Association**: **Maintained**. (Indexed arrays indexes 
+- Use Case: When sorting strings with numbers (e.g., filenames).
 - **Example**:
-    
-    php
-    
+
+```php
+   
 
 $arr = ["img10", "img2", "img1"];
 natsort($arr); // ["img1", "img2", "img10"] (keys preserved)
