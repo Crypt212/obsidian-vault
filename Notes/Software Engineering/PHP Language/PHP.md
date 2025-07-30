@@ -30,7 +30,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Fortunately for me there is [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) which enforces types to function parameters and return types.
 - [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) allows implicit conversion tho, so there is also [strict mode](https://www.phptutorial.net/php-tutorial/php-strict_types/), which will throw errors if types doesn't match, lovely <3 
 - [variadic functions](https://www.phptutorial.net/php-tutorial/php-variadic-functions/)! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
-- 
+- [[PHP]] has anonymous functions!
 
 ### Arrays
 - arrays in [[PHP]] are like maps, they have key-value pairs. When keys are just the indexes of the values in the array, they are called indexed arrays, else, they are called associative arrays.
