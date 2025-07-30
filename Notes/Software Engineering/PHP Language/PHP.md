@@ -46,7 +46,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - `...` is a [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/), which unzips array content inside other arrays.
 - [Spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/) performs better than the [array_merge()](https://www.phptutorial.net/php-tutorial/php-array_merge/) function because it is a language construct and a function call.
-- PHP allows you to apply the spread operator not only to an array but also to any object that implements the `Traversable` interface. Example:
+- [[PHP]] allows you to apply the [spread operator](https://www.phptutorial.net/php-tutorial/php-spread-operator/) not only to an array but also to any object that implements the `Traversable` interface. Example:
 ```php
 
 class RGB implements IteratorAggregate
@@ -81,6 +81,19 @@ sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
 ```
 
 ##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
+- **Behavior**: Sorts an array by values in ascending order while **preserving key-value pairs**.
+    
+- **Key Association**: **Preserves keys** (ideal for associative arrays).
+    
+- **Use Case**: Sorting associative arrays where you need to maintain keys.
+    
+- **Example**:
+    
+    php
+    
+
+$arr = ["b" => "banana", "a" => "apple", "c" => "cherry"];
+asort($arr); // ["a" => "apple", "b" => "banana", "c" => "cherry"]
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
