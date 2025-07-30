@@ -113,12 +113,13 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 - Use Case: When sorting strings with numbers (e.g., filenames).
 - **Example**:
 
-```php
-   
+```php 
 
 $arr = ["img10", "img2", "img1"];
-natsort($arr); // ["img1", "img2", "img10"] (keys preserved)
+natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0]) 
+```
 ##### Derivations
+
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
