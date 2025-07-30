@@ -32,7 +32,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [variadic functions](https://www.phptutorial.net/php-tutorial/php-variadic-functions/)! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 
 ### Arrays
-- arrays are [indexed](https://www.phptutorial.net/php-tutorial/php-array/) or [associative](https://www.phptutorial.net/php-tutorial/php-associative-arrays/) (basically maps).
+- arrays in [[PHP]] are like maps, they have key-value pairs, when keys are just the ind
 
 - [array_unshift()](https://www.phptutorial.net/php-tutorial/php-array_unshift/) – add one or more elements to the beginning of an array.
 - [array_push()](https://www.phptutorial.net/php-tutorial/php-array_push/) – add one or more elements to the end of an array.
