@@ -67,15 +67,17 @@ print_r($colors);
 ```
 - Generator functions are feasible by just putting `yield` statements in normal functions.
 #### Sorting
+
 - sort() - sort an indexed array in ascending order. reverse is `rsort()`.
 
 - [asort()](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
+- [uasort()](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function and maintains the index association.
+
 - [ksort()](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
+- [uksort()](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort the keys of an array with a user-defined comparison function.
 
 - [usort()](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
 
-- [uasort()](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function and maintains the index association.
-- [uksort()](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort the keys of an array with a user-defined comparison function.
 
 -
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
