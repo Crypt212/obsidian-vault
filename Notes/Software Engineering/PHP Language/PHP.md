@@ -87,14 +87,20 @@ sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
 - **Example**:
 ```php
 
-$arr = ["b" => "banana", "a" => "apple", "c" => "cherry"];
-asort($arr); // ["a" => "apple", "b" => "banana", "c" => "cherry"]
+$arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
+asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
 ```
 
 ##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
 - **Behaviour**: Sorts an array by **keys** in ascending order. 
 - **Key Association**: **Preserves keys**.
-**Use Case**: Sorting associative arrays where you need to maintain keys.
+- **Use Case**: Sorting associative arrays where you need to maintain keys.
+- **Example**:
+```php
+
+$arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
+asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
+```
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
