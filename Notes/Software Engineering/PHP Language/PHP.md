@@ -67,6 +67,7 @@ print_r($colors);
 ```
 - Generator functions are feasible by just putting `yield` statements in normal functions.
 #### Sorting
+- sort() - sort an indexed array in ascending order. reverse is `rsort()`.
 - [ksort()](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort array keys of an associative array. reverse is `krsort()`.
 - [usort()](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
 - [asort()](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array and maintain the index association. reverse is `arsort()`.
