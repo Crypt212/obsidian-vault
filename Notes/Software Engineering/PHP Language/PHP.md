@@ -69,7 +69,7 @@ print_r($colors);
 #### Sorting
 
 ##### Main Functions
-##### [`sort()`](https://www.php.net/manual/en/function.sort.php)
+###### [`sort()`](https://www.php.net/manual/en/function.sort.php)
 
 - **Behaviour**: Sorts an array by **values** in ascending order.
 - **Key Association**: **Does not preserve keys** (re-indexes numeric keys).
@@ -81,7 +81,7 @@ $arr = ["banana", "apple", "cherry"];
 sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
 ```
 
-##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
+###### [`asort()`](https://www.php.net/manual/en/function.asort.php)
 
 - **Behaviour**: Sorts an array by **values** in ascending order.
 - **Key Association**: **Preserves keys**.
@@ -93,7 +93,7 @@ $arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
 asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
 ```
 
-##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
+###### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
 
 - **Behaviour**: Sorts an array by **keys** in ascending order. 
 - **Key Association**: **Preserves keys**.
@@ -105,7 +105,8 @@ $arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
 asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 ```
 
-#####
+###### [`usort()`]
+##### Derivations
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
