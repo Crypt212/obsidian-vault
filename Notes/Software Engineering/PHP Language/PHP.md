@@ -69,17 +69,17 @@ print_r($colors);
 #### Sorting
 
 ##### Indexing array sorting
-- sort() - sort an indexed array in ascending order. reverse is `rsort()`.
-- [usort()](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
+- `sort()` - sort an indexed array in ascending order. reverse is `rsort()`.
+- [`usort()`](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
 
 ##### Associative array sorting
-- [asort()](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
-- [uasort()](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function and maintains the index association.
+- [`asort()`](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
+- [`uasort()`](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function and maintains the index association.
 
-- [ksort()](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
-- [uksort()](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort the keys of an array with a user-defined comparison function.
+- [`ksort()`](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
+- [`uksort()`](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort the keys of an array with a user-defined comparison function.
 
-- `nat`
+- `natsort()` - sort the 
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
