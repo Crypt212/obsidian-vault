@@ -96,7 +96,7 @@ asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
 ###### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
 
 - **Behaviour**: Sorts an array by **keys** in ascending order. 
-- **Key Association**: **Maintains keys**.
+- **Key Association**: **Maintained**.
 - **Use Case**: Sorting associative arrays where you need to maintain keys.
 - **Example**:
 ```php
@@ -108,12 +108,9 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 ###### [`natsort()`](https://www.php.net/manual/en/function.natsort.php)
 `**
 
-- **Behavior**: Sorts an array by values using **natural order** (human-friendly, e.g., "img2" before "img10").
-    
-- **Key Association**: **Preserves keys** (works for both indexed and associative arrays).
-    
+- **Behaviour**: Sorts an array by values using **natural order** (human-friendly, e.g., "`img2`" before `img10`).
+- **Key Association**: **Maintained**.
 - **Use Case**: When sorting strings with numbers (e.g., filenames).
-    
 - **Example**:
     
     php
