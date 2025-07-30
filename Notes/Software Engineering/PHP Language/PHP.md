@@ -73,6 +73,12 @@ print_r($colors);
 - **Behaviour**: Sorts an array by values in ascending order (alphabetically/numerically).
 - **Key Association**: **Does not preserve keys** (re-indexes numeric keys).
 - **Use Case**: Best for indexed arrays where key preservation is not needed.
+- **Example**:
+```php
+
+$arr = ["banana", "apple", "cherry"];
+sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
+```
 
 ##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
