@@ -70,7 +70,7 @@ print_r($colors);
 
 ##### [`sort()`](https://www.php.net/manual/en/function.sort.php)
 
-- **Behaviour**: Sorts an array by values in ascending order (alphabetically/numerically).
+- **Behaviour**: Sorts an array by **values** in ascending order.
 - **Key Association**: **Does not preserve keys** (re-indexes numeric keys).
 - **Use Case**: Best for indexed arrays where key preservation is not needed.
 - **Example**:
@@ -81,7 +81,7 @@ sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
 ```
 
 ##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
-- **Behaviour**: Sorts an array by values in ascending order while **preserving key-value pairs**.
+- **Behaviour**: Sorts an array by **values** in ascending order.
 - **Key Association**: **Preserves keys** (ideal for associative arrays).
 - **Use Case**: Sorting associative arrays where you need to maintain keys.
 - **Example**:
@@ -92,7 +92,7 @@ asort($arr); // ["a" => "apple", "b" => "banana", "c" => "cherry"]
 ```
 
 ##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
-- **Behaviour**: Sorts an array by values in
+- **Behaviour**: Sorts an array by **values** in ascending order. 
 - 
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
