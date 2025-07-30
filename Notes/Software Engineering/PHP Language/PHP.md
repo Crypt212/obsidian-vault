@@ -105,7 +105,8 @@ $arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
 asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 ```
 
-###### [`usort()`]
+###### [`natsort()`](https://www.php.net/manual/en/function.natsort.php)
+
 ##### Derivations
 
 ##### Associative array sorting
