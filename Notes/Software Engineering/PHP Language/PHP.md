@@ -79,7 +79,7 @@ print_r($colors);
 - [`ksort()`](https://www.php.net/manual/en/function.ksort.php) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
 - [`uksort()`](https://www.php.net/manual/en/function.uksort.php) – sort an associative array in using user-defined comparison function, depends on **key**.
 
-- [`natsort()`](https://www.php.net/manual/en/function.natsort.php) - sort an 
+- [`natsort()`](https://www.php.net/manual/en/function.natsort.php) - sort an array
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
