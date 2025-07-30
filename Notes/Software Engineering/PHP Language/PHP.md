@@ -122,16 +122,8 @@ natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0])
 
 - `rsort()`, `arsort()`, `krsort()`: Reverse-order versions.
 - `usort()`, `uasort()`, `uksort()`: Takes user-defined compare function.
-- `natcasesort()`: `natsort()` but 
+- `natcasesort()`: `natsort()` but case-***in***sensitive.
 
-##### Associative array sorting
-- [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
-- [`uasort()`](https://www.php.net/manual/en/function.uasort.php) – sort an associative array with a user-defined comparison function, depends on **value**.
-
-- [`uksort()`](https://www.php.net/manual/en/function.uksort.php) – sort an associative array in using user-defined comparison function, depends on **key**.
-
-- [`natsort()`](https://www.php.net/manual/en/function.natsort.php) - sort an array
-- There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
 
 -  Learn PHP Syntax.
 -  Learn PHP File Handling.
