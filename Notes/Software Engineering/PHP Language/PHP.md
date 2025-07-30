@@ -91,13 +91,15 @@ $arr = ["b" => "banana", "a" => "apple", "c" => "cherry"];
 asort($arr); // ["a" => "apple", "b" => "banana", "c" => "cherry"]
 ```
 
+##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
+- **Behaviour**: Sorts an array by values in
+- 
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
 - [`uasort()`](https://www.php.net/manual/en/function.uasort.php) – sort an associative array with a user-defined comparison function, depends on **value**.
 
-- [`ksort()`](https://www.php.net/manual/en/function.ksort.php) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
 - [`uksort()`](https://www.php.net/manual/en/function.uksort.php) – sort an associative array in using user-defined comparison function, depends on **key**.
 
 - [`natsort()`](https://www.php.net/manual/en/function.natsort.php) - sort an array
