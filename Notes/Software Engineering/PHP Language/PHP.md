@@ -122,6 +122,7 @@ natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0])
 
 - `rsort()`, `arsort()`, `krsort()`: Reverse-order versions.
 - `usort()`, `uasort()`, `uksort()`: Takes user-defined compare function.
+- `natcasesort()`: `natsort()` but 
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
