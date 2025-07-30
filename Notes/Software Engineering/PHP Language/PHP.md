@@ -68,6 +68,7 @@ print_r($colors);
 - Generator functions are feasible by just putting `yield` statements in normal functions.
 #### Sorting
 
+##### Main Functions
 ##### [`sort()`](https://www.php.net/manual/en/function.sort.php)
 
 - **Behaviour**: Sorts an array by **values** in ascending order.
@@ -81,6 +82,7 @@ sort($arr); // ["apple", "banana", "cherry"] (keys reset to 0,1,2)
 ```
 
 ##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
+
 - **Behaviour**: Sorts an array by **values** in ascending order.
 - **Key Association**: **Preserves keys**.
 - **Use Case**: Sorting associative arrays where you need to maintain keys.
@@ -92,6 +94,7 @@ asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
 ```
 
 ##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
+
 - **Behaviour**: Sorts an array by **keys** in ascending order. 
 - **Key Association**: **Preserves keys**.
 - **Use Case**: Sorting associative arrays where you need to maintain keys.
@@ -99,9 +102,10 @@ asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
 ```php
 
 $arr = ["3" => "banana", "2" => "apple", "1" => "cherry"];
-asort($arr); // ["2" => "apple", "3" => "banana", "1" => "cherry"]
+asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 ```
-- [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
+
+#####
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
