@@ -69,7 +69,10 @@ print_r($colors);
 #### Sorting
 
 ##### Indexing array sorting
-- [`sort()`](https://www.php.net/manual/en/function.sort.php) - sort an indexed array in ascending order. reverse is `rsort()`.
+ ###### [`sort()`](https://www.php.net/manual/en/function.sort.php)
+- **Behaviour**: Sorts an array by values in ascending order (alphabetically/numerically).
+- **Key Association**: **Does not preserve keys** (re-indexes numeric keys).
+- **Use Case**: Best for indexed arrays where key preservation is not needed.
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
