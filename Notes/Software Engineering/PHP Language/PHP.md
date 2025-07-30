@@ -118,8 +118,10 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 $arr = ["img10", "img2", "img1"];
 natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0]) 
 ```
-##### Derivations
+##### **Other Variants**
 
+- `rsort()`, `arsort()`, `krsort()`: Reverse-order versions.
+- `usort()`, `uasort()`, uk
 
 ##### Associative array sorting
 - [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
