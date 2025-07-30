@@ -74,10 +74,10 @@ print_r($colors);
 
 ##### Associative array sorting
 - [`asort()`](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
-- [`uasort()`](https://www.phptutorial.net/php-tutorial/php-uasort/) – sort an associative array with a user-defined comparison function, depends on **value**.
+- [`uasort()`](https://www.php.net/manual/en/function.uasort.php) – sort an associative array with a user-defined comparison function, depends on **value**.
 
-- [`ksort()`](https://www.phptutorial.net/php-tutorial/php-ksort/) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
-- [`uksort()`](https://www.phptutorial.net/php-tutorial/php-uksort/) – sort an associative array in using user-defined comparison function, depends on **key**.
+- [`ksort()`](https://www.php.net/manual/en/function.ksort.php) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
+- [`uksort()`](https://www.php.net/manual/en/function.uksort.php) – sort an associative array in using user-defined comparison function, depends on **key**.
 
 - [`natsort()`](https://www.php.net/manual/en/function.natsort.php) - sort an 
 - There is an amazing operator called "spaceship operator", looks like this `<=>`, it 
