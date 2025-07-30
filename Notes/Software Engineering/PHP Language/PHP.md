@@ -68,11 +68,13 @@ print_r($colors);
 - Generator functions are feasible by just putting `yield` statements in normal functions.
 #### Sorting
 
-##### Indexing array sorting
- ###### [`sort()`](https://www.php.net/manual/en/function.sort.php)
+##### [`sort()`](https://www.php.net/manual/en/function.sort.php)
+
 - **Behaviour**: Sorts an array by values in ascending order (alphabetically/numerically).
 - **Key Association**: **Does not preserve keys** (re-indexes numeric keys).
 - **Use Case**: Best for indexed arrays where key preservation is not needed.
+
+##### [`asort()`](https://www.php.net/manual/en/function.asort.php)
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
