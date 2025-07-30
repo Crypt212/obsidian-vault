@@ -92,8 +92,9 @@ asort($arr); // ["a" => "apple", "b" => "banana", "c" => "cherry"]
 ```
 
 ##### [`ksort()`](https://www.php.net/manual/en/function.ksort.php)
-- **Behaviour**: Sorts an array by **values** in ascending order. 
-- 
+- **Behaviour**: Sorts an array by **keys** in ascending order. 
+- **Key Association**: **Preserves keys** (ideal for associative arrays).
+- **Use Case**: Sorting
 - [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
