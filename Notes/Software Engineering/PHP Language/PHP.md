@@ -69,11 +69,11 @@ print_r($colors);
 #### Sorting
 
 ##### Indexing array sorting
-- `sort()` - sort an indexed array in ascending order. reverse is `rsort()`.
-- [`usort()`](https://www.phptutorial.net/php-tutorial/php-usort/) – sort an array with a user-defined function.
+- [`sort()`](https://www.php.net/manual/en/function.sort.php) - sort an indexed array in ascending order. reverse is `rsort()`.
+- [`usort()`](https://www.php.net/manual/en/function.usort.php) – sort an array with a user-defined function.
 
 ##### Associative array sorting
-- [`asort()`](https://www.phptutorial.net/php-tutorial/php-asort/) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
+- [`asort()`](https://www.php.net/manual/en/function.asort.php) – sort an associative array in ascending order, depends on **value**. reverse is `arsort()`.
 - [`uasort()`](https://www.php.net/manual/en/function.uasort.php) – sort an associative array with a user-defined comparison function, depends on **value**.
 
 - [`ksort()`](https://www.php.net/manual/en/function.ksort.php) – sort an associative array in ascending order, depends on **value**. reverse is `krsort()`.
