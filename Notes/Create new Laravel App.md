@@ -1,3 +1,7 @@
 2025-07-31 15:53
-Tags: #
+Tags: 
 
+- Use the [[PHP]] `composer`, run:
+```bash
+composer 
+```
