@@ -9,7 +9,4 @@ composer create-project laravel/laravel your-project-name
 ```bash
 npm install
 ```
-- Setup the database information in the `.env` file:
-```
-``
-```
+- Setup the database information in the `.env` file.
