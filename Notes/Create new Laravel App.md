@@ -3,5 +3,6 @@ Tags:
 
 - Use the [[PHP]] `composer`, run:
 ```bash
-composer 
+composer create-project laravel/laravel your-project-name
 ```
+- Run  install 
