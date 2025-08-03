@@ -70,6 +70,10 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[Callable]]
 - [[Iterators]]
 
+### Special Types
+- [[Resource]]
+- [[null]]
+
 
 ### Functions
 - functions has *local scopes*, can't access outsider variables.
