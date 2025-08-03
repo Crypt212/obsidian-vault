@@ -33,11 +33,12 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[PHP]] has anonymous functions!
 
 - functions has *local scopes*, can't access outsider variables.
+- parameters are passed copy
 #### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
 - can be assigned to variables.
-- can access outsider variables, by adding those variables to ***`use`*** expression.
+- can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
 ### Arrays
 - arrays in [[PHP]] are like maps, they have key-value pairs. When keys are just the indexes of the values in the array, they are called indexed arrays, else, they are called associative arrays.
 
