@@ -21,7 +21,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 ### Constants
 
 - Constants are defined using `define(name, value, casesensitive [deprecated])` function, they are used without the `$`.
-- To check if a constant has been defined, use 
+- To check if a constant has been defined, use `defined(name)` which returns boolean.
 
 ### Printing
 
