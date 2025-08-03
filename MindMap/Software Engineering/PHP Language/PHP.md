@@ -19,8 +19,12 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - When assigning variables to variables, they are passed by value, to pass by reference use `&` before the referenced variable.
 
 ### Constants
-- Constants are created using `define(name, value, casesinsitive [deprecated])` function, sensitive
 
+- Constants are created using `define(name, value, casesensitive [deprecated])` function, they are used without the `$`.
+
+### Printing
+
+### Com
 ### Types
 
 - We got `var_dump` function that gives info about given variables, and `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`, if you know what i mean.
