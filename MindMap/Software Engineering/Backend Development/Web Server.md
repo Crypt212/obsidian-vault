@@ -16,4 +16,5 @@
 
 - Workload is distributed across multiple servers.
 - This approach often involves load-balancers that evenly distribute incoming requests across a cluster of web servers.
-- Examples: [[ngi]]
+- Examples: [[Nginx]]
+
