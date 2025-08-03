@@ -26,6 +26,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - Differences between defining constant in run-time or compile-time:
 	- constants defined in run-time can't be defined inside control blocks, like `if` for example.
+	- run-time constant can be named dynamically, since their names are string values that could come from variables.
+	- 
 
 ### Printing
 
