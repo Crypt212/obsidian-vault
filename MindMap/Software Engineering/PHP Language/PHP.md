@@ -60,12 +60,13 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
 
 ### Scalar Types
-#### Boolean (`bool`)
-#### Integer (`int`)
-#### Float (`float`)
-#### String (`string`)
+-  [[Boolean]] (`bool`)
+- Integer (`int`)
+- Float (`float`)
+- String (`string`)
 ### Compound Types
-- [[Array)]]
+- [[Arrays]]
+- 
 
 
 ### Functions
@@ -97,6 +98,3 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - its body block needs to end with a *semicolon*; since it's an expression.
 - can be assigned to variables.
 - can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
-# References
-
-- Roadmap: https://roadmap.sh/php
