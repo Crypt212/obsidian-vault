@@ -15,7 +15,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ### Variables
 
-- Variables are defined an
+- Variables are defined and used using `$`, for example: `$cat_name = "kitty"`.
+- When assigning variables to variables, they are passed b
 
 ### Types
 
