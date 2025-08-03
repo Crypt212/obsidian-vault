@@ -1,2 +1,2 @@
-- Is some a computer hardware and underlying software that 
+- Is some a computer hardware and underlying software that stores, processes and serves web content, 
 - Stores the databes
