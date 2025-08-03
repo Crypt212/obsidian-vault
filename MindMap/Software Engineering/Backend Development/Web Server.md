@@ -7,4 +7,6 @@
 
 ## Single-Tier Architecture (Single Server)
 
-- A single server is responsibl
+- A single server is responsible for handling and processing requests and serving web content.
+- Used for small websites.
+- Limited by scalability and 
