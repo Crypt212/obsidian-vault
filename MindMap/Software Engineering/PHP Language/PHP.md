@@ -33,7 +33,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[PHP]] has anonymous functions!
 
 - functions has *local scopes*, can't access outsider variables.
-- parameters are passed copy
+- parameters are passed as copies by default, to pass by reference, prefix an `&`.
 #### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
