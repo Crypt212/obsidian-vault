@@ -24,6 +24,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - To check if a constant has been defined, use `defined(name)` which returns boolean.
 - Constants are defined **at compile-time** using `const` function, they are used without the `$`, example: `const MESSAGE = 'hello'`.
 
+- De
+
 ### Printing
 
 - There are some functions for printing variables, info about them and more.
