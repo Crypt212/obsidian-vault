@@ -20,8 +20,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ### Constants
 
-- Constants are defined using `define(name, value, casesensitive [deprecated])` function, they are used without the `$`.
+- Constants are defined **at run-time** using `define(name, value, casesensitive [deprecated])` function, they are used without the `$`.
 - To check if a constant has been defined, use `defined(name)` which returns boolean.
+- Constants are defined **at compile-time** using `const` function, they are used without the `$`.
 
 ### Printing
 
