@@ -59,15 +59,17 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Fortunately for me there is ***type hinting*** which enforces types to function parameters and return types.
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
 
- Scalar Types:
+### Scalar Types
 
-| Cast Operator               |
-| --------------------------- |
-| bool                        |
-| int                         |
-| float                       |
-| string                      |
-
+|        |
+| ------ |
+| bool   |
+| int    |
+| float  |
+| string |
+#### Boolean `bool`
+#### 
+### Compound Types
 ### Functions
 - functions has *local scopes*, can't access outsider variables.
 - parameters are passed by value by default, to pass by reference, prefix an `&`.
