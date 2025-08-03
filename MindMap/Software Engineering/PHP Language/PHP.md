@@ -50,10 +50,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 | bool                        |
 | int                         |
 | float                       |
-| tring                       |
-| (real), (double) or (float) |
-| (string)                    |
-
+| string                      |
+- To check the type, use `gettype(variable)` function.
 - We got `var_dump` function that gives info about given variables, and `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`, if you know what i mean.
 - Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
 
