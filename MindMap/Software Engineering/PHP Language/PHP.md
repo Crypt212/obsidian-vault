@@ -5,7 +5,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ## Installation
 
--  Install [[MariaDB]], [[MySQL]] or any other database.  
+- Install [[MariaDB]], [[MySQL]] or any other database.  
 - Install [[Apache]] and the PHP Apache module, refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server#PHP.
 - install [[PHPMyAdmin]] tool as a user-friendly front end for managing the database.
 
@@ -31,6 +31,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [type hinting](https://www.phptutorial.net/php-tutorial/php-type-hints/) allows implicit conversion tho, so there is also [strict mode](https://www.phptutorial.net/php-tutorial/php-strict_types/), which will throw errors if types doesn't match, lovely <3 
 - [variadic functions](https://www.phptutorial.net/php-tutorial/php-variadic-functions/)! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
+- [[anonymus]]
 
 ### Arrays
 - arrays in [[PHP]] are like maps, they have key-value pairs. When keys are just the indexes of the values in the array, they are called indexed arrays, else, they are called associative arrays.
