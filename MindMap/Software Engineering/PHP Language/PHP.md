@@ -32,7 +32,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
 
-- functions has *local scopes*, can't access outs
+- functions has *local scopes*, can't access outsider variables unless given permission by adding those variables to ***`use`*** expression
 #### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
