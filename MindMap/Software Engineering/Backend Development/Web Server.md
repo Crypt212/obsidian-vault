@@ -18,3 +18,12 @@
 - This approach often involves load-balancers that evenly distribute incoming requests across a cluster of web servers.
 - Examples: [[Nginx]]
 
+## Features of Web Servers
+
+Web servers offer a range of features, including:
+
+- **Content Hosting :** They store and serve web content, including HTML pages, images, videos, and other multimedia files.
+- **Security :** Web servers implement various security mechanisms to protect against unauthorized access and cyberattacks.
+- **Load Balancing :** Some web servers can distribute incoming traffic across multiple server instances to ensure optimal performance and availability.
+- ****Logging and Monitoring :**** They provide tools to track and analyze server performance, user access, and error logs.
+- ****Caching :**** Web servers can cache frequently accessed content to reduce server load and improve response times.
