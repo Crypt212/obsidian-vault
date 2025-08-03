@@ -33,7 +33,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - functions has *local scopes*, can't access outsider variables.
 - parameters are passed as copies by default, to pass by reference, prefix an `&`.
 
-- functions has type ''
+- functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
+	- 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
 
