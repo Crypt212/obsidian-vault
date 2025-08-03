@@ -61,9 +61,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ### Scalar Types
 -  [[Boolean]] (`bool`)
-- Integer (`int`)
-- Float (`float`)
-- String (`string`)
+- [[Integer]] (`int`)
+- [[Float]] (`float`)
+- [[String]] (`string`)
 ### Compound Types
 - [[Arrays]]
 - 
