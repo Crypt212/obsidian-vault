@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array.md",
+                "file": "MindMap/Software Engineering/Rust Language/Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "Rust"
             }
           }
         ]
@@ -179,7 +179,7 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Array.md",
+    "Arrays.md",
     "MindMap/Software Engineering/PHP Language/PHP.md",
     "Arrays.md",
     "Kalid.md",
