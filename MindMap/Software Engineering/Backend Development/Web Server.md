@@ -1,1 +1,1 @@
-- Is some a computer hardware and underlying software handling requests from clients via [[]]
+- Is some a computer hardware and underlying software handling requests from clients via [[HTTP/HTTPS]] Protocols, 
