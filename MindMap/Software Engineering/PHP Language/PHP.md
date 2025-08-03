@@ -44,14 +44,6 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ### Types
 
-- Scalar Types:
-
-| Cast Operator               |
-| --------------------------- |
-| bool                        |
-| int                         |
-| float                       |
-| string                      |
 - To check the type, use `gettype(variable)` function.
 - Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
 
@@ -66,6 +58,16 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[PHP]] is dynamically-typed, so it permits ***type juggling***, where [[PHP]] tries to coerce variables types, it shoots type-errors if it can't.
 - Fortunately for me there is ***type hinting*** which enforces types to function parameters and return types.
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
+
+ Scalar Types:
+
+| Cast Operator               |
+| --------------------------- |
+| bool                        |
+| int                         |
+| float                       |
+| string                      |
+
 ### Functions
 - functions has *local scopes*, can't access outsider variables.
 - parameters are passed by value by default, to pass by reference, prefix an `&`.
