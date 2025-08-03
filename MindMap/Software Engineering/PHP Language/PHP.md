@@ -42,7 +42,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 	- **Static Class Methods**: Any string holding method name like `ClassName::Method` or array containing class name as a first element, and method name in that class as the second element.
 	- **Object Methods**: Same as static class methods but with object name instead of class name.
 	- **Anonymous Functions (Closure objects)**: Functions that can be assigned to variables.
-	- **Invokable Objects**: 
+	- **Invokable Objects**: Objects that has `__invoke()` method.
+
+- To check if something is invokable, 
 
 - functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
 	- 
