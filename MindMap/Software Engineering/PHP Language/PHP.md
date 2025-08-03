@@ -19,7 +19,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - When assigning variables to variables, they are passed by value, to pass by reference use `&` before the referenced variable.
 
 ### Constants
-- Constants are created using `define(name, value)` function, 
+- Constants are created using `define(name, value, casesinsitive [deprecated])` function, sensitive
 
 ### Types
 
