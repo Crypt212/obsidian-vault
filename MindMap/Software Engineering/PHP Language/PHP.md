@@ -25,7 +25,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Constants are defined **at compile-time** using `const` function, they are used without the `$`, example: `const MESSAGE = 'hello'`.
 
 - Differences between defining constant in run-time or compile-time:
-	- constants defined in run-time can't be defined inside control block
+	- constants defined in run-time can't be defined inside control blocks, like `if` for example.
 
 ### Printing
 
