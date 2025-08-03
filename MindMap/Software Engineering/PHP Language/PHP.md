@@ -29,11 +29,13 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[PHP]] is dynamically-typed, so it permits ***type juggling***, where [[PHP]] tries to coerce variables types, it shoots type-errors if it can't.
 - Fortunately for me there is ***type hinting*** which enforces types to function parameters and return types.
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
+### Functions
+- functions has *local scopes*, can't access outsider variables.
+- parameters are passed as copies by default, to pass by reference, prefix an `&`.
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
 
-- functions has *local scopes*, can't access outsider variables.
-- parameters are passed as copies by default, to pass by reference, prefix an `&`.
+
 #### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
