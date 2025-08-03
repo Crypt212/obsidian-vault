@@ -37,14 +37,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ##### `Callable`
 - anything that can be called as a function, this includes:
-	- **Named Functions**:
-```php
-function greet() { echo "Hello!"; }
-$callable = 'greet'; // Callable (string function name)
-call_user_func($callable); // Calls greet()
-```
+	- **Named Functions**: any string 	
 	- Static class methods:
-	-
+
 - functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
 	- 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
