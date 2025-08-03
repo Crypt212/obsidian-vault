@@ -35,7 +35,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - There are some functions for printing variables, info about them and more.
 - echo function is used like this `echo $cat_name;`, it's not an expression, so can't use it in other expressions.
 - print function is used like echo, but it is an expression, and it returns 1.
-- 
+- We got `var_dump` function that gives info about given variables
+- `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`.
 ### Commenting
 
 - Single line using `#` or `//`, multiline using `/* ... */`.
@@ -52,7 +53,6 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 | float                       |
 | string                      |
 - To check the type, use `gettype(variable)` function.
-- We got `var_dump` function that gives info about given variables, and `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`, if you know what i mean.
 - Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
 
 | Cast Operator               | Conversion                                                       |
