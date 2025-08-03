@@ -31,6 +31,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
+
+- functions has *local scopes*, can't access outs
 #### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
