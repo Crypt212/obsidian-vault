@@ -78,7 +78,7 @@ let x: i32 = 6; // x is a 32-bit signed integer
 
 ### Compound Types
 
-- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[Tuples]] and [[MindMap/Software Engineering/Rust Language/Arrays]].
+- _Compound types_ can group multiple values into one type. Rust has two primitive compound types: [[Tuples]] and [[MindMap/Software Engineering/Rust Language/Arrays|Arrays]].
 ## 
 # References
 
