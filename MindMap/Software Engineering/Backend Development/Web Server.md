@@ -10,7 +10,8 @@
 - A single server is responsible for handling and processing requests and serving web content.
 - Used for small websites.
 - Limited by scalability and single point of failure.
-- Examples: 
+- Examples: [[Apache]]
 
 ## Multi-Tier Architecture (Load Balance)
 
+- 
