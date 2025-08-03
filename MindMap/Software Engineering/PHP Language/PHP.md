@@ -60,16 +60,12 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
 
 ### Scalar Types
-
-|        |
-| ------ |
-| bool   |
-| int    |
-| float  |
-| string |
-#### Boolean `bool`
-#### 
+#### Boolean (`bool`)
+#### Integer (`int`)
+#### Float (`float`)
+#### String (`string`)
 ### Compound Types
+#### 
 ### Functions
 - functions has *local scopes*, can't access outsider variables.
 - parameters are passed by value by default, to pass by reference, prefix an `&`.
