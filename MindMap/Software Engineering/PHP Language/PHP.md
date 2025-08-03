@@ -37,8 +37,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 ##### `Callable`
 - anything that can be called as a function, this includes:
-	- **Named Functions**: any string 	
-	- Static class methods:
+	- **Named Functions**: any string variable holding name of a function as a string.	
+	- **Static Class Methods**: any 
 
 - functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
 	- 
