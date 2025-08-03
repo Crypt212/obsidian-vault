@@ -65,37 +65,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 #### Float (`float`)
 #### String (`string`)
 ### Compound Types
-#### 
-### Functions
-- functions has *local scopes*, can't access outsider variables.
-- parameters are passed by value by default, to pass by reference, prefix an `&`.
-
-#### Function Types
-
-##### `Callable`
-- Anything that can be called as a function, this includes:
-
-	- **Named Functions**: Any string variable holding name of a function as a string.	
-	- **Static Class Methods**: Any string holding method name like `ClassName::Method` or array containing class name as a first element, and method name in that class as the second element.
-	- **Object Methods**: Same as static class methods but with object name instead of class name.
-	- **Anonymous Functions (Closure objects)**: Functions that can be assigned to variables.
-	- **Invokable Objects**: Objects that has `__invoke()` method.
-
-- To check if something is callable, pass it to `is_callable()`.
-
-##### `Closure`
-- 
-	- 
-- ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
-- [[PHP]] has anonymous functions!
-
-
-#### ***anonymous functions***
-- functions that doesn't have an name.
-- its body block needs to end with a *semicolon*; since it's an expression.
-- can be assigned to variables.
-- can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
-### Arrays
+##### Arrays
 - arrays in [[PHP]] are like maps, they have key-value pairs. When keys are just the indexes of the values in the array, they are called indexed arrays, else, they are called associative arrays.
 
 - [array_unshift()](https://www.phptutorial.net/php-tutorial/php-array_unshift/) – add one or more elements to the beginning of an array.
@@ -130,7 +100,7 @@ print_r($colors);
 
 ```
 - Generator functions are feasible by just putting `yield` statements in normal functions.
-#### Sorting
+##### Sorting
 
 ##### Main Functions
 ###### [`sort()`](https://www.php.net/manual/en/function.sort.php)
@@ -182,7 +152,7 @@ asort($arr); // ["1" => "cherry", "2" => "apple", "3" => "banana"]
 $arr = ["img10", "img2", "img1"];
 natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0]) 
 ```
-##### Other Variants
+###### Other Variants
 
 - `rsort()`, `arsort()`, `krsort()`: Reverse-order versions.
 - `usort()`, `uasort()`, `uksort()`: Takes user-defined compare function.
@@ -196,6 +166,36 @@ natsort($arr); // ["img1", "img2", "img10"] (keys preserved, [2, 1, 0])
 -  Learn PHP OOP.
 
 
+
+### Functions
+- functions has *local scopes*, can't access outsider variables.
+- parameters are passed by value by default, to pass by reference, prefix an `&`.
+
+#### Function Types
+
+##### `Callable`
+- Anything that can be called as a function, this includes:
+
+	- **Named Functions**: Any string variable holding name of a function as a string.	
+	- **Static Class Methods**: Any string holding method name like `ClassName::Method` or array containing class name as a first element, and method name in that class as the second element.
+	- **Object Methods**: Same as static class methods but with object name instead of class name.
+	- **Anonymous Functions (Closure objects)**: Functions that can be assigned to variables.
+	- **Invokable Objects**: Objects that has `__invoke()` method.
+
+- To check if something is callable, pass it to `is_callable()`.
+
+##### `Closure`
+- 
+	- 
+- ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
+- [[PHP]] has anonymous functions!
+
+
+#### ***anonymous functions***
+- functions that doesn't have an name.
+- its body block needs to end with a *semicolon*; since it's an expression.
+- can be assigned to variables.
+- can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
 # References
 
 - Roadmap: https://roadmap.sh/php
