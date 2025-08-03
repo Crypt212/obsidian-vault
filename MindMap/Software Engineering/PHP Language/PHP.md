@@ -35,6 +35,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 #### Function Types
 
+##### `Callable`
+- anything that can be called as a functin
 - functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
 	- 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
