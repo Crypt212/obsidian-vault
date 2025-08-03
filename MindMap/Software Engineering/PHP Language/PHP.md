@@ -66,7 +66,9 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[String]] (`string`)
 ### Compound Types
 - [[Arrays]]
-- 
+- [[Objects]]
+- [[Callable]]
+- [[Iterators]]
 
 
 ### Functions

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/PHP Language/PHP.md",
+                "file": "Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP"
+              "title": "Array"
             }
           }
         ]
@@ -177,10 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6a033534fcf05b",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/PHP Language/Arrays.md",
+    "Kalid.md",
+    "Array.md",
     "MindMap/Software Engineering/PHP Language/PHP.md",
+    "MindMap/Software Engineering/PHP Language/Arrays.md",
     "MindMap/Software Engineering/Backend Development/Web Server.md",
     "Notes/Setup users and user privilages in MariaDB.md",
     "Notes/Create new Laravel App.md",
@@ -204,8 +206,6 @@
     "Rust.md",
     "Notes/Software Engineering/DevOps Engineering/Containers.md",
     "Notes/Software Engineering/Tools/Docker/Volumes.md",
-    "Notes/Software Engineering/Tools/Docker/Images.md",
-    "Goals & Priorities.md",
     "MindMap/Physics Science",
     "MindMap/Software Engineering",
     "MindMap/Software Engineering/Tools",
