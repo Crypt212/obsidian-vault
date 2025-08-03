@@ -65,7 +65,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[Float]] (`float`)
 - [[String]] (`string`)
 ### Compound Types
-- [[Arrays]]
+- [[MindMap/Software Engineering/PHP Language/Arrays|Arrays]]
 - [[Objects]]
 - [[Callable]]
 - [[Iterators]]

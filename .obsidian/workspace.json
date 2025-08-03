@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array.md",
+                "file": "MindMap/Software Engineering/PHP Language/PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "PHP"
             }
           }
         ]
@@ -177,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Kalid.md",
-    "Array.md",
-    "MindMap/Software Engineering/PHP Language/PHP.md",
     "MindMap/Software Engineering/PHP Language/Arrays.md",
+    "MindMap/Software Engineering/PHP Language/PHP.md",
+    "Arrays.md",
+    "Kalid.md",
     "MindMap/Software Engineering/Backend Development/Web Server.md",
     "Notes/Setup users and user privilages in MariaDB.md",
     "Notes/Create new Laravel App.md",
