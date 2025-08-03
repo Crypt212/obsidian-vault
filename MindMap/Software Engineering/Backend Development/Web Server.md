@@ -5,4 +5,6 @@
 
 - The structure and design of a web server.
 
-## S
+## Single-Tier Architecture (Single Server)
+
+- A single server is responsibl
