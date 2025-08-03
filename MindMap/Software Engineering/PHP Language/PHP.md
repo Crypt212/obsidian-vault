@@ -25,7 +25,8 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 ### Printing
 
 - There are some functions for printing variables, info about them and more.
-- echo function is used like this `echo $cat_name;`, it's not an expre
+- echo function is used like this `echo $cat_name;`, it's not an expression, so can't use it in other expressions.
+- print function is used like echo, but it is an expression, and it retru
 ### Commenting
 
 
