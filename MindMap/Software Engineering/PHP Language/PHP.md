@@ -36,10 +36,11 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 #### Function Types
 
 ##### `Callable`
-- anything that can be called as a function, this includes:
-	- **Named Functions**: any string variable holding name of a function as a string.	
-	- **Static Class Methods**: any array containing class name as a first element, and method name in that class as the second element.
-	- **Object Methods: 
+- Anything that can be called as a function, this includes:
+
+	- **Named Functions**: Any string variable holding name of a function as a string.	
+	- **Static Class Methods**: Any array containing class name as a first element, and method name in that class as the second element.
+	- **Object Methods**: Same as static class methods
 
 - functions has type ***`callable`***, which means that the function can be called, other stuff that can be called are:
 	- 
