@@ -22,7 +22,9 @@ $$
 \frac 1 R_{equivalent} = \frac 1 R_1 + \frac 1 R_2 + \frac 1 R_3 + ...
 $$
 ## Searle's apparatus:-
-
+[^1]
 # Convection
 # Radiation
 	
+
+[^1]: 
