@@ -33,7 +33,7 @@ Q = k \times A \times \frac {T_1 - T_2} {x} \times t
 $$
 - Combine the equations, you get the conductivity of the solid (k):-
 $$
-Q = m \times s_{water} \times (T_3 - T_4)
+k \times  \times \frac  {x} = \frac {m \times s_{water} \times (T_3 - T_4)} {A \times t}
 $$
 # Convection
 # Radiation
