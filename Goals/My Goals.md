@@ -12,4 +12,5 @@
 
 # Priorities
 
-- Currently 
+- Urgently, the physics need to be done daily f
+- Currently you are having collage PHP/Laravel training, its a great
