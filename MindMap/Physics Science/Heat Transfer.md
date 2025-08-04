@@ -44,5 +44,6 @@ $$
 \frac {\Delta Q}{\Delta t} = -kA\Delta T
 $$
 # Radiation
-- Is the process of emitting, transmitting, and receiving energy through space.
+- Referres to the process of emitting, transmitting, and receiving energy through space.
+- also the energy emitted through space.
 - 
