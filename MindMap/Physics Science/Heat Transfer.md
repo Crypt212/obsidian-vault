@@ -44,6 +44,9 @@ $$
 \frac {\Delta Q}{\Delta t} = -kA\Delta T
 $$
 # Radiation
-- Referres to the process of emitting, transmitting, and receiving energy through space.
-- also the energy emitted through space.
-- 
+- Refers to the process of emitting, transmitting, and receiving energy through space.
+- Also refers to the energy emitted through space.
+
+## Black Body
+- Is th
+## Black Body Radiation
