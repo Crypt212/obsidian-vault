@@ -13,5 +13,10 @@
 # Priorities
 
 - The physics need to be done daily to finally finish it at 18 / 8 / 2025. (Urgent & Important)
-- Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn backend with that technology! (Urgent & Important)
-- You participated in the WCHL Hackathon and ICP EG bootcamp, great opporunity to learn web3, rust and blockchain stuff. deadline (Urgent)
+- Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn backend with that technology! 
+- DeadLine 9 / 8 (Urgent & Important)
+- You participated in the WCHL Hackathon and ICP EG bootcamp, great opporunity to learn web3, rust and blockchain stuff. deadline 1 / 11 / 2025 (Urgent & Important)
+
+|     |     |
+| --- | --- |
+|     |     |
