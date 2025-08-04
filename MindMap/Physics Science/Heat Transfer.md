@@ -19,8 +19,10 @@ R_{equivalent} = R_1 + R_2 + R_3 + ...
 $$
 - When 2 or more rods connected in ***parallel*** with different resistances:-
 $$
-\frac 1 R_{equivalent} = \frac 1 R_1 + \frac 1 R
+\frac 1 R_{equivalent} = \frac 1 R_1 + \frac 1 R_2 + \frac 1 R_3 + ...
 $$
+## Searle's apparatus:-
+
 # Convection
 # Radiation
 	
