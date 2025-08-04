@@ -13,4 +13,5 @@
 # Priorities
 
 - The physics need to be done daily to finally finish it at 18 / 8 / 2025. (Urgent & Important)
-- Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn 
+- Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn backend with that technology! (Urgent & Important)
+- 
