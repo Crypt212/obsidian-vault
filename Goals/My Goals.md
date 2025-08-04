@@ -12,5 +12,5 @@
 
 # Priorities
 
-- Urgently, the physics need to be done daily f
+- Urgent and import, the physics need to be done daily to finally finish it at 18 / 8 / 2025.
 - Currently you are having collage PHP/Laravel training, its a great
