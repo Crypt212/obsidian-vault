@@ -23,7 +23,7 @@ $$
 $$
 ## Searle's apparatus:-
 ![[2025-08-04-192614_screenshot.png]]
-- Water used to keep temperature T<sub>2</sub> at a s
+- Water used to keep temperature T<sub>2</sub> at a specific value by absorbing heat, collect it in a beaker after t time, the Amount of heat it
 # Convection
 # Radiation
 	
