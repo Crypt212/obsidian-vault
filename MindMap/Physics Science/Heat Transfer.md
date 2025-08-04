@@ -39,7 +39,9 @@ $$
 
 # Convection
 - is a process of transferring heat through the motion of the heated material itself.
-- **Forced Convection** is convection when material is forced to move (like a bm)
+- **Forced Convection** is convection when material is forced to move (like a bump).
+- **Natural/Free Convection** is convection when material is moved by differences in density.
+- 
 # Radiation
 	
 
