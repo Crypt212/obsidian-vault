@@ -42,4 +42,6 @@ $$a = \frac {absorbed\ power} {incedent\ power}$$
 $$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
 - **Stefan-Boltzmann's Law**:
 $$P = \sigma \times A \times T^4$$
--
+$$P = energy\ of\ radiation\ per\ unit\ time$$
+$$P = energy\ of\ radiation\ per\ unit\ time$$
+$$P = energy\ of\ radiation\ per\ unit\ time$$
