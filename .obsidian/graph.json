@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:MindMap",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 7.1875,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.2135016416881478,
+  "scale": 0.37284360631261304,
   "close": true
 }
