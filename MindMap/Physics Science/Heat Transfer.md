@@ -5,7 +5,7 @@
 - **Thermal Conductivity**: is the ability of material to conduct heat.
 
 $$\begin{equation}
-\frac {\Delta Q}{\Delta t} = -kA\frac
+\frac {\Delta Q}{\Delta t} = -kA\frac{\ T}{}
 \end{equation}$$
 # Convection
 # Radiation
