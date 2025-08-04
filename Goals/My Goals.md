@@ -4,4 +4,5 @@
 - [[Learn NodeJS]] & [[Learn Express]]: Because you already got a lot of experience in JS/TS and testing them.
 - [[Learn APIs]]: Part of your backend roadmap.
 - [[Learn Database Design]]: That will be easy, you already in the middle of it.
-- [[Learn OOAD and P]]
+- [[Learn OOAD and Software Development Process]]: That will make you rock.
+- [[Learn DDD]]: That 
