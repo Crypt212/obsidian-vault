@@ -56,8 +56,7 @@ $$
 E= \frac {\Delta U} {\Delta t \times \Delta A \times \Delta \omega}
 $$
 - **Absorptive Power**: The ratio of absorbed power to all indecent power.
-$$a = \frac {absorbed_power} {all$$
-
-
-
-$$\frac {E_{body}} {a_{body}} = E_{black body}$$
+$$a = \frac {absorbed\ power} {incedent\ power}$$
+- **Kirchhoff's Law**:
+$$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
+- S
