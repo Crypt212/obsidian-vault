@@ -59,4 +59,7 @@ $$
 $$a = \frac {absorbed\ power} {incedent\ power}$$
 - **Kirchhoff's Law**:
 $$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
-- S
+- **Stefan-Boltzmann's Law**:
+$$
+\R
+$$
