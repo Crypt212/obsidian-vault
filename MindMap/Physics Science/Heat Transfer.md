@@ -17,7 +17,10 @@ R = \frac {x} {kA} \rightarrow
 $$
 R_{equivalent} = R_1 + R_2 + R_3 + ...
 $$
-- When 
+- When 2 or more rods connected in ***parallel*** with different resistances:-
+$$
+\frac 1 R_{equivalent} = \frac 1 R_1 + \frac 1 R
+$$
 # Convection
 # Radiation
 	
