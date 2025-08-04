@@ -37,11 +37,12 @@ k = \frac {x \times m \times s_{water} \times (T_3 - T_4)} {A \times t \times (T
 $$
 
 # Convection
-- is a process of transferring heat through the motion of the heated material itself.
+- Is a process of transferring heat through the motion of the heated material itself.
 - **Forced Convection** is convection when material is forced to move (like a bump).
 - **Natural/Free Convection** is convection when material is moved by differences in density.
 $$
 \frac {\Delta Q}{\Delta t} = -kA\Delta T
 $$
 # Radiation
+- Is the process of emitting, transmitting, and receiving energy through space.
 - 
