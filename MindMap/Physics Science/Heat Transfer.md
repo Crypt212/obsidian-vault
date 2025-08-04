@@ -29,8 +29,9 @@ Q = m \times s_{water} \times (T_3 - T_4)
 $$
 - The transferred heat inside the rod after time t is:-
 $$
-Q = k \times A \times \frac {T_1 - T-2} {}
+Q = k \times A \times \frac {T_1 - T_2} {x} \times t
 $$
+
 # Convection
 # Radiation
 	
