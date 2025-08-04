@@ -2,7 +2,6 @@
 
 [link](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xTKNyWpm7XZ63j-HntTyvC)
 
-## Learn Laravel
 
     - [ ] What is Laravel & Why You Should Learn It
     - [ ] What You Need to Know Before Learning Laravel
