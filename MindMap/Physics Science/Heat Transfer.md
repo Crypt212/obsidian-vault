@@ -53,5 +53,6 @@ $$
 - Is the radiations emitted by black body.
 - **Emissive Power**: The amount of energy radiated per area per time per solid angle
 $$
-E= \frac {\Delta U} {\Delta t \times \Delta A \times \Delta }
+E= \frac {\Delta U} {\Delta t \times \Delta A \times \Delta \omega}
 $$
+- **Absorptive Power**: The ratio 
