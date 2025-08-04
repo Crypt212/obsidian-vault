@@ -1,7 +1,7 @@
 # Heat
 
 - [ ] Heat & Temperature (22 pages)
-- [ ] Principe of Caorimetry (14 peges)
+- [ ] Principe of Caorimetry (14 pages)
 - [ ] Heat Transfer (26 pages)
 - [ ] Kinetic Theory of Gases (14 pages)
 
