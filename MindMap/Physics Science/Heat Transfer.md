@@ -46,4 +46,4 @@ $$P = energy\ of\ radiation\ per\ unit\ time$$
 $$\sigma = stefen-boltzmann\ constant = 5.67\times 10^{-8}\frac W {m^2\times K^4}$$
 - For body that *isn't* perfect black body:-
 $$P = e \times \sigma \times A \times T^4$$
-$$ e = emissivity\ of\ body,\ 0\lesstha$$
+$$ e = emissivity\ of\ body,\ 0\lte$$
