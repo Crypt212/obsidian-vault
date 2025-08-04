@@ -49,4 +49,7 @@ $$P = e \times \sigma \times A \times T^4$$
 $$ e = emissivity\ of\ body,\ 0\le e \le 1$$
 - e = 1 is perfect black body.
 
-- Newton's Cooling Law
+- **Newton's Cooling Law**:
+$$
+- \frac {\Delta T} {\Delta t} = b \times 
+$$
