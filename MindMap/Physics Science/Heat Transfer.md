@@ -48,5 +48,7 @@ $$
 - Also refers to the energy emitted through space.
 
 ## Black Body
-- Is th
+- Is a body that absorbs all radiations falling on it.
 ## Black Body Radiation
+- Is the radiations emitted by black body.
+- Emmissive Power
