@@ -7,7 +7,8 @@
 $$\begin{equation}
 \frac {\Delta Q}{\Delta t} = -kA\times\frac{T_1 - T_0}x
 \end{equation}$$
-- **Th
+- **Thermal Resistance** (R): is the resistance of the metrical to conduct heat.
+
 # Convection
 # Radiation
 	
