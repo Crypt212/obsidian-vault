@@ -1,7 +1,7 @@
 
 # Goals Dump
 
-1. **[[Learn PHP]]: Because it's the curriculum of the current training you are having, take the chance to learn it!
+1. **[[Learn PHP]]**: Because it's the curriculum of the current training you are having, take the chance to learn it!
 2. **[[Learn Laravel]]**: To complete your way as PHP Backend dev.
 2. **[[Learn NodeJS]] & [[Learn Express]]**: Because you already got a lot of experience in JS/TS and testing them.
 2. **[[Learn APIs]]**: Part of your backend roadmap.
@@ -12,4 +12,4 @@
 
 # Priorities
 
-- curren
+- currently you bla bla bla
