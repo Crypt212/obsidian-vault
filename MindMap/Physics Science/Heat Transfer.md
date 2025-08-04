@@ -13,7 +13,10 @@ $$\begin{equation}
 R = \frac {x} {kA} \rightarrow 
 \frac {\Delta Q}{\Delta t} = - \frac {(T_1 - T_0)} R
 \end{equation}$$
-- When to 2 or more rods connected in series with different resistances
+- When to 2 or more rods connected in series with different resistances:-
+$$
+R_{equevilant}
+$$
 # Convection
 # Radiation
 	
