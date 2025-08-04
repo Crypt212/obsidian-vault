@@ -25,8 +25,9 @@ $$
 ![[2025-08-04-192614_screenshot.png]]
 - Water used to keep temperature T<sub>2</sub> at a specific value by absorbing heat, collect it in a beaker after t time, the Amount of heat it loses in that time is:-
 $$
-Q = m \times s
+Q = m \times s_{water} \times (T_3 - T_4)
 $$
+- 
 # Convection
 # Radiation
 	
