@@ -61,5 +61,5 @@ $$a = \frac {absorbed\ power} {incedent\ power}$$
 $$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
 - **Stefan-Boltzmann's Law**:
 $$
-\R
+\ruo \times A \times T\sup
 $$
