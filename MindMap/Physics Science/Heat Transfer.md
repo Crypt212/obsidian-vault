@@ -5,7 +5,7 @@
 - **Thermal Conductivity**: is the ability of material to conduct heat.
 
 $$\begin{equation}
-\triangle
+\delta
 \end{equation}$$
 # Convection
 # Radiation
