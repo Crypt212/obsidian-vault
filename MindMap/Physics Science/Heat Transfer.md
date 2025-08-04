@@ -43,5 +43,5 @@ $$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
 - **Stefan-Boltzmann's Law**:
 $$P = \sigma \times A \times T^4$$
 $$P = energy\ of\ radiation\ per\ unit\ time$$
-$$P = energy\ of\ radiation\ per\ unit\ time$$
+$$\sigma = stefen-boltzmann\ constant = 5.67 \times 10^{-8} fra$$
 $$P = energy\ of\ radiation\ per\ unit\ time$$
