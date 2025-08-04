@@ -51,4 +51,4 @@ $$
 - Is a body that absorbs all radiations falling on it.
 ## Black Body Radiation
 - Is the radiations emitted by black body.
-- Emmissive Power
+- **Emissive Power**: The amount of energy radiated per area per time per 
