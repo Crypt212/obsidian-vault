@@ -22,6 +22,7 @@ $$
 \frac 1 R_{equivalent} = \frac 1 R_1 + \frac 1 R_2 + \frac 1 R_3 + ...
 $$
 ## Searle's apparatus:-
+- This is a device to measure thermal conductivity of a solid.
 ![[2025-08-04-192614_screenshot.png]]
 - Water used to keep temperature T<sub>2</sub> at a specific value by absorbing heat, collect it in a beaker after t time, the Amount of heat it loses in that time is:-
 $$
@@ -35,7 +36,9 @@ $$
 $$
 k = \frac {x \times m \times s_{water} \times (T_3 - T_4)} {A \times t \times (T_1 - T_2)}
 $$
+
 # Convection
+- is a process
 # Radiation
 	
 
