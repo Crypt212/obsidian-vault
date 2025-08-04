@@ -1,5 +1,3 @@
 
-
-# Dive into the backend world
-
-- Learn a frame work 
+- Learn a [[PHP]] language because it's the curriculum of the current training you are having, take the chance to learn it!
+- Learn 
