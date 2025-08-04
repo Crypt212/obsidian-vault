@@ -41,9 +41,7 @@ $$
 - **Forced Convection** is convection when material is forced to move (like a bump).
 - **Natural/Free Convection** is convection when material is moved by differences in density.
 $$
-\frac {\Delta Q}{\Delta t} = -kA\times 
+\frac {\Delta Q}{\Delta t} = -kA\Delta T
 $$
 # Radiation
-	
-
-[^1]: 
+- 
