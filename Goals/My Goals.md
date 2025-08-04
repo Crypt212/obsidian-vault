@@ -17,6 +17,6 @@
 - DeadLine 9 / 8 (Urgent & Important)
 - You participated in the WCHL Hackathon and ICP EG bootcamp, great opporunity to learn web3, rust and blockchain stuff. deadline 1 / 11 / 2025 (Urgent & Important)
 
-| Goal                    | Deadline  | Priority |
-| ----------------------- | --------- | -------- |
-| The pass physics summer | 18/8/2025 |          |
+| Goal                    | Deadline  | Priority | Urgency |
+| ----------------------- | --------- | -------- | ------- |
+| The pass physics summer | 18/8/2025 | HH       |         |
