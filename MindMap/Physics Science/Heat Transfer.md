@@ -9,7 +9,8 @@ $$\begin{equation}
 \end{equation}$$
 - **Thermal Resistance** (R): is the resistance of the metrical to conduct heat.
 $$\begin{equation}
-R = \frac {x} {kA} ===>
+R = \frac {x} {kA} \rightarrow 
+\frac {\Delta Q}{\Delta t} = -R \times (T_1 - T_0)
 \end{equation}$$
 # Convection
 # Radiation
