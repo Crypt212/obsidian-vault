@@ -55,4 +55,5 @@ $$
 $$
 E= \frac {\Delta U} {\Delta t \times \Delta A \times \Delta \omega}
 $$
-- **Absorptive Power**: The ratio 
+- **Absorptive Power**: The ratio of absorbed power to all indecent power.
+$$\frac {E_{body}} {a_{body}}$$
