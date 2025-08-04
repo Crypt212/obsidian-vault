@@ -4,9 +4,9 @@
 - **Heat Conduction**: is the process where heat i transferred due to molecules collisions.
 - **Thermal Conductivity**: is the ability of material to conduct heat.
 
-$$/begin{equation}
-
-/end{equation}$$
+$$\begin{equation}
+\triangle
+\end{equation}$$
 # Convection
 # Radiation
 	
