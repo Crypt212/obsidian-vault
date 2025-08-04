@@ -38,7 +38,8 @@ k = \frac {x \times m \times s_{water} \times (T_3 - T_4)} {A \times t \times (T
 $$
 
 # Convection
-- is a process
+- is a process of transferring heat through the motion of the heated material itself.
+- **Forced Convection** is convection when material is forced to move (like a bm)
 # Radiation
 	
 
