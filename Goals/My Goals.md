@@ -12,4 +12,4 @@
 
 # Priorities
 
-- currently you bla bla bla
+- Currently 

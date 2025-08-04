@@ -2,7 +2,7 @@
 
 - [ ] Heat & Temperature (22 pages)
 - [ ] Principe of Caorimetry (14 pages)
-- [ ] Heat Transfer (26 pages)
+- [x] Heat Transfer (26 pages)
 - [ ] Kinetic Theory of Gases (14 pages)
 
 # Properties of Matter

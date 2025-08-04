@@ -40,11 +40,11 @@
 
 ## Full PHP 8 Tutorial
 
-- [ ] How To Install PHP & What Are Web Servers 
-- [ ] Basic PHP Syntax 
-- [ ] What Are Constants & Variable Variables In PHP 
-- [ ] PHP Data Types - Typecasting Overview & How It Works 
-- [ ] PHP Boolean Data Type 
+- [x] How To Install PHP & What Are Web Servers 
+- [x] Basic PHP Syntax 
+- [x] What Are Constants & Variable Variables In PHP 
+- [x] PHP Data Types - Typecasting Overview & How It Works 
+- [x] PHP Boolean Data Type 
 - [ ] PHP Integer Data type 
 - [ ] PHP Float Data Type 
 - [ ] PHP String Data Type - Heredoc & Nowdoc Syntax 
