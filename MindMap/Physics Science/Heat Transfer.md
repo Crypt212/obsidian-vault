@@ -60,6 +60,4 @@ $$a = \frac {absorbed\ power} {incedent\ power}$$
 - **Kirchhoff's Law**:
 $$\frac {E_{body}} {a_{body}} = E_{black\ body}$$
 - **Stefan-Boltzmann's Law**:
-$$
-\ruo \times A \times T\sup
-$$
+$$P = \sigma \times A \times T^4$$
