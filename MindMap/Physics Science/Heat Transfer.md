@@ -51,4 +51,7 @@ $$
 - Is a body that absorbs all radiations falling on it.
 ## Black Body Radiation
 - Is the radiations emitted by black body.
-- **Emissive Power**: The amount of energy radiated per area per time per 
+- **Emissive Power**: The amount of energy radiated per area per time per solid angle
+$$
+E= \frac {\Delta U} {\Delta t \times \Delta A \times \Delta }
+$$
