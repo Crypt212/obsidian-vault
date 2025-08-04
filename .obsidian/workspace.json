@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "d51ab4162f2d61fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "298b2423d8d2e314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6a033534fcf05b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db5079ff6e4ddd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5715fda927c7ba34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ebd2dd3f286b37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d99cde948719905",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sub-topic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "912fbc6217294f5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "47a550eb51dfa794",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce6386e4a4cb806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee68e2a82f5716ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ad516f3ac6ee1072",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2454c3673c2e3308",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf47f0e1345aa8e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "be6b36747c8e0517",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1a6a033534fcf05b",
+  "lastOpenFiles": [
+    "MindMap/Physics Science/Physics 101.md",
+    "MindMap/Physics Science/Physics 101.md~",
+    "Goals/Finish Physics Summer.md",
+    "MindMap/Physics Science/Heat & Temperature.md",
+    "MindMap/Physics Science/Heat Transfer.md",
+    "2025-08-04-192614_screenshot.png",
+    "Goals/My Goals.md",
+    "Goals/My Goals.md~",
+    "Goals/Learn PHP.md",
+    "Goals/Learn Database Design.md",
+    "Goals/Learn Laravel.md",
+    "Goals/Learn Rust.md",
+    "Goals/Learn Rust.md~",
+    "Goals/learn-php.md",
+    "Goals/learn-database-design.md",
+    "Goals/Learn Laravel.md~",
+    "Goals/learn-php.md~",
+    "Goals/learn-database-design.md~",
+    "Goals/Finish Physics Summer.md~",
+    "Goals/finish Physics-summer.md",
+    "Goals/finish Physics Summer.md",
+    "MindMap/Software Engineering/Tools/Apache.md",
+    "MindMap/Software Engineering/Rust Language/Rust.md",
+    "MindMap/Software Engineering/Rust Language/Arrays.md",
+    "MindMap/Software Engineering/PHP Language/PHP.md",
+    "MindMap/Software Engineering/Rust Language/Arrays.md",
+    "Kalid.md",
+    "MindMap/Software Engineering/PHP Language/Arrays.md",
+    "MindMap/Software Engineering/Backend Development/Web Server.md",
+    "Notes/Setup users and user privilages in MariaDB.md",
+    "Notes/Create new Laravel App.md",
+    "MindMap/Software Engineering/Backend Development/Backend Development.md",
+    "MindMap/Software Engineering/Internet Computer Protocol/Internet Computer Protocol.md",
+    "Notes/Software Engineering/Rust Language/Rust.canvas",
+    "MindMap/Physics Science",
+    "MindMap/Software Engineering",
+    "MindMap/Software Engineering/Tools",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Technicals/Backend/API/API.canvas"
+  ]
+}

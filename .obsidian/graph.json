@@ -11,7 +11,7 @@
       "query": "tag:topic",
       "color": {
         "a": 1,
-        "rgb": 15907100
+        "rgb": 1858802
       }
     },
     {
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "file:My Goals",
+      "color": {
+        "a": 1,
+        "rgb": 16504344
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 7.1875,
   "linkStrength": 1,
   "linkDistance": 375,
-  "scale": 0.17849562646041278,
-  "close": false
+  "scale": 0.23788052477228228,
+  "close": true
 }
