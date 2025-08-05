@@ -7,7 +7,7 @@
 - [ ] **[[Learn PHP]]**: Because it's the curriculum of the current training you are having, take the chance to learn it!
 - [ ] **[[Learn Laravel]]**: To complete your way as PHP Backend dev.
 - [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
-- [ ] **[[Learn APIs]]**: Part of your backend roadmap.
+- [ ] **[[Learn APIs]]**: Part of your backend learning ma.
 - [ ] **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
@@ -24,7 +24,7 @@
 
 | Goal                                                                                                                                                              | Deadline  | Priority |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- |
-| Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn backend with that technology! | 09/8/2025 | HH       |
+| Manage the job board app                                                                                                                                          | 09/8/2025 | HHH      |
+| Currently you are having collage PHP/Laravel training, since time is already wasted , let's take it as a great opportunity to learn backend with that technology! | 01/9/2025 | HH       |
 | The pass physics summer                                                                                                                                           | 18/8/2025 | HH       |
 | You participated in the WCHL Hackathon and ICP EG bootcamp, great opporunity to learn web3, rust and blockchain stuff                                             | 1/11/2025 | H        |
-| Manage the job board app,                                                                                                                                         |           |          |
