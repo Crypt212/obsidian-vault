@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Learn PHP.md",
+                "file": "Notes/Create new Laravel App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn PHP"
+              "title": "Create new Laravel App"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
-    "Goals/My Goals.md",
-    "Goals/Learn PHP.md",
-    "Goals/Learn Rust.md",
     "Goals/Learn Laravel.md",
+    "Goals/Learn PHP.md",
+    "Goals/My Goals.md",
+    "Goals/Learn Rust.md",
     "Goals/Learn Database Design.md",
     "Goals/Finish Physics Summer.md",
     "MindMap/Physics Science/Physics 101.md",
