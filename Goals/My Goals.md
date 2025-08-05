@@ -1,14 +1,24 @@
 
 # Goals Dump
 
-1. **[[Learn PHP]]**: Because it's the curriculum of the current training you are having, take the chance to learn it!
-2. **[[Learn Laravel]]**: To complete your way as PHP Backend dev.
-2. **[[Learn NodeJS]] & [[Learn Express]]**: Because you already got a lot of experience in JS/TS and testing them.
-2. **[[Learn APIs]]**: Part of your backend roadmap.
-2. **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
-2. **[[Learn OOAD and Software Development Process]]**: That will make you rock.
-2. **[[Learn DDD]]**: That will make you rock harder.
-2. **[[Finish Physics Summer]]**: Finish your fucking summer!!
+## Time-bounded Tasks
+
+- [ ] **[[Manage Job Board App]]**: You will learn to be come a good team manager.
+- [ ] **[[Learn PHP]]**: Because it's the curriculum of the current training you are having, take the chance to learn it!
+- [ ] **[[Learn Laravel]]**: To complete your way as PHP Backend dev.
+- [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
+- [ ] **[[Learn APIs]]**: Part of your backend roadmap.
+- [ ] **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
+- [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
+- [ ] **[[Learn DDD]]**: That will make you rock harder.
+- [ ] **[[Finish Physics Summer]]**: Finish your fucking summer!!
+- [ ] **[[Learn Network]]**: That will help you become a T-shaped software engineer and have more background useful for backend development.
+- [ ] **[[Learn Design Patterns]]**: That is a good part on your OOP skills.
+
+## Habits
+
+2. Solve one NeetCode/LeetCode problem every 3 days.
+2. Solve one NeetCode/LeetCode problem every 3 days.
 
 # Priorities
 
