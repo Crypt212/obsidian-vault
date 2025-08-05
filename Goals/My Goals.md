@@ -7,7 +7,7 @@
 - [ ] **[[Learn PHP]]**: Because it's the curriculum of the current training you are having, take the chance to learn it!
 - [ ] **[[Learn Laravel]]**: To complete your way as PHP Backend dev.
 - [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
-- [ ] **[[Learn APIs]]**: Part of your backend learning ma.
+- [ ] **[[Learn APIs]]**: Part of your backend learning plan.
 - [ ] **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
