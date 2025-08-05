@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Learn PHP.md",
-                "mode": "preview",
+                "file": "Goals/My Goals.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn PHP"
+              "title": "My Goals"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "1a6a033534fcf05b",
   "lastOpenFiles": [
+    "Goals/Learn PHP.md",
     "Goals/My Goals.md",
     "Goals/Learn Rust.md",
-    "Goals/Learn PHP.md",
     "Goals/Learn Laravel.md",
     "Goals/Learn Database Design.md",
     "Goals/Finish Physics Summer.md",
