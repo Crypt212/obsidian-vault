@@ -11,13 +11,14 @@
             "id": "fdb6777661d66354",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Backend Development/Untitled.base",
-                "viewName": "Table"
+                "file": "MindMap/Software Engineering/Backend Development/Web Server.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Web Server"
             }
           }
         ]
@@ -177,9 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb6777661d66354",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "MindMap/Software Engineering/Javascript Language/Untitled",
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
+    "MindMap/Software Engineering/Backend Development/Untitled.base",
     "MindMap/Software Engineering/Network/Protocols/HTTP.md",
     "MindMap/Software Engineering/Javascript Language/Javascript.md",
     "MindMap/Software Engineering/Backend Development/Web Architecture.md",
@@ -205,7 +208,6 @@
     "2025-08-04-192614_screenshot.png",
     "Untitled.canvas",
     "Untitled.base",
-    "MindMap/Software Engineering/Backend Development/Untitled.base",
     "MindMap/Software Engineering/UML",
     "Goals/Learn Network.md",
     "Goals/Learn MEAN Stack.md",
@@ -215,7 +217,6 @@
     "MindMap/Software Engineering/Internet Computer Protocol/ICP.md",
     "MindMap/Software Engineering/Backend Development/URI.md",
     "MindMap/Software Engineering/Backend Development/World Wide Web.md",
-    "MindMap/Software Engineering/Database Engineering/Database Design.md",
     "2025-08-14-200447_screenshot.png",
     "2025-08-14-200441_screenshot.png",
     "2025-08-14-200434_screenshot.png",
