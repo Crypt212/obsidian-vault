@@ -2,31 +2,31 @@
 
 1. Getting Started
 
-- [ ] Introduction
-- [ ] The Reationa Mode
-- [ ] Querying Reationa Databases
+- [x] Introduction
+- [x] The Reationa Mode
+- [x] Querying Reationa Databases
 
 2. Introduction and Reationa Databases
 
-- [ ] Introduction
-- [ ] The Reationa Mode
-- [ ] Querying Reationa Databases
+- [x] Introduction
+- [x] The Reationa Mode
+- [x] Querying Reationa Databases
     
 3. Reationa Agebra
 
-- [ ] Seect, Project, Join
-- [ ] Set Operators, Renaming, Notation
-- [ ] Reationa Agebra Quiz
+- [x] Seect, Project, Join
+- [x] Set Operators, Renaming, Notation
+- [x] Reationa Agebra Quiz
     
 4. Reationa Design Theory
 
-- [ ] Reationa Design Overview
-- [ ] Functiona Dependencies
-- [ ] Boyce-Codd Norma Form
-- [ ] Mutivaued Dependencies and Norma Form
-- [ ] Shortcomings of BCNF/4NF
-- [ ] Functiona Dependencies
-- [ ] Mutivaued Dependencies
+- [x] Reationa Design Overview
+- [x] Functiona Dependencies
+- [x] Boyce-Codd Norma Form
+- [x] Mutivaued Dependencies and Norma Form
+- [x] Shortcomings of BCNF/4NF
+- [x] Functiona Dependencies Quiz
+- [ ] Mutivaued Dependencies Quiz
 - [ ] Normaization Quiz
     
 5. Unified Modeing Language

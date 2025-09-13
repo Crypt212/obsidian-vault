@@ -1,0 +1,12 @@
+- Database design is the art of creating flexible databases that actually represent the real-life system of data which makes it convenient to manipulate data with minimal anomalies.
+# Concepts
+
+| **Candidate Key (Key)**<br> | A set of attributes (could be one attribute) identifying each record.                                                                                                                                                   |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Super key**               | A set of attributes containing a key (could be just the key).                                                                                                                                                           |
+| **Primary Key**             | A specific candidate key chosen to uniquely identify tuples in a relation. It cannot contain null values.                                                                                                               |
+| **[[Normalization]]**       | The process of organizing a database to reduce redundancy and improve data integrity, often involving the identification and application of functional dependencies.                                                    |
+| **Data Model**              | Is a way of organising data into tables.                                                                                                                                                                                |
+| **Database**                | Is a collection of ***relations*** (*tables*), with each ***tuple/record*** (*row*) having a set of values for each ***attribute*** (*columns*), with each ***attribute*** having a ***domain*** (type) for its values. |
+| **Instance**                | Content of relation at a given time.                                                                                                                                                                                    |
+| **Ad-hoc queries**          | User-defined queries.                                                                                                                                                                                                   |

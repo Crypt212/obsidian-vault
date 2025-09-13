@@ -51,5 +51,5 @@ $$ e = emissivity\ of\ body,\ 0\le e \le 1$$
 
 - **Newton's Cooling Law**:
 $$
-- \frac {\Delta T} {\Delta t} = b \times A \times (T - T_0)
+-\frac {\Delta T} {\Delta t} = b \times A \times (T - T_0)
 $$

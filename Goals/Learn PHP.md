@@ -45,11 +45,11 @@
 - [x] What Are Constants & Variable Variables In PHP 
 - [x] PHP Data Types - Typecasting Overview & How It Works 
 - [x] PHP Boolean Data Type 
-- [ ] PHP Integer Data type 
-- [ ] PHP Float Data Type 
-- [ ] PHP String Data Type - Heredoc & Nowdoc Syntax 
-- [ ] PHP Null Data Type 
-- [ ] PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays 
+- [x] PHP Integer Data type 
+- [x] PHP Float Data Type 
+- [x] PHP String Data Type - Heredoc & Nowdoc Syntax 
+- [x] PHP Null Data Type 
+- [x] PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays 
 - [ ] What Are Expressions In PHP & How They Are Evaluated 
 - [ ] PHP Operators Part 1 
 - [ ] PHP Operators Part 2 

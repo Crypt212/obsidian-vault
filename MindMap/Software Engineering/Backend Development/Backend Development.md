@@ -12,7 +12,7 @@ Tags: #topic
 
 # Concepts
 
-- Learn [[Database Management]].
+- Learn [[Database Design]].
 - Learn [[API Design]].
 
 # References

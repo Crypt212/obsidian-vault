@@ -2,23 +2,23 @@
 
 1. Getting Started
 
-- [ ] Installation
-- [ ] Hello, World!
-- [ ] Hello, Cargo!
+- [x] Installation
+- [x] Hello, World!
+- [x] Hello, Cargo!
 
 2. Common Programming Concepts
 
-- [ ] Variables and Mutability
-- [ ] Data Types
-- [ ] Functions
-- [ ] Comments
-- [ ] Control Flow
+- [x] Variables and Mutability
+- [x] Data Types
+- [x] Functions
+- [x] Comments
+- [x] Control Flow
 
 3. Understanding Ownership
 
-- [ ] What is Ownership?
-- [ ] References and Borrowing
-- [ ] The Slice Type
+- [x] What is Ownership?
+- [x] References and Borrowing
+- [x] The Slice Type
 
 4. Using Structs to Structure Related Data
 
