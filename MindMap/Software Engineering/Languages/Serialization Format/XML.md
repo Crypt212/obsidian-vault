@@ -14,4 +14,7 @@
 	<price> ... </price>
 </film>
 ```
-- Before JSON became popular, XML was the main format to transfer data between web servers and applications
+
+- Before [[JSON]] became popular, XML was the main format to transfer data between web servers and applications.
+- Cons:
+- XML is often verbose (it uses many tags and takes more space).
