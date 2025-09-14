@@ -16,5 +16,5 @@
 ```
 
 - Before [[JSON]] became popular, XML was the main format to transfer data between web servers and applications.
-- Cons:
-- XML is often verbose (it uses many tags and takes more space).
+- Problem is XML is often verbose (it uses many tags and takes more space), that’s why today, developers often prefer [[JSON]].
+	
