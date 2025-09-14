@@ -6,6 +6,7 @@
 <title> Atack On Titans </title>
 <price> 49.99 </price>
 ```
+
 - It can nest tags to represent hierarchical structure of data.
 ```xml
 <film>
@@ -13,5 +14,4 @@
 	<price> ... </price>
 </film>
 ```
-# How XML Works
-- XML files contain tags:-
+- Before JSON became popular, XML was the main format to transfer data between web servers and applications
