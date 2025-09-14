@@ -1,3 +1,3 @@
-- **Extensible Markup Language** is a serialization format language, it's HTML-like where tagnames hold the name of the data
-- It can h.
+- **Extensible Markup Language** is a serialization format language, it's HTML-like where tags have names as key for data and 
+- It can nets .
 Let’s break it down:
