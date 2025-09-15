@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Languages/Javascript/Javascript.md",
+                "file": "MindMap/Software Engineering/Languages/Javascript/AJAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "AJAX"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "lastOpenFiles": [
     "MindMap/Software Engineering/Languages/Javascript/XHR.md",
     "MindMap/Software Engineering/Languages/Javascript/Javascript.md",
+    "MindMap/Software Engineering/Languages/Javascript/AJAX.md",
     "MindMap/Software Engineering/Network/Protocols/HTTP.md",
     "MindMap/Software Engineering/Languages/Serialization Format/JSON.md",
     "MindMap/Software Engineering/Languages/Serialization Format/YAML.md",
@@ -217,7 +218,6 @@
     "MindMap/Software Engineering/Tools/PHPMyAdmin.md",
     "Goals/Learn PHP.md",
     "MindMap/Software Engineering/Internet Computer Protocol/ICP.md",
-    "MindMap/Software Engineering/Backend Development/URI.md",
     "2025-08-14-200447_screenshot.png",
     "2025-08-14-200441_screenshot.png",
     "2025-08-14-200434_screenshot.png",
