@@ -3,9 +3,9 @@
 - This creates a much faster and smoother user experience, similar to a desktop application.
 - The process relies on a JavaScript object called the *[[XHR]]* or the newer, more powerful [[Fetch API]].
 > Note that it supports [[XML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON|JSON]] and many more, the name is just historical.
-## XHR (`XMLHttpRequest`)
+## [[XHR]] (`XMLHttpRequest`)
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol.
-## Fetch API
+## [[Fetch API]]
 - The **`fetch`** method is a *modern* built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol, it uses [[promises]].
 # JSON in JavaScript
 - [[JSON]] can be used in [[Javascript]] to hold data, we have a class to deal with [[JSON]] data called, guess what, `JSON` class.
@@ -23,6 +23,6 @@
 	- *Event Loop*, a constantly running process that checks if the *call stack* is empty. If it is, it moves the first function from the *callback queue* to the *call stack*.
 	
 - *asynchronous* code is code that runs without blocking code after it.
-## Promises
-- `Promise` is a class in [[Javascript]] that provides methods to wait for asynchronous code and do is a block of asynchronous code that we could wait for 
+## [[Promises]]
+- `Promise` is a class in [[Javascript]] that provides methods to wait for asynchronous code and do stuff after it.
 ## `async`/`await`
