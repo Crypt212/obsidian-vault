@@ -29,4 +29,4 @@
 ## Important Methods
 1. `open(method, url, async)`: Prepares a request (opens it).
 	- `method`: The `HTTP` request method.
-	- `async`: Boolean defines whether the function is *blocking* (false) or non-blocking (true), default is true.
+	- `async`: Boolean defines whether the function is *non-blocking* (true) or *blocking* (false), default is true.
