@@ -20,7 +20,7 @@
 ## Important Properties
 1. `readyState`: Shows the progress of request:
 	- `0`: **UNSENT**: Request is created but not opened yet.
-	- `1`: **OPENED**: Request is openedaSA|QZ Ssx but not opened yet.
-	- `2`: **UNSENT**: Request is created but not opened yet.
+	- `1`: **OPENED**: Request is opened and ready to be sent.
+	- `2`: **HEADHERS**: Request is created but not opened yet.
 	- `3`: **UNSENT**: Request is created but not opened yet.
 	- `4`: **UNSENT**: Request is created but not opened yet.
