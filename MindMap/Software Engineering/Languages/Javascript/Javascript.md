@@ -19,4 +19,8 @@
 > Note that it supports [[XML]], [[JSON]] and many more, the name is just historical.
 ## Important Properties
 1. `readyState`: Shows the progress of request:
-	- `0`: UNSENT: Request is 
+	- `0`: **UNSENT**: Request is created but not opened yet.
+	- `1`: **OPENED**: Request is created but not opened yet.
+	- `2`: **UNSENT**: Request is created but not opened yet.
+	- `3`: **UNSENT**: Request is created but not opened yet.
+	- `4`: **UNSENT**: Request is created but not opened yet.
