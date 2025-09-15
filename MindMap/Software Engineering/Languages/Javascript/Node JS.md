@@ -5,4 +5,6 @@
 - **Node JS** is built using **[[C++]]** and **[[Javascript]]**.
 - Uses **modules** to organize code.
 - It has no access to [[DOM]].
-
+# Benefits
+- Use one language everywhere.
+- Build fast backend servers (in development)
