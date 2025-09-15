@@ -34,4 +34,5 @@
 	- `data`: Optional. The data to be sent, if any.
 3. `setRequestHeader(header, value)`:  Sets `HTTP` headers for the request.
 ## Important EventHandlers
-1. `noreadystatechange`
+1. `noreadystatechange`: Runs when `readyState` changes.
+2. `onload`: Runs when the request is done and sucessful (`status == 200`A)
