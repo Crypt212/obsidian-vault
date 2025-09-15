@@ -18,9 +18,9 @@
 - We can utilize the browser (or *[[Node]]* environment) to run our code asynchronously, since these environments provide:
 	- Web APIs.
 	- *Callback Queue* (*Task Queue*) that contains functions waiting to be executed after the *call stack* finishes.
-	- *Event Loop*, constantly running process that checks if the call stack is empty. If it is, it moves the first function from the callback queue to the call stack.
-- For slow tasks it uses asynchronous programming.
-- *asynchronous* code is code that runs without blocking code after it.{}
+	- *Event Loop*, a constantly running process that checks if the *call stack* is empty. If it is, it moves the first function from the *callback queue* to the *call stack*.
+	
+- *asynchronous* code is code that runs without blocking code after it.
 ## Promises
 - promise is a block of code that will start running *asynchronously* (without blocking )
 ## `async`/`await`
