@@ -10,4 +10,6 @@
 - Build fast backend servers (in development, and good performance).
 - Non-blocking and fast.
 - Real-time apps like chats, games and collaborative tools are well handled.
-- Supported package management ()
+- Supported package management [[NPM]] (Node Package Manager).
+# Limitations
+- 
