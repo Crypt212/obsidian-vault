@@ -6,6 +6,8 @@
 	2) **Create an AJAX Request:** JavaScript creates an *[[XHR]]* object or uses the `fetch()` function.
 	3) **Send the Request:** The request is sent to a web server.
 	4) - **Server Processes the Request:** The server receives the request, does something, and prepares a response, usually in **[[JSON]]** or **[[XML]]** format.
+	5) **Server Sends a Response Back**.
+	6) **The Page is Updated**
 # XHR (`XMLHttpRequest`)
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript.
 
