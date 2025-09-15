@@ -8,7 +8,7 @@
 # Benefits
 - Use one language everywhere.
 - Build fast backend servers (in development, and good performance).
-- Non-blocking and fast.
+- It's exceptionally fast and efficient for **I/O-bound** tasks (networking, databases) due to its non-blocking, event-driven architecture.
 - Real-time apps like chats, games and collaborative tools are well handled.
 - Supported package management [[NPM]] (Node Package Manager).
 # Limitations
