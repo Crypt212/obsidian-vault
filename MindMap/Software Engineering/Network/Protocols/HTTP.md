@@ -30,7 +30,7 @@
 #### `Date` 
 - Date of the request/response.
 #### `Content-Type`
-- Discribes the content type using [[MIME]] types.
+- The content type using [[MIME]] types.
 ### Request Headers
 - Provide more information about the resource to be fetched or the client itself.
 #### `Host`
