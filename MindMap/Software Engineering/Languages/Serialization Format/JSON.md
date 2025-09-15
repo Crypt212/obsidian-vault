@@ -3,4 +3,11 @@
 - Looks like [[Javascript]] objects, but follows ***strict rules***.
 - Easy to use.
 - Concise and lightweight.
-- 
+# Rules
+- Keys must be in double-quotes.
+- Values can only be:
+  - String.
+  - Number.
+  - Boolean.
+  - Null.
+  - Object (which holds more keys)
