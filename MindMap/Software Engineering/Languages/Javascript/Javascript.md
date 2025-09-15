@@ -38,3 +38,8 @@
 ## Important Methods
 1. `JSON.stringify()`: Converts [[Javascript]] object to [[JSON]] data.
 2. `JSON.parse()`: Converts [[JSON]] data to [[Javascript]] object.
+
+# Asynchronous Javascript
+- JavaScript is single-threaded → it runs one task at a time.
+- For slow tasks it uses asynchronous programming.
+- 
