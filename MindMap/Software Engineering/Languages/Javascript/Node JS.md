@@ -12,4 +12,4 @@
 - Real-time apps like chats, games and collaborative tools are well handled.
 - Supported package management [[NPM]] (Node Package Manager).
 # Limitations
-- 
+- **CPU-bound Tasks.** If you give the single-threaded Event Loop a task that requires a lot of calculation (e.g., complex mathematical computations, sorting huge arrays, image/resize processing, synchronous CPU-intensive logic), it will **block** the loop.
