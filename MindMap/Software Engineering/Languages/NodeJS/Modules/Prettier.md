@@ -8,8 +8,7 @@
     - [[TypeScript]]
     - [[CSS]], [[SCSS]], Less
     - [[HTML]], [[JSON]], [[Markdown]]
-    - GraphQL, YAML
+    - [[GraphQL]], [[YAML]]
     - and many more.
 # Benefits
 - Makes it much more readable and eliminating all debates about code style within a team.
-- 
