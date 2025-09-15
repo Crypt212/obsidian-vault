@@ -24,5 +24,5 @@
 	
 - *asynchronous* code is code that runs without blocking code after it.
 ## Promises
-- `Promise` is a block of asynchronous code that we could wait for 
+- `Promise` is a class in [[Javascript]] that provides methods to wait for asynchronous code and do is a block of asynchronous code that we could wait for 
 ## `async`/`await`
