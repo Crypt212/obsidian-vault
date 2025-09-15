@@ -35,4 +35,6 @@
 3. `setRequestHeader(header, value)`:  Sets `HTTP` headers for the request.
 ## Important EventHandlers
 1. `noreadystatechange`: Runs when `readyState` changes.
-2. `onload`: Runs when the request is done and sucessful (`status == 200`A)
+2. `onload`: Runs when the request is done and successful (`status == 200`).
+3. `onerror`: Runs when something goes wrong.
+# Fetch A
