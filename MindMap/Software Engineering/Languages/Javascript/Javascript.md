@@ -3,7 +3,7 @@
 - This creates a much faster and smoother user experience, similar to a desktop application.
 - The process relies on a JavaScript object called the *[[XHR]]* or the newer, more powerful [[Fetch API]].
 > Note that it supports [[XML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON|JSON]] and many more, the name is just historical.
-# XHR (`XMLHttpRequest`)
+## XHR (`XMLHttpRequest`)
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol.
 - You can *ask for* data (fetch information).
 - You can *send* data (like form details).
@@ -31,7 +31,7 @@
 1. `noreadystatechange`: Runs when `readyState` changes.
 2. `onload`: Runs when the request is done and successful (`status == 200`).
 3. `onerror`: Runs when something goes wrong.
-# Fetch API
+## Fetch API
 - The **`fetch`** method is a *modern* built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol, it uses [[promises]].
 # JSON in JavaScript
 - [[JSON]] can be used in [[Javascript]] to hold data, we have a class to deal with [[JSON]] data called, guess what, `JSON` class.
