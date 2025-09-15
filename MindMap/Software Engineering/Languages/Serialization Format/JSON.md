@@ -1,4 +1,3 @@
 - JSON is a lightweight format for storing and sharing data.
 - Mostly used to exchange data between *browsers* and *servers*.
-- - Mostly used to **exchange data between browsers and servers**.
-- 
+- Looks like [[Javascript]] objects, but follows ***strict rules***.
