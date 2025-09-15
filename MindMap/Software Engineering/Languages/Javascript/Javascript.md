@@ -16,8 +16,8 @@
 - You can *send* data (like form details).
 - And all this happens *without reloading the entire page*.
 - This was one of the first ways to make web pages dynamic and is the foundation of [[AJAX]].
-> Note:  XHR supports [[XML]], [[JSON]] and many more, the name is just historical.
-> Note: XHR is the old way to request da
+> Note: XHR supports [[XML]], [[JSON]] and many more, the name is just historical.
+> Note: XHR is the old way to request data in JavaScript, now we use [[Fetch API]].
 ## Important Properties
 1. `readyState`: Shows the progress of request:
 	- `0`: **UNSENT**: Request is created but not opened yet.
