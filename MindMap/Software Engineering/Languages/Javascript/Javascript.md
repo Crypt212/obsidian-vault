@@ -18,4 +18,5 @@
 - This was one of the first ways to make web pages dynamic and is the foundation of [[AJAX]].
 > Note that it supports [[XML]], [[JSON]] and many more, the name is just historical.
 ## Important Properties
-1. `readyState`: Shows the 
+1. `readyState`: Shows the progress of request:
+	- `0`: UNSENT: Request is 
