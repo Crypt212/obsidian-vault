@@ -1,0 +1,1 @@
+- **Prettier** is a *code formatter*,
