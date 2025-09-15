@@ -1,3 +1,5 @@
+# AJAX (Asynchronous JavaScript and XML)
+- 
 # XMLHttpRequest (XHR)
 The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript.
 
