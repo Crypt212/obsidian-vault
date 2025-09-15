@@ -11,7 +11,7 @@
 5. **Server Sends a Response Back**.
 6. **The Page is Updated**: JavaScript uses the **[[DOM]]** to dynamically update _only the specific part_ of the page that needs to change.
 # XHR (`XMLHttpRequest`)
-- The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript that allows your web page to **talk to a server**.
+- The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol.
 - You can *ask for* data (fetch information).
 - You can *send* data (like form details).
 - And all this happens *without reloading the entire page*.
@@ -24,3 +24,6 @@
 	- `2`: **HEADERS_RECEIVED**: Server responded with headers.
 	- `3`: **LOADING**: Response is loading.
 	- `4`: **DONE**: Request is finished and response is ready.
+2. `status`: 
+
+Shows the **result** of your request (HTTP status code).
