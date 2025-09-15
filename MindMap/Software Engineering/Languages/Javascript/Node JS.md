@@ -1,0 +1,1 @@
+- is a **runtime environment** to run and execute [[Javascript]] outside the browser, us

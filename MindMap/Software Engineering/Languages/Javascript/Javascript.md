@@ -15,7 +15,7 @@
 
 # Asynchronous Javascript
 - JavaScript is single-threaded → it runs one task at a time (on the *call stack*).
-- We can utilize the browser (or *[[Node]]* environment) to run our code asynchronously, since these environments provide:
+- We can utilize the browser (or *[[Node JS]]* environment) to run our code asynchronously, since these environments provide:
 	- Web APIs.
 	- *Callback Queue* (*Task Queue*) that contains functions waiting to be executed after the *call stack* finishes, there are 2 types of queues with the provided priorities:
 		- **1st**: *Microtask Queue* containing callbacks from promises.
