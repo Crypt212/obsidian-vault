@@ -17,8 +17,8 @@
 - JavaScript is single-threaded → it runs one task at a time (on the *call stack*).
 - We can utilize the browser (or *[[Node]]* environment) to run our code asynchronously, since these environments provide:
 	- Web APIs.
-	- *Callback Queue* (*Task Queue*) that contains functions waiting to be executed after the *call stack* finishes, there are 2 types:
-		- *Macrotask Queue* for 
+	- *Callback Queue* (*Task Queue*) that contains functions waiting to be executed after the *call stack* finishes, there are 2 types of queues with the :
+		- *Macrotask Queue* containing callbacks from promises, this has first priority.
 	- *Event Loop*, a constantly running process that checks if the *call stack* is empty. If it is, it moves the first function from the *callback queue* to the *call stack*.
 	
 - *asynchronous* code is code that runs without blocking code after it.
