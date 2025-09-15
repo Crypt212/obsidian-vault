@@ -1,8 +1,4 @@
 - is a **runtime environment** to run and execute [[Javascript]] *outside the browser*, usually for development on the server.
 - **Node JS** includes:
 	- The **V8 Javascript Engine** (same as Chrome).
-	- Tools (called *core modules*) for working with:
-		- Files
-		- Network
-		- 
-		- 
+	- Tools (called *core modules*) for working with: Files, Network, 
