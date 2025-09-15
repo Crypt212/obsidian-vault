@@ -33,4 +33,5 @@
 2. `send(data)`: Sends the request to the server.
 	- `data`: Optional. The data to be sent, if any.
 3. `setRequestHeader(header, value)`:  Sets `HTTP` headers for the request.
-	- `header`: name of the 
+## Important EventHandlers
+1. `noreadystatechange`
