@@ -8,4 +8,5 @@
 # Fetch API
 - The **`fetch`** method is a *modern* built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol, it uses [[promises]].
 # JSON in JavaScript
-- [[JSON]] can be used in javascript to hold data, we have to simple methods to deal with [[JSON]] data:
+- [[JSON]] can be used in Javascript to hold data, we have a class to deal with [[JSON]] data called, guess what,  to deal with [[JSON]] data:
+	- `JSON`
