@@ -32,4 +32,5 @@
 	- `async`: Boolean defines whether the `xhr.send` method is *non-blocking* (`true`) or *blocking* (`false`), default is `true`. It is always better to set it to `true`, since, sync function will freeze the browser until request is done (bad user experience).
 2. `send(data)`: Sends the request to the server.
 	- `data`: Optional. The data to be sent, if any.
-3. `setRequestHeader(header, value)`: 
+3. `setRequestHeader(header, value)`:  Sets `HTTP` headers for the request.
+	- `header`: name of the 
