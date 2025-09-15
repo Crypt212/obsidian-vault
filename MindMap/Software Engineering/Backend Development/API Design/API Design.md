@@ -1,6 +1,3 @@
-2025-07-23 18:46
-Tags:
-
 - Is an interface/mechanism that allow two software components to communicate under a set of definitions and protocols. The requesting software is called client, the responding one is called server.
 - Before designing, you choose the *communication paradigm* (Request\response, Real-Time, Bidirectional streaming, ... etc) first, leading to determining the protocol ([[HTTP]], [[WebSocket]], [[SSE]], ... etc), and finally choosing the architectural style.
 # Architectural Styles
