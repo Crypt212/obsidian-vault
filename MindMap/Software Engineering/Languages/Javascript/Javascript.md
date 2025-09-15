@@ -7,7 +7,7 @@
 	3) **Send the Request:** The request is sent to a web server.
 	4) - **Server Processes the Request:** The server receives the request, does something, and prepares a response, usually in **[[JSON]]** or **[[XML]]** format.
 	5) **Server Sends a Response Back**.
-	6) **The Page is Updated**
+	6) **The Page is Updated**: JavaScript uses the **[[DOM]]** to dynamically update _only the specific part_ of the page that needs to change.
 # XHR (`XMLHttpRequest`)
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript.
 
