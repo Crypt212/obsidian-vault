@@ -37,4 +37,6 @@
 1. `noreadystatechange`: Runs when `readyState` changes.
 2. `onload`: Runs when the request is done and successful (`status == 200`).
 3. `onerror`: Runs when something goes wrong.
-# Fetch A
+# Fetch API
+- The **`fetch`** method is a built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol.
+- It uses [[promises]].
