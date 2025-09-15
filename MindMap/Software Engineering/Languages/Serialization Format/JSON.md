@@ -10,4 +10,6 @@
   - Number.
   - Boolean.
   - Null.
-  - Object (which holds more keys)
+  - Object (which holds more keys).
+  - Array.
+- Key-value pairs are comma-sperated,
