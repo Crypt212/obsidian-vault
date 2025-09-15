@@ -24,6 +24,5 @@
 	- `2`: **HEADERS_RECEIVED**: Server responded with headers.
 	- `3`: **LOADING**: Response is loading.
 	- `4`: **DONE**: Request is finished and response is ready.
-2. `status`: 
-
-Shows the **result** of your request (HTTP status code).
+2. `status`: Shows the **result** of your request ([[HTTP]] status code).
+3. `responseText`: The actual data the server sends back, in **plain text** (could be HTML, JSON, or XML.)
