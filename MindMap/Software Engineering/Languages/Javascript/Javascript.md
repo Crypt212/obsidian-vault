@@ -28,4 +28,5 @@
 3. `responseText`: The actual data the server sends back, in **plain text** (could be [[HTML]], [[JSON]], or [[XML]].)
 ## Important Methods
 1. `open(method, url, async)`: Prepares a request (opens it).
-	- `method`: The `HTTP`
+	- `method`: The `HTTP` request method.
+	- `async`: Boolean defines if you want 
