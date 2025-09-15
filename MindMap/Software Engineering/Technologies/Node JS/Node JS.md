@@ -13,3 +13,8 @@
 - Supported package management [[NPM]] (Node Package Manager).
 # Limitations
 - **CPU-bound Tasks.** If you give the single-threaded Event Loop a task that requires a lot of calculation (e.g., complex mathematical computations, sorting huge arrays, image/resize processing, synchronous CPU-intensive logic), it will **block** the loop.
+# Module Systems
+
+- 
+## Module Caching
+- when modules are imported using [[CommonJS]] modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
