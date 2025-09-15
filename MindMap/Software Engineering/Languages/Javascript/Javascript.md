@@ -4,8 +4,7 @@
 - The process relies on a JavaScript object called the *[[XHR]]* or the newer, more powerful [[Fetch API]].
 > Note that it supports [[XML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON|JSON]] and many more, the name is just historical.
 # XHR (`XMLHttpRequest`)
-- The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol.
-- - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol.
+- The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in [[JavaScript]] that allows your web page to **talk to a server** using [[HTTP]] protocol.
 - You can *ask for* data (fetch information).
 - You can *send* data (like form details).
 - And all this happens *without reloading the entire page*.
@@ -35,4 +34,6 @@
 # Fetch API
 - The **`fetch`** method is a *modern* built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol, it uses [[promises]].
 # JSON in JavaScript
-- [[JSON]] can be used in Javascript to hold data, we have a class to deal with [[JSON]] data called, guess what, `JSON`.
+- [[JSON]] can be used in Javascript to hold data, we have a class to deal with [[JSON]] data called, guess what, `JSON` class.
+## Important Methods
+1. `JSON.stringify`
