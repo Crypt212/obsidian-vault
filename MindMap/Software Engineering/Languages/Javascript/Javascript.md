@@ -19,10 +19,10 @@
 	- Web APIs.
 	- *Callback Queue* (*Task Queue*) that contains functions waiting to be executed after the *call stack* finishes, there are 2 types of queues with the provided priorities:
 		- **1st**: *Microtask Queue* containing callbacks from promises.
-		- **2nd**: *Macrotask Queue* containing callbacks from W
+		- **2nd**: *Macrotask Queue* containing callbacks from Web APIs.
 	- *Event Loop*, a constantly running process that checks if the *call stack* is empty. If it is, it moves the first function from the *callback queue* to the *call stack*.
 	
 - *asynchronous* code is code that runs without blocking code after it.
 ## Promises
-- promise is a block of code that will start running *asynchronously* (without blocking )
+- `Promise` is a block of asynchronous code that we could wait for 
 ## `async`/`await`
