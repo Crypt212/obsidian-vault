@@ -4,7 +4,7 @@
 - It has layers 
 # Containers
 - Are the instances of the images, they are the running process of these images.
-##Volumes
+# Volumes
 - Are mappings from folders and files in the current machine running the Containers, to folders and files inside these Containers, allowing changing files inside the Containers without having to rebuild the Images, and recreating the Containers.
-### Layer Cashing
+## Layer Cashing
 - Is a property of Docker images that allow it to cache unchanged layers
