@@ -4,4 +4,4 @@
 - When resolved, a promise will have a `value` property holding the data passed to the `resolve` callback function.
 - When rejected, a promise will have a `reason` property holding the error passed to the `reject` callback function, or any thrown error.
 # Important Methods
-1. `.then(acceptCallback, rejectCallback)`: 
+1. `.then(onFulfilled, onRejected)`: 
