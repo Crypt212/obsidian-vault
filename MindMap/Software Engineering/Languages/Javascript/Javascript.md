@@ -7,4 +7,5 @@
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol.
 # Fetch API
 - The **`fetch`** method is a *modern* built-in tool in JavaScript that allows your web page to **talk to a server** using [[HTTP]] protocol, it uses [[promises]].
-# JSON in Java
+# JSON in JavaScript
+- [[JSON]] can be used in javascript to hold data, we have to simple methods to deal with [[JSON]] data:
