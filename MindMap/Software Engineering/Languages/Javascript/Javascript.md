@@ -37,4 +37,4 @@
 - [[JSON]] can be used in [[Javascript]] to hold data, we have a class to deal with [[JSON]] data called, guess what, `JSON` class.
 ## Important Methods
 1. `JSON.stringify()`: Converts [[Javascript]] object to [[JSON]] data.
-2. `JSON.parse()`: Converst
+2. `JSON.parse()`: Converts [[JSON]] data to [[Javascript]] object.
