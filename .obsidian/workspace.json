@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Languages/NodeJS/Modules/Prettier.md",
+                "file": "MindMap/Software Engineering/Concepts/REPL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prettier"
+              "title": "REPL"
             }
           }
         ]
@@ -180,8 +180,12 @@
   },
   "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Languages/NodeJS/Node JS.md",
+    "MindMap/Software Engineering/Technologies/Untitled",
+    "MindMap/Software Engineering/Technologies",
     "MindMap/Software Engineering/Languages/NodeJS/Modules/Prettier.md",
+    "MindMap/Software Engineering/Concepts/REPL.md",
+    "MindMap/Software Engineering/Concepts",
+    "MindMap/Software Engineering/Languages/NodeJS/Node JS.md",
     "MindMap/Software Engineering/Languages/NodeJS/Modules/Untitled",
     "MindMap/Software Engineering/Languages/NodeJS/Modules",
     "MindMap/Software Engineering/Languages/NodeJS",
@@ -204,8 +208,6 @@
     "MindMap/Software Engineering/Backend Development/Untitled.base",
     "MindMap/Software Engineering/Backend Development/Web Architecture.md",
     "MindMap/Software Engineering/Serialization Format",
-    "MindMap/Software Engineering/Network/Protocols",
-    "MindMap/Software Engineering/Network",
     "MindMap/Software Engineering/Backend Development/API Design/REST API.md",
     "MindMap/Software Engineering/Backend Development/API Design/API Design.md",
     "MindMap/Software Engineering/Backend Development/API Design/HTTP.md",
@@ -214,10 +216,8 @@
     "Goals/Learn Database Design.md",
     "Goals/Finish Physics Summer.md",
     "Goals/Learn Laravel.md",
-    "Goals/My Goals.md",
     "2025-08-04-192614_screenshot.png",
     "Untitled.canvas",
-    "Goals/Learn Network.md",
     "2025-08-14-200447_screenshot.png",
     "2025-08-14-200441_screenshot.png",
     "2025-08-14-200434_screenshot.png",
