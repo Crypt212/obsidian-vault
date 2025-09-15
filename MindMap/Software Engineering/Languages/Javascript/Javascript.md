@@ -16,7 +16,7 @@
 # Asynchronous Javascript
 - JavaScript is single-threaded → it runs one task at a time.
 - For slow tasks it uses asynchronous programming.
-- *asynchronous* code is code that 
+- *asynchronous* code is code that runs without blocking code after it.{}
 ## Promises
 - promise is a block of code that will start running *asynchronously* (without blocking )
 ## `async`/`await`
