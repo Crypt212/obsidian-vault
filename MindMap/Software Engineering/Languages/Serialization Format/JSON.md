@@ -12,4 +12,5 @@
   - Null.
   - Object (which holds more keys).
   - Array.
-- Key-value pairs are comma-sperated,
+- Key-value pairs are comma-separated, no comma after last pair.
+- JSON data must start w
