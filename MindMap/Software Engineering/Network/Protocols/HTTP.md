@@ -4,7 +4,7 @@
 	- **Requests**: Messages sent by the *client* to the *server*, wishing some changes to the data on the server or requiring some data back.
 	- **Responses**: Messages sent back to the *client* after processing the request, having the resulting state.
 
-- **HTTP** *requests/responses* are have some rules, they are sent using **data serialization formats** (like [[JSON]], [[XML]], ...etc).
+- **HTTP** *requests/responses* are have some rules, they are sent using **data serialization formats** (like [[MindMap/Software Engineering/Languages/Serialization Format/JSON]], [[XML]], ...etc).
 # HTTP Versions
 | Version                              | Key Features & Differences                                                                                                                                                                                                                                                                                                                                                                                        | Impact                                                                                                              |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |

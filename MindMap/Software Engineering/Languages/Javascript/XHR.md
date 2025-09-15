@@ -3,7 +3,7 @@
 - You can *send* data (like form details).
 - And all this happens *without reloading the entire page*.
 - This was one of the first ways to make web pages dynamic and is the foundation of [[AJAX]].
-> Note: XHR supports [[XML]], [[JSON]] and many more, the name is just historical.
+> Note: XHR supports [[XML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON]] and many more, the name is just historical.
 > Note: XHR is the old way to request data in [[JavaScript]], now we use [[Fetch API]].
 # Important Properties
 1. `readyState`: Shows the progress of request:
@@ -13,7 +13,7 @@
 	- `3`: **LOADING**: Response is loading.
 	- `4`: **DONE**: Request is finished and response is ready.
 2. `status`: Shows the **result** of your request ([[HTTP]] status code).
-3. `responseText`: The actual data the server sends back, in **plain text** (could be [[HTML]], [[JSON]], or [[XML]].)
+3. `responseText`: The actual data the server sends back, in **plain text** (could be [[HTML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON]], or [[XML]].)
 # Important Methods
 1. `open(method, url, async)`: Prepares a request (opens it).
 	- `method`: The `HTTP` request method.

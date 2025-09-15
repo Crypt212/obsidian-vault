@@ -25,7 +25,7 @@ as the Web’s architectural style.
 ## Uniform Interface
 - Interactions between web components depend on uniformity, which decouples the architecture, allowing each part to evolve independently, it has 4 guiding principles.
 	- **Identification of resources**: resources are distinct web-based concepts that can be addressed by *unique identifiers*, such as [[URI]]s.
-	- **Manipulation of resources through representations**: There are no direct interaction with the resource itself, but with a representation of it (like [[HTML]], [[JSON]], ... etc), allowing same resource to be represented in different ways without changing its identifier.
+	- **Manipulation of resources through representations**: There are no direct interaction with the resource itself, but with a representation of it (like [[HTML]], [[MindMap/Software Engineering/Languages/Serialization Format/JSON]], ... etc), allowing same resource to be represented in different ways without changing its identifier.
 	- **Self-descriptive messages**: The messages must hold all data and metadata about the desired resource state (for the client) and current resource state (from the server), for [[HTTP]], this is provided through headers.
 	- **Hypermedia as the engine of application state**: Resources are linked and connected together through hyperlinks, these links presence or absence is an important part of resource's state.
 ## Layered System
