@@ -1,5 +1,5 @@
-# AJAX (Asynchronous JavaScript and XML)
-- 
+# AJAX
+- AJAX stands for **Asynchronous JavaScript and XML**, it's a set of web development techniques that allows a web page to communicate with a server **without reloading the entire page**.
 # XMLHttpRequest (XHR)
 - The **`XMLHttpRequest`** object (often called **XHR**) is a built-in tool in JavaScript.
 
