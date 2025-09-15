@@ -7,7 +7,7 @@
     - [[JavaScript]] (including ES2017+, JSX)
     - [[TypeScript]]
     - [[CSS]], [[SCSS]], Less
-    - [[HTML]], [[JSON]], [[Markdown]]
+    - [[HTML]], [[MindMap/Software Engineering/Languages/Javascript/JSON]], [[Markdown]]
     - [[GraphQL]], [[YAML]]
     - and many more.
 # Benefits

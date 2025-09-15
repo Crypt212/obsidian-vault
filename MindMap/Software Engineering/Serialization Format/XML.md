@@ -15,6 +15,6 @@
 </film>
 ```
 
-- Before [[MindMap/Software Engineering/Languages/Serialization Format/JSON]] became popular, XML was the main format to transfer data between web servers and applications.
-- Problem is XML is often verbose (it uses many tags and takes more space), that’s why today, developers often prefer [[MindMap/Software Engineering/Languages/Serialization Format/JSON]].
+- Before [[MindMap/Software Engineering/Serialization Format/JSON]] became popular, XML was the main format to transfer data between web servers and applications.
+- Problem is XML is often verbose (it uses many tags and takes more space), that’s why today, developers often prefer [[MindMap/Software Engineering/Serialization Format/JSON]].
 	
