@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Backend Development/API Design/API Design.md",
+                "file": "Goals/Learn Laravel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Design"
+              "title": "Learn Laravel"
             }
           }
         ]
@@ -154,8 +154,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "fdb6777661d66354",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Backend Development/API Design/REST API.md",
     "MindMap/Software Engineering/Backend Development/API Design/API Design.md",
+    "MindMap/Software Engineering/Backend Development/API Design/REST API.md",
     "MindMap/Software Engineering/Backend Development/Web Architecture.md",
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
     "MindMap/Software Engineering/Technologies/Docker/Docker.md",
