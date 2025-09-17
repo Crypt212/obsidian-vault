@@ -3,4 +3,5 @@
 - Other [[Node JS]] frameworks for beckend development: [[Fastify]], [[Koa]], [[Nest JS]], [[Hapi]].
 - Differences between version 4 and 5 are negligible.
 # How it works
-- The a
+- The **server app** instance is created using `express()` factory function.
+- The **app** instance is ste
