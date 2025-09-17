@@ -1,3 +1,4 @@
+#tool
 - **Prettier** is a *code formatter*.
 - Its primary purpose is to automatically enforce a consistent style across your code.
 # What Prettier Does
