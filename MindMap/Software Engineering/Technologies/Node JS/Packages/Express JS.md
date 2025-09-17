@@ -4,4 +4,4 @@
 - Differences between version 4 and 5 are negligible.
 # How it works
 - The **server app** instance is created using `express()` factory function.
-- The **app** instance is setup to listen on a specific *port* for requests using `listen(port, callback)`
+- The **app** instance is setup to listen on a specific *port* for requests using `listen(port, callback)` method, the *callback function* u
