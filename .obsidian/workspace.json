@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Technologies/Node JS/Packages/Express JS.md",
+                "file": "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Express JS.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,8 +180,10 @@
   },
   "active": "fdb6777661d66354",
   "lastOpenFiles": [
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Request.md",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Express JS.md",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express",
     "MindMap/Software Engineering/Backend Development/Web Server.md",
-    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express JS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Prettier.md",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
     "MindMap/Software Engineering/Technologies/Node JS/NPM.md",
@@ -213,9 +215,7 @@
     "MindMap/Software Engineering/Technologies/Node JS",
     "MindMap/Software Engineering/Languages/Javascript/Javascript.md",
     "MindMap/Software Engineering/Languages/Javascript/Promises.md",
-    "MindMap/Software Engineering/Languages/Javascript/JSON.md",
     "MindMap/Software Engineering/Languages/Javascript/Untitled",
-    "MindMap/Software Engineering/Languages",
     "2025-08-04-192614_screenshot.png",
     "Untitled.canvas",
     "2025-08-14-200447_screenshot.png",
