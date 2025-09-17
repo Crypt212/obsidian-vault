@@ -1,3 +1,3 @@
 #framework
-- **Express** is a **web framework** to build [[web server]]s and web  in [[Javascript]].
+- **Express** is a **web framework** to build [[Web Server|web servers]] and [[API Design|web APIs]] in [[Javascript]].
 - 
