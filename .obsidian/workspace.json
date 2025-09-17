@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Technologies/Node JS/Modules/Express JS.md",
+                "file": "MindMap/Software Engineering/Technologies/Node JS/Packages/Express JS.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,12 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb6777661d66354",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Technologies/Node JS/Modules/Prettier.md",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Prettier.md",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
     "MindMap/Software Engineering/Technologies/Node JS/NPM.md",
-    "MindMap/Software Engineering/Technologies/Node JS/Modules/Express JS.md",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express JS.md",
     "MindMap/Software Engineering/Technologies/Laravel/Laravel.md",
     "Goals/Learn Laravel.md",
     "MindMap/Software Engineering/Backend Development/API Design/API Design.md",
@@ -208,7 +208,7 @@
     "MindMap/Software Engineering/Technologies",
     "MindMap/Software Engineering/Concepts",
     "MindMap/Software Engineering/Technologies/Node JS/Modules/Untitled",
-    "MindMap/Software Engineering/Technologies/Node JS/Modules",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages",
     "MindMap/Software Engineering/Technologies/Node JS",
     "MindMap/Software Engineering/Languages/Javascript/Javascript.md",
     "MindMap/Software Engineering/Languages/Javascript/Promises.md",
