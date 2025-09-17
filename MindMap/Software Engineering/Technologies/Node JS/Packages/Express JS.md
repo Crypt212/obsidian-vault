@@ -5,4 +5,4 @@
 # How it works
 - The **server app** instance is created using `express()` factory function.
 - The **app** instance is setup to listen on a specific *port* for requests using `listen(port, callback)` method, the *callback function* runs after listening is set up.
-- The **app** instance has meth
+- The **app** instance has methods to handle [[HTTP]] requests and return responses (ex. `get(url, ) met
