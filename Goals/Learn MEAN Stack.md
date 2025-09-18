@@ -1,3 +1,3 @@
 
 - [ ] [[Learn Typescript]]
-- [ ] [[Learn Javascript]]
+- [x] [[Learn Javascript]]
