@@ -9,4 +9,4 @@
 - [[Request]] 
 # Middlewares
 ## Built-in Middlewares
-- `express.static(filepath)`: Sets a file to be public so that it's content can be accecced
+- `express.static(filepath)`: Sets a file to be public so that it's content can be accessed in the url in route name, `filepath` is the file path of the publicized directory
