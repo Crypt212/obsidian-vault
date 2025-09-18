@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Backend Development/Backend Development.md",
+                "file": "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Express JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Development"
+              "title": "Express JS"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58bb8f56d042944d",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Network/Web API Design/Web API Design.md",
+    "MindMap/Software Engineering/Technologies/Node JS/Packages/Json Server",
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
+    "MindMap/Software Engineering/Network/Web API Design/Web API Design.md",
     "MindMap/Software Engineering/Network/Protocols/HTTP.md",
     "MindMap/Software Engineering/Network/Web Architecture.md",
     "MindMap/Software Engineering/Network/Web Server.md",
@@ -209,7 +210,6 @@
     "MindMap/Software Engineering/Network/Web API Design/REST API.md",
     "MindMap/Software Engineering/Technologies/Docker/Docker.md",
     "MindMap/Physics Science/Heat Transfer.md",
-    "MindMap/Physics Science/Physics 101.md",
     "MindMap/Software Engineering/Technologies/Docker",
     "MindMap/Software Engineering/Technologies/Node JS",
     "MindMap/Software Engineering/Technologies/Laravel",
