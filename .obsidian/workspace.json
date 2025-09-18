@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "745099996f63a462",
+        "id": "f7a7b405868b9ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "2c28f85ac1733d5d",
+            "id": "58bb8f56d042944d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Learn MEAN Stack.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Learn MEAN Stack"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c28f85ac1733d5d",
+  "active": "58bb8f56d042944d",
   "lastOpenFiles": [
-    "Goals/Learn Network.md",
     "Goals/Learn MEAN Stack.md",
+    "Goals/Learn Network.md",
     "Goals/Learn Rust.md",
     "Goals/My Goals.md",
     "Goals/Learn Database Design.md",
