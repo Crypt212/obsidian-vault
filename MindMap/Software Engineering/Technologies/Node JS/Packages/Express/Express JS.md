@@ -11,4 +11,4 @@
 ## Built-in Middlewares
 - There are methods of the express module that return middlewares, here are some:-
 	- `express.static(filepath)`: Sets a file to be public so that it's content can be accessed in the URL in route name, `filepath` is the file path of the publicised directory.
-	- `express.json()`: Sets
+	- `express.json()`: Sets the body of request to 
