@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/My Goals.md",
+                "file": "Goals/Learn MEAN Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Goals"
+              "title": "Learn MEAN Stack"
             }
           }
         ]
@@ -181,10 +181,12 @@
   "active": "2c28f85ac1733d5d",
   "lastOpenFiles": [
     "Goals/Learn Network.md",
-    "Goals/Learn PHP.md",
-    "Goals/Finish Physics Summer.md",
-    "Goals/Learn Database Design.md",
     "Goals/Learn MEAN Stack.md",
+    "Goals/Learn Rust.md",
+    "Goals/My Goals.md",
+    "Goals/Learn Database Design.md",
+    "Goals/Finish Physics Summer.md",
+    "Goals/Learn PHP.md",
     "Goals/Learn Javascript.md",
     "Goals/Learn Laravel.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Express JS.md",
@@ -205,8 +207,6 @@
     "MindMap/Physics Science/Principle of Calorimetry.md",
     "MindMap/Software Engineering/Tools/cargo.md",
     "MindMap/Software Engineering/Languages/PHP/PHP.md",
-    "MindMap/Software Engineering/Languages/PHP/Arrays.md",
-    "MindMap/Software Engineering/Languages/Rust/Rust.md",
     "MindMap/Software Engineering/Technologies/Docker",
     "MindMap/Software Engineering/Technologies/Node JS",
     "MindMap/Software Engineering/Technologies/Laravel",
