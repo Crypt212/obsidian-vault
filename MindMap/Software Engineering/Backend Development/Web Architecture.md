@@ -2,8 +2,8 @@
 - In December of 1990, Tim Berners-Lee started a non-profit software project that he called “World Wide Web.”
 -  Berners-Lee had invented and implemented:
 	- The [[URI|Uniform Resource Identifier]] ([[URI]]), a syntax that assigns each web document a unique address.
-	- The [[HyperText Transfer Protocol]] ([[HTTP]]), a message-based language that computers could use to communicate over the Internet.
-	- The [[HyperText Mark-up Language]] ([[HTML]]), to represent informative documents that contain links to related documents.
+	- The [[HTTP|HyperText Transfer Protocol]] ([[HTTP]]), a message-based language that computers could use to communicate over the Internet.
+	- The [[HTML|HyperText Mark-up Language]] ([[HTML]]), to represent informative documents that contain links to related documents.
 	- The first [[web server]].
 	- The first web browser, which Berners-Lee also named “World Wide Web” and later renamed “Nexus” to avoid confusion with the Web itself.
 	- The first WYSIWYG [[HTML]] editor, which was built right into the browser.
