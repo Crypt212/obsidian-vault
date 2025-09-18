@@ -8,6 +8,7 @@
 - The **app** instance has methods to handle [[HTTP]] requests and return responses, these methods take the `url` and callback function that takes `request` and `response` parameters of type [[Request]] and [[Response]] objects (ex. `get(url, callback)`).
 - [[Request]] 
 # Middlewares
-## Built-in Me
-- `express.static(filepath)`: Sets a file to be public so that it's content can be accessed in the URL in route name, `filepath` is the file path of the publicised directory.
-- `express.json()`: Sets
+## Built-in Middlewares
+- There are methods of the express module that return middlewares, here are some:-
+	- `express.static(filepath)`: Sets a file to be public so that it's content can be accessed in the URL in route name, `filepath` is the file path of the publicised directory.
+	- `express.json()`: Sets
