@@ -9,4 +9,4 @@
 - [[Request]] 
 # Middlewares
 ## Built-in Middlewares
-- `express.static()`
+- `express.static(filepath)`: Sets a file to be public so that it's content can be accecced
