@@ -1,4 +1,4 @@
-- REST stands for Representational State Transfer, which is a stateless, resouce-based [[API Design|API]].
+- REST stands for Representational State Transfer, which is a stateless, resouce-based [[Web API Design|API]].
 - REST defines a set of standardized methods (POST, GET, PUT, DELETE, PATCH, ... etc) that clients can use to access server data.
 - Clients and servers exchange data using [[HTTP]].
 - REST follows the [[Web Architecture|Web's Architectural Style constraints]].

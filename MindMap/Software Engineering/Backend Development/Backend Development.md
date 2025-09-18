@@ -13,7 +13,7 @@ Tags: #topic
 # Concepts
 
 - Learn [[Database Design]].
-- Learn [[API Design]].
+- Learn [[Web API Design]].
 
 # References
 
