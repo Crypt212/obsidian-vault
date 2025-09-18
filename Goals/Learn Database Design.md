@@ -26,11 +26,11 @@
 - [x] Mutivaued Dependencies and Norma Form
 - [x] Shortcomings of BCNF/4NF
 - [x] Functiona Dependencies Quiz
-- [ ] Mutivaued Dependencies Quiz
-- [ ] Normaization Quiz
+- [x] Mutivaued Dependencies Quiz
+- [x] Normaization Quiz
     
 5. Unified Modeing Language
 
-- [ ] UML Data Modeing
-- [ ] UML to Reations
-- [ ] UML Quiz
+- [x] UML Data Modeing
+- [x] UML to Reations
+- [x] UML Quiz
