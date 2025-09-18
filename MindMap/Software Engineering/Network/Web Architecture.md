@@ -4,7 +4,7 @@
 	- The [[URI|Uniform Resource Identifier]] ([[URI]]), a syntax that assigns each web document a unique address.
 	- The [[HTTP|HyperText Transfer Protocol]] ([[HTTP]]), a message-based language that computers could use to communicate over the Internet.
 	- The [[HTML|HyperText Mark-up Language]] ([[HTML]]), to represent informative documents that contain links to related documents.
-	- The first [[web server]].
+	- The first [[Web Server]].
 	- The first web browser, which Berners-Lee also named “World Wide Web” and later renamed “Nexus” to avoid confusion with the Web itself.
 	- The first WYSIWYG [[HTML]] editor, which was built right into the browser.
 - The World Wide Web (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents.
@@ -32,15 +32,15 @@ as the Web’s architectural style.
 - Enabling network-based intermediaries (proxies, gateways, .... etc) to be *transparently* deployed between client and server using the Web’s **uniform interface**.
 - Network-based intermediaries are commonly used for enforcement of **security**, **response caching**, and **load balancing**.
 ## Cache
-- The [[web server]] is declaring the cache-ability of of each response data.
+- The [[Web Server]] is declaring the cache-ability of of each response data.
 - Caching response data can help to **reduce client-perceived latency**, **increase the overall availability and reliability of an application**, and **control a web server’s load**.
-- A cache may exist anywhere along the network path between the client and server. They can be in an organization’s [[web server]] network, within specialized [[content delivery network]]s (CDNs), or inside a client itself.
+- A cache may exist anywhere along the network path between the client and server. They can be in an organization’s [[Web Server]] network, within specialized [[content delivery network]]s (CDNs), or inside a client itself.
 ## Stateless
-- The [[web server]] is not required to memorize the state client application.
+- The [[Web Server]] is not required to memorize the state client application.
 - Disadvantage: client must include all contextual information with each interaction.
 - Advantage: The server can serve a larger number of clients.
 - This trade-off is the key contributor to scalability of Web's Architectural Style. 
 ## Code-On-Demand
-- The [[web server]] is enabled to *temporarily* transfer executable programs such as scripts and plug-ins.
+- The [[Web Server]] is enabled to *temporarily* transfer executable programs such as scripts and plug-ins.
 - Drawback: Technology coupling is created between client and server, since client will need to understand and execute the code.
 - Conclusion: Code-On-Demand is the only **optional** constraint in Web's architectural style.
