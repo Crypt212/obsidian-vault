@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Backend Development/Web Architecture.md",
+                "file": "MindMap/Software Engineering/Network/Protocols/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Architecture"
+              "title": "HTTP"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "58bb8f56d042944d",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Network/Protocols/HTTP.md",
     "MindMap/Software Engineering/Backend Development/Web Architecture.md",
+    "MindMap/Software Engineering/Network/Protocols/HTTP.md",
     "MindMap/Software Engineering/Backend Development/Web Server.md",
     "Notes/To learn about Laravel architecture.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Multer/Multer.md",
