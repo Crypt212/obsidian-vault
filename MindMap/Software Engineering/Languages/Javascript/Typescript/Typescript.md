@@ -11,4 +11,5 @@
        2. **Runs** the resulting JavaScript using [[Node.js]].
 # Configuration
 - The typescript project is configured using `tsconfig.json` file.
-- `compilerOptions` property has prop
+- `compilerOptions` property has properties about the **Typescript** compiler.
+- 
