@@ -1,6 +1,4 @@
 - It's basically [[JavaScript]] with strict-typing added to it.
-# How it works
-- 
 # Setup
 - We need to install some packages:-
 ### `typescript` (The Compiler/Language)
@@ -11,3 +9,4 @@
 - **What it is:** A community package that lets you run **TypeScript** files directly, without a separate compilation step. It does two things on the fly:
        1. **Trans-piles** your TypeScript to JavaScript (in memory).
        2. **Runs** the resulting JavaScript using [[Node.js]].
+# 
