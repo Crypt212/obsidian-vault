@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Database Engineering/Database Management System/Untitled.md",
+                "file": "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "DBMS"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "58bb8f56d042944d",
   "lastOpenFiles": [
     "MindMap/Software Engineering/Database Engineering/Database Design/Relational Algebra.md",
-    "MindMap/Software Engineering/Database Engineering/Database Management System/Untitled.md",
+    "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
     "MindMap/Software Engineering/Database Engineering/Database Management System",
     "MindMap/Software Engineering/Database Engineering/Database Design/Database Design.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Dependency Types.md",
