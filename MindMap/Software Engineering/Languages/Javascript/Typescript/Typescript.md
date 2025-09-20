@@ -10,4 +10,5 @@
        1. **Trans-piles** your TypeScript to JavaScript (in memory).
        2. **Runs** the resulting JavaScript using [[Node.js]].
 # Configuration
-- The typescript project is configured 
+- The typescript project is configured using `tsconfig.json` file.
+- `compilerOptions` property has prop
