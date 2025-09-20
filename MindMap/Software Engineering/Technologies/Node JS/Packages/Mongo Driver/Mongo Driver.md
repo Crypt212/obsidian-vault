@@ -1,1 +1,2 @@
-- **Mongo Driver** is [[Node JS]] package f
+- **Mongo Driver** is [[Node JS]] package for connecting [[Node JS]] applications to [[MongoDB]].
+- 
