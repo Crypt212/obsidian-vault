@@ -1,4 +1,6 @@
 - It's basically [[JavaScript]] with strict-typing added to it.
+# How it works
+- 
 # Setup
 - We need to install some packages:-
 ### `typescript` (The Compiler/Language)
