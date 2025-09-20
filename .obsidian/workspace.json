@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58bb8f56d042944d",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "MindMap/Software Engineering/Database Engineering/SQL",
     "MindMap/Software Engineering/Database Engineering/Database Design/Database Design.md",
     "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Relational Algebra.md",
@@ -212,7 +213,6 @@
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Request.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Express",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
-    "MindMap/Software Engineering/Technologies/Node JS/NPM.md",
     "MindMap/Software Engineering/Technologies/Docker",
     "MindMap/Software Engineering/Technologies/Node JS",
     "MindMap/Software Engineering/Technologies/Laravel",
