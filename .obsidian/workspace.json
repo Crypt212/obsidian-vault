@@ -178,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "58bb8f56d042944d",
   "lastOpenFiles": [
+    "MindMap/Software Engineering/Languages/PHP/Types.md",
+    "MindMap/Software Engineering/Languages/PHP/PHP.md",
     "Goals/My Goals.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
     "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
@@ -212,9 +214,7 @@
     "Goals/Learn PHP.md",
     "Goals/Learn Javascript.md",
     "Goals/Learn Laravel.md",
-    "MindMap/Software Engineering/Technologies/Node JS/Packages/Express/Request.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Express",
-    "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
     "MindMap/Software Engineering/Technologies/Docker",
     "MindMap/Software Engineering/Technologies/Node JS",
     "2025-08-04-192614_screenshot.png",

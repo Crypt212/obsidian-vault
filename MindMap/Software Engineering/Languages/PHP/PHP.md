@@ -1,9 +1,5 @@
-2025-07-23 18:50
-Tags: 
-
 PHP is mainly focused on server-side scripting, so it can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
-
-## Installation
+# Installation
 
 - Install [[MariaDB]], [[MySQL]] or any other database.  
 - Install [[Apache]] and the PHP Apache module, refer to: https://wiki.archlinux.org/title/Apache_HTTP_Server#PHP.
@@ -11,15 +7,15 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - Alternatively you can just install [[XAMPP]].
 
-## Basics
+# Basics
 
-### Variables
+## Variables
 
 - Variables are defined and used using `$`, for example: `$cat_name = "kitty"`.
 - When assigning variables to variables, they are passed by value, to pass by reference use `&` before the referenced variable.
 - **Variable Variables**! Happens when you take the value of a variable as a name for a new variable, like this: `$$cat_name = "ahmed";` which is same as `$kitty = "ahmed";`, crazy!
 
-### Constants
+## Constants
 
 - Constants are defined **at run-time** using `define(name, value, casesensitive [deprecated])` function, they are used without the `$`.
 - To check if a constant has been defined, use `defined(name)` which returns boolean.
@@ -30,14 +26,14 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 	- run-time constant can be named dynamically, since their names are string values that could come from variables, same goes for the constant value.
 	- 
 
-### Printing
+## Printing
 
 - There are some functions for printing variables, info about them and more.
 - echo function is used like this `echo $cat_name;`, it's not an expression, so can't use it in other expressions.
 - print function is used like echo, but it is an expression, and it returns 1.
 - We got `var_dump` function that gives info about given variables
 - `print_r` function for printing variables in a formatted way, could come in handy for debugging when used with `die`.
-### Commenting
+## Commenting
 
 - Single line using `#` or `//`, multiline using `/* ... */`.
 
@@ -104,3 +100,4 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - its body block needs to end with a *semicolon*; since it's an expression.
 - can be assigned to variables.
 - can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
+#
