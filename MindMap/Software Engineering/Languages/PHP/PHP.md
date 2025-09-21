@@ -101,5 +101,5 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - can be assigned to variables.
 - can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
 # Date
-- date in PHP is represented in seconds using `time()` function, which returns an **integer**.
-- 
+- Timestamp in PHP is represented in seconds using `time()` function, which returns an **integer**.
+- Date in PHP is represented in any fro
