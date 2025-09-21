@@ -103,4 +103,5 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 # Date
 - Current timestamp in PHP is represented in seconds using `time()` function, which returns an **integer**.
 - Current Date in PHP is represented in any format (ex. `"m/d/Y g:ia"`) using the `date(string $format)`, all formats are listed in https://www.php.net/manual/en/datetime.format.php.
-- Date can 
+- Date can be represented for any timestamp using `date(string $format, integer $timestamp)`.
+- 
