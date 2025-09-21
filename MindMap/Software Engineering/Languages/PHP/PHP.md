@@ -38,7 +38,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Single line using `#` or `//`, multiline using `/* ... */`.
 
 
-### Types
+## Types
 
 - To check the type, use `gettype(variable)` function.
 - Typecasting in [[PHP]] is just prepend `(type_name)` to a variable to cast it, we go these casting operators:
@@ -55,7 +55,7 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Fortunately for me there is ***type hinting*** which enforces types to function parameters and return types.
 - ***type hinting*** allows implicit conversion tho, so there is also ***strict mode***, which will throw errors if types doesn't match, lovely <3 
 
-### Scalar Types
+## Scalar Types
 -  [[Boolean]] (`bool`)
 - [[Integer]] (`int`)
 - [[Float]] (`float`)
@@ -66,18 +66,18 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - [[Callable]]
 - [[Iterators]]
 
-### Special Types
+## Special Types
 - [[Resource]]
 - [[null]]
 
 
-### Functions
+## Functions
 - functions has *local scopes*, can't access outsider variables.
 - parameters are passed by value by default, to pass by reference, prefix an `&`.
 
-#### Function Types
+### Function Types
 
-##### `Callable`
+#### `Callable`
 - Anything that can be called as a function, this includes:
 
 	- **Named Functions**: Any string variable holding name of a function as a string.	
@@ -88,16 +88,17 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 
 - To check if something is callable, pass it to `is_callable()`.
 
-##### `Closure`
+#### `Closure`
 - 
 	- 
 - ***variadic functions***! you can use `func_get_args()` and `func_num_args()` if you are a masochist, but `function f(...args)` is easier to use IMO.
 - [[PHP]] has anonymous functions!
 
 
-#### ***anonymous functions***
+### ***anonymous functions***
 - functions that doesn't have an name.
 - its body block needs to end with a *semicolon*; since it's an expression.
 - can be assigned to variables.
 - can access outsider variables, by adding those variables to ***`use`*** expression, works exactly like passing parameters to the function.
-#
+# Date
+- date in PHP is 
