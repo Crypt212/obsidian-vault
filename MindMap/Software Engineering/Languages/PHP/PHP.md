@@ -105,4 +105,4 @@ PHP is mainly focused on server-side scripting, so it can do anything any other 
 - Current Date in PHP is represented in any format (ex. `"m/d/Y g:ia"`) using the `date(string $format)`, all formats are listed in https://www.php.net/manual/en/datetime.format.php.
 - Date can be represented for any timestamp using `date(string $format, integer $timestamp)`.
 # Time Zone
-- Time in PHP is calculated in the machine's local timezone, we can change that timezone using 
+- Time in PHP is calculated in the machine's local timezone, we can change that timezone using `date_default_timezone_set()`
