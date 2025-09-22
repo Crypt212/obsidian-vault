@@ -1,2 +1,2 @@
 - **Mongo Driver** is [[Node JS]] package for connecting [[Node JS]] applications to [[MongoDB]].
-- 
+- it has a client component to conect to 
