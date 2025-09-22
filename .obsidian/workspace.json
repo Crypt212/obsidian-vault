@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Concepts/Database Object Mappers/Database Object Mapper.md",
+                "file": "MindMap/Software Engineering/Concepts/Database Object Mappers/Object-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Object Mapper"
+              "title": "Object-"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "58bb8f56d042944d",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Concepts/Database Object Mappers/ODM.md",
     "MindMap/Software Engineering/Concepts/Database Object Mappers/Database Object Mapper.md",
+    "MindMap/Software Engineering/Concepts/Database Object Mappers/Object-.md",
+    "MindMap/Software Engineering/Concepts/Database Object Mappers/Untitled",
+    "MindMap/Software Engineering/Concepts/Database Object Mappers/ODM.md",
     "MindMap/Software Engineering/Concepts/Database Object Mappers/ORM.md",
     "MindMap/Software Engineering/Concepts/Database Object Mappers",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongoose/Mongoose.md",
@@ -214,9 +216,7 @@
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Multer/Multer.md",
     "Untitled.canvas",
     "Untitled.base",
-    "MindMap/Software Engineering/Technologies/Node JS/Packages/Multer",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Prettier.md",
-    "Goals/Learn MEAN Stack.md",
     "2025-08-04-192614_screenshot.png",
     "2025-08-14-200447_screenshot.png",
     "2025-08-14-200441_screenshot.png",
