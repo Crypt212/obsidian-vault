@@ -1,1 +1,2 @@
-- **ODM (Object Data Modelling)** is tool that connects your objects to the databa
+- **ODM (Object Data Modelling)** is tool that connects your objects to the database.
+- 
