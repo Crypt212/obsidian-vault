@@ -1,0 +1,1 @@
+- **ODM (Object Data Modelling)** is tool that connects your objects to the databa
