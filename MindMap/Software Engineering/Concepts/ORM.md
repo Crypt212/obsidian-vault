@@ -1,1 +1,0 @@
-- **ORM (Object-Relational Mapper)** is a programming technique that acts as a *bridge* between the [[OOP]] applications that use objects and the database 
