@@ -1,1 +1,1 @@
-- **ORM (Object-Relational Mapper)** is a programming technique that  solves the Object-Relational [[Impedance Missmatch]] by creating a *bridge* between the [[OOP]] applications that use objects and the relational database system you use.
+- **ORM (Object-Relational Mapper)** is a programming technique that  solves the Object-Relational [[Impedance Missmatch]] by creating a *bridge* between the [[OOP]] applications that use objects and the relational database ([[SQL]]) system you use.

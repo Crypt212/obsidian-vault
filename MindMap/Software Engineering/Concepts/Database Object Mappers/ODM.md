@@ -1,2 +1,1 @@
-- **ODM (Object-Document Mapper)** is tool that connects your objects to the database.
-- 
+- **ORM (Object-Document Mapper)** is a programming technique that  solves the Object-Document [[Impedance Missmatch]] by creating a *bridge* between the [[OOP]] applications that use objects and the non-relational ([[NoSQL]]) database system you use.
