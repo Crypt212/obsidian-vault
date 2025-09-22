@@ -1,2 +1,3 @@
 - **Mongo Driver** is [[Node JS]] package for connecting [[Node JS]] applications to [[MongoDB]].
-- it has a client component to connect to the database server and query data using asynchronous pro
+- it has a client component to connect to the database server and query data using asynchronous programming.
+- 
