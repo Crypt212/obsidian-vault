@@ -1,2 +1,3 @@
 - **Mongoose** ustilizes [[Mongo Driver]] in [[Node JS]] to make dealing with database easier, it defines schemas and use built-in validations.
 - It is a kind of [[ODM]]
+- 
