@@ -1,1 +1,1 @@
-- **XSS (Cross-Site Scritpting)
+- **XSS (Cross-Site Scripting)** are type of cyber attacks that 
