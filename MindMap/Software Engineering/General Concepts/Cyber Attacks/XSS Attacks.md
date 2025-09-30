@@ -1,1 +1,1 @@
-- **XSS (Cross-Site Scripting)** are type of cyber attacks that 
+- **XSS (Cross-Site Scripting)** is a type of security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users.
