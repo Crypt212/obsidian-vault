@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS Attacks.md",
+                "file": "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS Attacks"
+              "title": "XSS"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "58bb8f56d042944d",
   "lastOpenFiles": [
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
-    "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS Attacks.md",
+    "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS.md",
     "MindMap/Software Engineering/General Concepts/Cyber Attacks",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ODM.md",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ORM.md",
