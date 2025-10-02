@@ -11,14 +11,10 @@
             "id": "58bb8f56d042944d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "New tab"
             }
           }
         ]
