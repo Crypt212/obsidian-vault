@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "332bc1c227408827",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "cefbe8d76523cdf6",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98924651c87c54d7",
+  "active": "332bc1c227408827",
   "lastOpenFiles": [
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
     "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS.md",
