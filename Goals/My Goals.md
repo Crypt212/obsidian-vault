@@ -4,7 +4,6 @@
 ## Time-bounded Tasks
 - [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
 - [ ] **[[Learn APIs]]**: Part of your backend learning plan.
-- [ ] **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
 - [ ] **[[Learn Network]]**: That will help you become a T-shaped software engineer and have more background useful for backend development.
@@ -12,7 +11,7 @@
 - [ ] [[Learn Rust]]: This is efficient language that can be used for web development and low level stuff.
 - [x] **[[Manage Job Board App]]**: You will learn to be come a good team manager.
 - [x] **[[Finish Physics Summer]]**: Finish your fucking summer!!
-
+- [x] **[[Learn Database Design]]:** That will be easy, you already in the middle of it.
 ## Habits
 
 - Solve one NeetCode/LeetCode problem every 3 days.
