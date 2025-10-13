@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a7b405868b9ca5",
+        "id": "a77b95215b7b5e64",
         "type": "tabs",
         "children": [
           {
-            "id": "98ce8a94ddf11d5e",
+            "id": "713b5fa74a53d361",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Goals/Learn MEAN Stack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "7421b361037f3bdd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Learn MEAN Stack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7421b361037f3bdd",
+  "active": "713b5fa74a53d361",
   "lastOpenFiles": [
+    "Goals/My Goals.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
     "MindMap/Software Engineering/General Concepts/Cyber Attacks/XSS.md",
     "MindMap/Software Engineering/General Concepts/Cyber Attacks",
@@ -208,7 +198,6 @@
     "MindMap/Software Engineering/Tools/XAMPP.md",
     "MindMap/Software Engineering/Tools/Apache.md",
     "MindMap/Software Engineering/Languages/PHP/Types.md",
-    "Goals/My Goals.md",
     "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver",
     "MindMap/Software Engineering/Database Engineering/SQL",
