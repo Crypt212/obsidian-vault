@@ -11,6 +11,6 @@
 - Learn Database.
 # LATER
 - Learn Rust.
-- Learn .NET.
 - Learn Agile pattern.
-- Learn React
+- Learn React.
+- Learn .NET.
