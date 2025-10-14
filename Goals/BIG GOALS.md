@@ -4,6 +4,7 @@
 - Polish your CV, Linkedin, Wassaf.
 # LONG TERM
 - Finish API 
+- 
 ## Time-bounded Tasks
 - [ ] **[[Learn APIs]]**: Part of your backend learning plan.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
