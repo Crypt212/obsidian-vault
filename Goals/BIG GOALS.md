@@ -1,9 +1,11 @@
 # URGENT
-
+- **Finish**: Because you already got a lot of experience in JS/TS and testing them.
 # MIDDEUM
+- 
 # LONG TERM
+- 
 ## Time-bounded Tasks
-- [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
+- [ ] 
 - [ ] **[[Learn APIs]]**: Part of your backend learning plan.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
