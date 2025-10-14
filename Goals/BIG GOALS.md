@@ -1,7 +1,6 @@
 # URGENT
-- Finish MEAN stack in NTI course 
-- Finish collage 
-# MIDDEUM
+- Finish MEAN stack in NTI course
+- Finish collage
 - 
 # LONG TERM
 - 
