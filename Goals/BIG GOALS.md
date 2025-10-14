@@ -1,12 +1,11 @@
 # NOW
 - Finish MEAN stack in NTI course.
-- Learn collage .
+- Learn collage materials masterfully.
 - Polish your CV, Linkedin, Wassaf.
 # LONG TERM
 - Learn API Design.
 - Learn OOAD Software Development.
 ## Time-bounded Tasks
-- [ ] **[[Learn APIs]]**: Part of your backend learning plan.
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
 - [ ] **[[Learn Network]]**: That will help you become a T-shaped software engineer and have more background useful for backend development.
