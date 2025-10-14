@@ -1,7 +1,6 @@
 # URGENT
 
 # MIDDEUM
-
 # LONG TERM
 ## Time-bounded Tasks
 - [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
