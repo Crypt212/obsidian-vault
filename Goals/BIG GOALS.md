@@ -4,7 +4,11 @@
 - Polish your CV, Linkedin, Wassaf.
 # LONG TERM
 - Learn API Design.
-- Learn OOAD Software Development.
+- Learn 
+- Learn OOAD & Software Development Process.
+- Learn Agile pattern.
+- Learn system design.
+- Learn Database.
 ## Time-bounded Tasks
 - [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
 - [ ] **[[Learn DDD]]**: That will make you rock harder.
