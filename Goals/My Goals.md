@@ -1,5 +1,9 @@
-# BIGGoals
+# BIG GOALS
+## URGENT
 
+## MID PRIORITY
+
+## LOW PROI
 ## Time-bounded Tasks
 - [ ] **[[Learn MEAN Stack]]**: Because you already got a lot of experience in JS/TS and testing them.
 - [ ] **[[Learn APIs]]**: Part of your backend learning plan.
