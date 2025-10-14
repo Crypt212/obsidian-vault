@@ -12,5 +12,7 @@
 # LATER
 - Learn Rust.
 - Learn Agile pattern.
+- Learn Computer Architecture.
+- Learn 
 - Learn React.
 - Learn .NET.
