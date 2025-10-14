@@ -1,7 +1,7 @@
-# URGENT
+# NOW
 - Finish MEAN stack in NTI course
 - Finish collage
-- 
+- Polish your CV, Linkedin, Wassaf, 
 # LONG TERM
 - 
 ## Time-bounded Tasks
