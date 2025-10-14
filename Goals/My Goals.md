@@ -1,4 +1,3 @@
-
 # Goals Dump
 
 ## Time-bounded Tasks
