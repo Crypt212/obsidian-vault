@@ -4,16 +4,16 @@
 - Polish your CV, Linkedin, Wassaf.
 # LONG TERM
 - Learn API Design.
-- Learn 
+- Learn Network.
 - Learn OOAD & Software Development Process.
-- Learn Agile pattern.
 - Learn system design.
 - Learn Database.
+# LATER
+- Learn Rust.
+- Learn .NET.
+- Learn Agile pattern.
+- Learn React
 ## Time-bounded Tasks
-- [ ] **[[Learn OOAD and Software Development Process]]**: That will make you rock.
-- [ ] **[[Learn DDD]]**: That will make you rock harder.
-- [ ] **[[Learn Network]]**: That will help you become a T-shaped software engineer and have more background useful for backend development.
-- [ ] **[[Learn Design Patterns]]**: That is a good addition to your OOP skills.
 - [ ] [[Learn Rust]]: This is efficient language that can be used for web development and low level stuff.
 - [x] **[[Manage Job Board App]]**: You will learn to be come a good team manager.
 - [x] **[[Finish Physics Summer]]**: Finish your fucking summer!!
