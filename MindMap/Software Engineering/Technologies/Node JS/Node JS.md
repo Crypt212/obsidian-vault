@@ -30,6 +30,8 @@
 ### `path`
 - It is a module for managing paths, it has these methods:
 	- `basename`: returns the last portion of the path (which is the file/directory name).
+	- `extname`: returns the extension of the file.
+	- `parse`: 
 - `events`
 - `fs`
 - `stream`
