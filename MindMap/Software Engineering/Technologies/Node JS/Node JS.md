@@ -15,7 +15,9 @@
 # Limitations
 - **CPU-bound Tasks.** If you give the single-threaded Event Loop a task that requires a lot of calculation (e.g., complex mathematical computations, sorting huge arrays, image/resize processing, synchronous CPU-intensive logic), it will **block** the loop.
 # Modules
-- Modules are encapsulated and reusable chunks of code 
+- Modules are encapsulated and reusable chunks of code that has its own context
+- In [[Node JS]], each file is treated as a seperate module.
+## Types of M
 ## CommonJS Modules
 
 ## Ecmascript Modules
