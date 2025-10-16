@@ -37,7 +37,8 @@
 		- `base`: the last portion of the path (the file/directory).
 		- `ext`: the extension of the path.
 		- `name`: the name of the file/directory.
-	- `format()`: takes an information object that has properties li
+	- `format()`: takes an object that has properties from the `parse()`'s return and returns a path string.
+	- `isApsolute`
 - `events`
 - `fs`
 - `stream`
