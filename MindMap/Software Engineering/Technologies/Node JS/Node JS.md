@@ -21,7 +21,7 @@
 - [[Node JS]] defaulted to [[Modules|CommonJS]] as its [[Modules|module]] system.
 - As of ES2015, [[Javascript]] does have a standardised module system as part of the language itself.
 - That new [[modules|module]] system is called the [[Modules|EcmaScript Modules]], ES Modules, or ESM.
-- The [[Modules|ES Modules]] is now sup
+- The [[Modules|ES Modules]] is now supported by [[Node JS]].
 ## Types of Modules
 - Local modules - [[Modules]] that we create in our application.
 - Built-in modules - [[Modules]] provided by the [[Node JS]] out of the box.
