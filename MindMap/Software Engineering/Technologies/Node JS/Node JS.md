@@ -27,7 +27,8 @@
 - Built-in modules - [[Modules]] provided by the [[Node JS]] out of the box.
 - Third party [[modules]] - [[Modules]] provided by other developers.
 ## Built-in Modules
-- `path`
+### `path`
+	
 - `events`
 - `fs`
 - `stream`
