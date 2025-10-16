@@ -21,10 +21,9 @@
 - Local modules - Modules that we create in our application.
 - Built-in modules - Modules provided by the [[Node JS]] out of the box.
 - Third party modules - Modules provided by other developers.
-## Supported Module 
-## CommonJS Modules
-
-## Ecmascript Modules
+## Supported Module Systems
+- CommonJS modules
+- Ecmascript modules
 
 ## Module Caching
 - when modules are imported using [[CommonJS]] modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
