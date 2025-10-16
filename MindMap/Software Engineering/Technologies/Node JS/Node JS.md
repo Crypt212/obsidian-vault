@@ -52,7 +52,7 @@ import 'boo.js';
 ```
 - `__filename`: is the name of the filename of the current module.
 - `__dirname`: is the name of the directory in which the current module exists.
-- 
+- `require`: is the function used to import 
 - `__exports`: 
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
