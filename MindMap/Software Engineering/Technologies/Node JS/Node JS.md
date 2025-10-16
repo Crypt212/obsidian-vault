@@ -17,7 +17,9 @@
 # Modules
 - Modules are encapsulated and reusable chunks of code that has its own context
 - In [[Node JS]], each file is treated as a seperate module.
-
+## History
+- At the time [[Node JS]] was created, there was no built-in module system in [[Javascript]].
+- [[Node JS]] defaulted 
 ## Types of Modules
 - Local modules - Modules that we create in our application.
 - Built-in modules - Modules provided by the [[Node JS]] out of the box.
