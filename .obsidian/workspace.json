@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/General Concepts/Streams.md",
+                "file": "MindMap/Software Engineering/General Concepts/Streams & Buffers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "Streams & Buffers"
             }
           }
         ],
@@ -210,7 +210,7 @@
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
     "MindMap/Software Engineering/Database Engineering/Database Design/Normalization.md",
-    "MindMap/Software Engineering/General Concepts/Streams.md",
+    "MindMap/Software Engineering/General Concepts/Streams & Buffers.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Dependency Types.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Database Design.md",
     "Goals/BIG GOALS.md",
