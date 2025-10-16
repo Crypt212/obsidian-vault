@@ -44,7 +44,8 @@ import 'boo.js';
 // boo
 ```
 - This is achieved under the hood by wrapping the content of module in an [[IIFE]] function when imported.
-## Module Wra
+## Module Wrapper
+- This is the form t
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
 - When modules are imported using 
