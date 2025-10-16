@@ -50,7 +50,7 @@ import 'boo.js';
 (function(exports, require, module, __filename, __dirname) {
 })
 ```
-
+- `__exports`: 
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
 - When modules are imported using 
