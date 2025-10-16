@@ -1,6 +1,8 @@
 # NOW
 - Solve one NeetCode/LeetCode problem every 3 days.
 - Finish MEAN stack in NTI course.
+	- [ ] Learn and document Javascript
+	- [ ] Learn and document 
 - Learn collage materials masterfully.
 - Polish your CV, Linkedin and Wassaf.
 # LONG TERM
