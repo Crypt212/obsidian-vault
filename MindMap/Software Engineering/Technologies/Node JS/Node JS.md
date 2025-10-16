@@ -17,11 +17,11 @@
 # Modules
 - In [[Node JS]], each file is treated as a seperate [[Modules|module]].
 ## History
-- At the time [[Node JS]] was created, there was no built-in [[module]] system in [[Javascript]].
-- [[Node JS]] defaulted to CommonJS as its module system.
+- At the time [[Node JS]] was created, there was no built-in [[Modules|module]] system in [[Javascript]].
+- [[Node JS]] defaulted to [[Modules|CommonJS]] as its [[Modules|module]] system.
 - As of ES2015, [[Javascript]] does have a standardised module system as part of the language itself.
-- That new module system is called the EcmaScript Modules, ES Modules, or ESM.
+- That new module system is called the [[Modules|EcmaScript Modules]], ES Modules, or ESM.
 ## Types of Modules
-- Local modules - Modules that we create in our application.
-- Built-in modules - Modules provided by the [[Node JS]] out of the box.
-- Third party modules - Modules provided by other developers.
+- Local modules - [[Modules]] that we create in our application.
+- Built-in modules - [[Modules]] provided by the [[Node JS]] out of the box.
+- Third party [[modules]] - [[Modules]] provided by other developers.
