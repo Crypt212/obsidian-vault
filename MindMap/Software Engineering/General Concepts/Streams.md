@@ -1,0 +1,2 @@
+- Is a sequence of data being transferred from one point to another over time.
+- 
