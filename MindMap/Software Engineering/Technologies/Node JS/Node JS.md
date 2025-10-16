@@ -45,6 +45,7 @@ import 'boo.js';
 ```
 - This is achieved by using ***module wrapper***.
 ## Module Wrapper
+- under the hood, every module (including the starting main/index module) is wrapped in an [[IIFE]] function call
 - This is the function that the [[Node JS]] wraps around imported modules:
 ```javascript
 (function())
