@@ -39,7 +39,8 @@
 		- `name`: the name of the file/directory.
 	- `format()`: takes an object that has properties from the `parse()`'s return and returns a path string.
 	- `isAbsolute()`: returns whether path is absolute or not.
-	- `join()`: takes an array of strings and joins them into a path using the used platform-specific seperetor (ex, `/` for mac/linux and `\` for windows). 
+	- `join()`: takes an array of strings and joins them into a path using the used platform-specific seperator (ex, `/` for Mac/Linux and `\` for Windows), it also normalises the .
+	- 
 - `events`
 - `fs`
 - `stream`
