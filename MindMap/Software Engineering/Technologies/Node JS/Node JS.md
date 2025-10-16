@@ -38,7 +38,8 @@
 		- `ext`: the extension of the path.
 		- `name`: the name of the file/directory.
 	- `format()`: takes an object that has properties from the `parse()`'s return and returns a path string.
-	- `isApsolute`
+	- `isAbsolute()`: returns whether path is absolute or not.
+	- 
 - `events`
 - `fs`
 - `stream`
