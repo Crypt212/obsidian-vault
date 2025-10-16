@@ -21,7 +21,7 @@
 - Local modules - Modules that we create in our application.
 - Built-in modules - Modules provided by the [[Node JS]] out of the box.
 - Third party modules - Modules provided by other developers.
-## Supported 
+## Supported Module 
 ## CommonJS Modules
 
 ## Ecmascript Modules
