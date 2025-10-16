@@ -52,7 +52,7 @@ import 'boo.js';
 ```
 - `__filename`: is the name of the filename of the current module.
 - `__dirname`: is the name of the directory in which the current module exists.
-- `require`: is the function used to import other modules.
+- `require`: is the function used to import other modules, it has some important properties like the `cache` that holds a map from module paths to its `Modul`
 - `exports`: the exports for 
 - `module`: holds information for the current module.
 ## Module Caching
