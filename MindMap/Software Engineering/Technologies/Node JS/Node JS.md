@@ -40,9 +40,10 @@
 	- `format()`: takes an object that has properties from the `parse()`'s return and returns a path string.
 	- `isAbsolute()`: returns whether path is absolute or not.
 	- `join()`: takes an array of strings and joins them into a path using the used platform-specific separator (ex, `/` for Mac/Linux and `\` for Windows), it also normalises the strings before concatenation (ex, `path.join('/f1', '//f2', '../f4', '////f3')` gives `/f1/f4/f3`).
-	- `resolve()`: works like `join()` with some differences, it always returns an absolute path
+	- `resolve()`: works like `join()` with some differences, it always returns an absolute path, here is how:
 		- if some of string arguments contain a separator at the beginning, it will take the last argument as the root ignore what is before it.
-		- if non of the string arguments contain a separator, at the beginning it will 
+		- if non of the string arguments contain a separator, at the beginning it will prepend the `__dirname` to the resolved path.
+	- 
 - `events`
 - `fs`
 - `stream`
