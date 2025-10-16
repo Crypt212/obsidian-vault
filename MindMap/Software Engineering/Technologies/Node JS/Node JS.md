@@ -29,14 +29,15 @@
 ## Built-in Modules
 ### `path`
 - It is a module for managing paths, it has these methods:
-	- `basename`: returns the last portion of the path (which is the file/directory name).
-	- `extname`: returns the extension of the file.
-	- `parse`: parses some information about the path:
+	- `basename()`: returns the last portion of the path (which is the file/directory name).
+	- `extname()`: returns the extension of the file.
+	- `parse()`: parses some information about the path and returns it in an object with these properties:
 		- `root`: the root of the path.
 		- `dir`: the directory portion of the path that contains the file/directory.
-		- `base`: the last portion of the path (the file.
+		- `base`: the last portion of the path (the file/directory).
 		- `ext`: the extension of the path.
 		- `name`: the name of the file/directory.
+	- `format()`: takes an information object that has properties li
 - `events`
 - `fs`
 - `stream`
