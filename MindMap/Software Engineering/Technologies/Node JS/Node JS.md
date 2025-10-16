@@ -45,9 +45,9 @@ import 'boo.js';
 ```
 - This is achieved by using ***module wrapper***.
 ## Module Wrapper
-- under the hood, every module (including the starting main/index module) is wrapped in an [[IIFE]] function call, it  modules:
+- under the hood, every module (including the starting main/index module) is wrapped in an [[IIFE]] function call, it looks something like this:
 ```javascript
-(function())
+(function(exports))
 ```
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
