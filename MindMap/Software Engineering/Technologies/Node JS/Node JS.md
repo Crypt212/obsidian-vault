@@ -29,7 +29,15 @@
 ```javascript
 // foo.js
 const a = 'foo';
-co
+console.log(a);
+
+// boo.js
+const a = 'boo'; // same constant name
+console.log(a);
+
+// index.js
+import 'foo.js';
+import 'foo.js';
 ```
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
