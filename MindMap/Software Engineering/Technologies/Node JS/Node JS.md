@@ -56,7 +56,8 @@ import 'boo.js';
 - `exports`: is a reference to the `module.exports` property.
 - `module`: is a `Module` instance that holds information for the current module, one example is the `exports` property which holds the exported data from the current module.
 ### Favour `module.exports` over `exports`
-- `exports` is a reference to the object `module.exports`, if we set `exports.x`, that sets
+- `exports` is a reference to the object `module.exports`, if we set data to `exports.x`, that sets it to the property  `module.exports.x`.
+- **The Proplem**: if we assign an object to `exports`
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
 - When modules are imported using 
