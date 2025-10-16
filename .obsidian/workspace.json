@@ -35,8 +35,7 @@
               "title": "Modules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd5ba2d07e62ecb0",
+  "active": "713b5fa74a53d361",
   "lastOpenFiles": [
+    "MindMap/Software Engineering/Languages/Javascript/Modules.md",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
     "Goals/BIG GOALS.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Normalization.md",
-    "MindMap/Software Engineering/Languages/Javascript/Modules.md",
     "MindMap/Software Engineering/Languages/Javascript/IIFE.md",
     "MindMap/Software Engineering/Technologies/Node JS/CommonJS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Buffers & Streams.md",

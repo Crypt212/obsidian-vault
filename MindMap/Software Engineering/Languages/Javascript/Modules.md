@@ -22,7 +22,7 @@ import 'boo.js';
 // boo
 ```
 - This is achieved by using ***module wrapper***.
-## Module Wrapper
+# Module Wrapper
 - under the hood, every module (including the starting main/index module) is wrapped in an [[IIFE]] function call, it looks something like this:
 ```javascript
 (function(exports, require, module, __filename, __dirname) {
@@ -33,9 +33,9 @@ import 'boo.js';
 - `require`: is the function used to import other modules, it has some important properties like the `cache` that holds a map from cached imported module paths to its `Module` instances.
 - `exports`: is a reference to the `module.exports` property.
 - `module`: is a `Module` instance that holds information for the current module, one example is the `exports` property which holds the exported data from the current module.
-### Favour `module.exports` over `exports`
+## Favour `module.exports` over `exports`
 - `exports` is a reference to the object `module.exports`, if we set data to `exports.x`, that sets it to the property  `module.exports.x`.
 - **The Proplem**: if we assign an object (containing our exported functions for example) to `exports`, [[Javascript]] will interpret that as breaking the reference and setting the new object for `exports` only, meaning `exports` will not be a reference to `module.exports` anymore.
-## Module Caching
+# Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
 - When modules are imported using 
