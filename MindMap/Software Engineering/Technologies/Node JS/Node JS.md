@@ -33,9 +33,10 @@
 	- `extname`: returns the extension of the file.
 	- `parse`: parses some information about the path:
 		- `root`: the root of the path.
-		- `dir`: the directory portion of the path.
-		- `base`: the last portion of the path.
-		- 
+		- `dir`: the directory portion of the path that contains the file/directory.
+		- `base`: the last portion of the path (the file.
+		- `ext`: the extension of the path.
+		- `name`: the name of the file/directory.
 - `events`
 - `fs`
 - `stream`
