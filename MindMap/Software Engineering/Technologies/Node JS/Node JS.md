@@ -54,7 +54,8 @@ import 'boo.js';
 - `__dirname`: is the name of the directory in which the current module exists.
 - `require`: is the function used to import other modules, it has some important properties like the `cache` that holds a map from cached imported module paths to its `Module` instances.
 - `exports`: is a reference to the `module.exports` property.
-- `module`: is a `Module` instance that holds information for the current module, one example is the `exports` property which holds the exported data from the current module..
+- `module`: is a `Module` instance that holds information for the current module, one example is the `exports` property which holds the exported data from the current module.
+### Favour `module exports`
 ## Module Caching
 - When modules are imported using *CommonJS* modules system, imports done by `require` are saved in `require.cache`, they are cached so that when requiring them again they don't reload them from start.
 - When modules are imported using 
