@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/BIG GOALS.md",
+                "file": "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BIG GOALS"
-            }
-          },
-          {
-            "id": "553c10532f8143bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MindMap/Software Engineering/Database Engineering/Database Design/Normalization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normalization"
+              "title": "Node JS"
             }
           },
           {
@@ -41,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
+                "file": "MindMap/Software Engineering/Languages/Javascript/Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node JS"
+              "title": "Modules"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,15 +195,16 @@
   },
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Languages/Javascript/IIFE.md",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
+    "Goals/BIG GOALS.md",
+    "MindMap/Software Engineering/Database Engineering/Database Design/Normalization.md",
+    "MindMap/Software Engineering/Languages/Javascript/Modules.md",
+    "MindMap/Software Engineering/Languages/Javascript/IIFE.md",
     "MindMap/Software Engineering/Technologies/Node JS/CommonJS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Buffers & Streams.md",
     "MindMap/Software Engineering/General Concepts/Streams & Buffers.md",
-    "MindMap/Software Engineering/Database Engineering/Database Design/Normalization.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Dependency Types.md",
     "MindMap/Software Engineering/Database Engineering/Database Design/Database Design.md",
-    "Goals/BIG GOALS.md",
     "Goals/Learn OOAD and Software Development Process.md",
     "Goals/Learn Rust.md",
     "Goals/Learn MEAN Stack.md",
@@ -239,7 +226,6 @@
     "MindMap/Software Engineering/Tools/XAMPP.md",
     "MindMap/Software Engineering/Tools/Apache.md",
     "MindMap/Software Engineering/Languages/PHP/Types.md",
-    "MindMap/Software Engineering/Database Engineering/Database Management System/DBMS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver",
     "MindMap/Software Engineering/Database Engineering/SQL",
     "MindMap/Software Engineering/Database Engineering/Database Management System",
