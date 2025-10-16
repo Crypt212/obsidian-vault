@@ -43,7 +43,7 @@ import 'boo.js';
 // foo
 // boo
 ```
-- This is achieved under the hood by wrapping the content of module in an [[IIFE]] function when imported.
+- This is achieved by using ***module wrapper***.
 ## Module Wrapper
 - This is the function that the [[Node JS]] wraps around imported modules:
 ```javascript
