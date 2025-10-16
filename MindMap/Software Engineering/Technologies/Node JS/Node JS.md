@@ -19,7 +19,8 @@
 - In [[Node JS]], each file is treated as a seperate module.
 ## History
 - At the time [[Node JS]] was created, there was no built-in module system in [[Javascript]].
-- [[Node JS]] defaulted 
+- [[Node JS]] defaulted to CommonJS as its module system.
+- As of ES2015, [[Javascript]] does have a standarized module system as part of the language itse
 ## Types of Modules
 - Local modules - Modules that we create in our application.
 - Built-in modules - Modules provided by the [[Node JS]] out of the box.
