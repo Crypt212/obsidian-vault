@@ -28,7 +28,8 @@
 - Third party [[modules]] - [[Modules]] provided by other developers.
 ## Built-in Modules
 ### `path`
-	
+- It is a module for managing paths, it has these methods:
+	- 
 - `events`
 - `fs`
 - `stream`
