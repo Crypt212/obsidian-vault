@@ -15,5 +15,5 @@ $$ S = \{x: x = a^3, a \in N, 3 \lt a \lt 5 \}$$
 - The union of sets $A$  and $B$ is a new set that contains all elements in $A$ and $B$, no duplicates of course, this is represented as $A \cup B$.
 - The intersect of sets $A$  and $B$ is a new set that contains elements that exist in both $A$ and $B$ at the same time, this is represented as $A \cap B$.
 - **Complement**: The complement of $A$, denoted $A^{c}$, contains all elements not in $A$ relative to a universal set.
-- **Cartesian Product**: The set of ordered pairs $A × B = { (a , b)| a \in A \cap b }$. Cartesian products are often used to describe the state
+- **Cartesian Product**: The set of ordered pairs $A × B = \{ (a , b)| a \in A and b \in B \}$. Cartesian products are often used to describe the state
 transitions in automata. 
