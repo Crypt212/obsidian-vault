@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Mathematics/Set Theory/Set Theory.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Theory"
+              "title": "Theory Of Computation"
             }
           },
           {
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "713b5fa74a53d361",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/Languages/Javascript/JSON.md",
     "MindMap/Mathematics/Set Theory/Set Theory.md",
+    "MindMap/Software Engineering/Languages/Javascript/JSON.md",
     "MindMap/Mathematics/Set Theory",
     "MindMap/Software Engineering/DevOps Engineering/DevOps Engineering.md",
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
