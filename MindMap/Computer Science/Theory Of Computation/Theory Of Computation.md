@@ -7,5 +7,5 @@
 - **Strengthening Cryptography and Security**: Understanding the limits of computation can help in designing secure and hard-to-break encryption systems.
 - **Guiding Innovation in Emerging Technologies**: Helps defining the capabilities and limitations of new emerging computational models (like quantum computing), allowing us to design new algorithms that leverage these computational models, pushing the boundaries of what is possible.
 # Languages and Grammers
-- **Alphabet**: is a set of symbols. In Automata Theory, this it represents the set of inputs.
-- **String**: a finite concatenation of elements
+- **Alphabet**: is a set of symbols. In Automata Theory, it represents the set of inputs.
+- **String**: a finite concatenation of elements from the **Alphabet**. In Automata Theory, it represents
