@@ -42,4 +42,5 @@ language is not regular. It provides a property that all regular language must s
 - There are common ways of representing languages finitely:
 ## Regular Expressions
 ## Finite Automata
-## Context-Free Grammars
+## Context-Free Grammars (CFG)
+## Turing Machines
