@@ -1,1 +1,3 @@
-- **Same-Origin Policy** is a concept in web app security model, under the policy, 
+- **Same-Origin Policy** is a concept in web app security model, under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, **only if** both web pages have the *same origin*.
+- An *origin* is defined as a combination of URI scheme, host name, and port number.
+- This policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page's Document Object Model.
