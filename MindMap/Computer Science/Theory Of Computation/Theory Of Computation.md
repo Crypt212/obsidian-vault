@@ -15,19 +15,14 @@
 - **Grammer**: a set of production rules that define how strings in a language are formed.
 ## Example
 - - **Context-Free Grammar for balanced parentheses:**
-        - Alphabet: Σ = { `(`, `)` }
-        - Variables: { `S` }
-        - Start Symbol: `S
-        - Production Rules:
-            
-            1. `S -> ( S )` (A balanced thing can be inside parentheses)
-                
-            2. `S -> S S` (Two balanced things in a row are balanced)
-                
-            3. `S -> ε` (An empty string is balanced)
-                
-        - Using these rules, you can generate `"()(())"` by starting with `S` and applying the rules.
-            
+	- Alphabet: Σ = { `(`, `)` }
+	- Variables: { `S` }
+	- Start Symbol: `S`
+	- Production Rules (Grammar):
+		1. `S -> ( S )` (A balanced thing can be inside parentheses)
+		2. `S -> S S` (Two balanced things in a row are balanced)
+		3. `S -> ε` (An empty string is balanced)
+	- Using these rules, you can generate `"()(())"` by starting with `S` and applying the rules.
 
 ### Summary in a Nutshell
 
