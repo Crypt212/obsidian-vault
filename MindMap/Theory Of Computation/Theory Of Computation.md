@@ -3,4 +3,4 @@
 # Importance of Computation theory
 - **Defining limits of *Computation***: helps to avoid wasting resources (time, memory ... etc) on problems unsolvable by *Computation*.
 - **Optimizing Algorithms Efficiency**: *Complexity Theory* categorizes problems based on resources needed to solve it (P, NP, NP-hard, NP-complete), providing guidance to decide whether to seek exact solutions or focus on approximations.
-- **Enabling Practical Software and System Designs**:
+- **Enabling Practical Software and System Designs**: Automata theory is foundational in designing programming languages and compilers
