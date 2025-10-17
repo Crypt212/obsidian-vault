@@ -1,1 +1,1 @@
-- **Cross-Domain Access Controls (CDAD)** 
+- **Cross-Domain Access Controls (CDAD)** is a policy prohibiting  
