@@ -4,4 +4,4 @@
 $$S = \{1, 2, 3, 4, 5\}$$
 > For sets containing infinite numbers, we set some of the elements then put `...`.
 $$ S = \{1, 2, 3, 4, ..., -1, -2, -3, -4, ...\}$$
-	- **Set-Builder Form**: a
+	- **Set-Builder Form**: set is expressed as a relation that holds on all o
