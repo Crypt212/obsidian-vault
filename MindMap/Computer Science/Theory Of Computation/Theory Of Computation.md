@@ -17,7 +17,8 @@
 language is not regular. It provides a property that all regular language must satisfy, and if a language does not satisfy this, it is not regular.
 - **Pumping Lemma for Context-Free Languages**: similar to the regular pumping lemma, this is used to show that a language is not context-free.
 - **Turing Machine**: an abstract mathematical model of computation that manipulates symbols on infinite tape according to a set of rules.
-- **Decidability**: whether a problem can be solved using a turing machine that will halt and provide correct 
+- **Decidability**: whether a problem can be solved using a turing machine that will halt and provide a correct answer for all inputs.
+- 
 ## Example
 - - **Context-Free Grammar for balanced parentheses:**
 	- Alphabet: Σ = { `(`, `)` }
