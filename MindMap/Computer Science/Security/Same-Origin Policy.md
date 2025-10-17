@@ -1,0 +1,1 @@
+- **Same-Origin** is a policy prohibiting  
