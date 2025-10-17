@@ -15,10 +15,8 @@
 - **Grammar**: a set of production rules that define how strings in a language are formed.
 - **Pumping Lemma for Regular Languages**: This is used to prove that a given
 language is not regular. It provides a property that all regular language must satisfy, and if a language does not satisfy this, it is not regular.
-- **Pump-
-ing Lemma for Context-Free Languages: Similar to the regular pumping
-
-lemma, this is used to show that a language is not context-free.
+- **Pumping Lemma for Context-Free Languages**: Similar to the regular pumping lemma, this is used to show that a language is not context-free.
+- 
 ## Example
 - - **Context-Free Grammar for balanced parentheses:**
 	- Alphabet: Σ = { `(`, `)` }
