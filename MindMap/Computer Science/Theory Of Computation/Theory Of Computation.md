@@ -28,7 +28,7 @@ language is not regular. It provides a property that all regular language must s
 		2. `S -> S S` (Two balanced things in a row are balanced)
 		3. `S -> ε` (An empty string is balanced)
 	- Using these rules, you can generate `"()(())"` by starting with `S` and applying the rules.
-	- SS
+	- S(S)
 
 ## Operations on Languages
 - Languages can be combined and manipulated using various operations:
