@@ -10,4 +10,5 @@
 - **Alphabet**: is a set of symbols. In Automata Theory, it represents the set of inputs.
 - **String**: a finite concatenation of elements from the **Alphabet**. In Automata Theory, it represents the sequence of inputs.
 - **Formal Language**: a set of **strings** over an alphabet.
-- **Regular Language**: can be recognized by finite automata and described 
+- **Regular Language**: can be recognized by finite automata and described using regular expressions.
+- **Context-Free Language: 
