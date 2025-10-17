@@ -8,4 +8,6 @@ $$ S = \{x: x = a^3, a \in N, 3 \lt a \lt 5 \}$$
 # Cardinality
 - Cardinality is the number of elements in a set, represented by $|S|$ for a set $S$.
 # Empty Set
-- Se
+- Sets with no elements are said to equal $\phi$.
+# Properities
+- 
