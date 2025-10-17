@@ -39,4 +39,7 @@ language is not regular. It provides a property that all regular language must s
 # Finite Representation of Language
 - Refers to the method of depicting a language (infinite set of strings) in a compact and precise way with finite structure.
 - **WHY?** Because, while languages can be infinite set of strings, we need to describe or recognize the the language using finite mechanisms, like automata or grammars.
-- There are common ways of representing
+- There are common ways of representing languages finitely:
+## Regular Expressions
+## Finite Automata
+## Context-Free Grammars
