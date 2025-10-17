@@ -5,4 +5,4 @@
 - **Optimizing Algorithms Efficiency**: *Complexity Theory* categorizes problems based on resources needed to solve it (P, NP, NP-hard, NP-complete), providing guidance to decide whether to seek exact solutions or focus on approximations.
 - **Enabling Practical Software and System Designs**: *Automata Theory* is foundational in designing programming languages and compilers and allows the creation of more reliable and optimized software systems.
 - **Strengthening Cryptography and Security**: Understanding the limits of computation can help in designing secure and hard-to-break encryption systems.
-- **Guiding Innovation in Emerging Technologies**: Helps defining the capabilities and limitations of new emerging computation (like quantum computing), allowing us to design 
+- **Guiding Innovation in Emerging Technologies**: Helps defining the capabilities and limitations of new emerging computation (like quantum computing), allowing us to design new algorithms that leverage these new computational models, pushing the boundaries of what is possible.
