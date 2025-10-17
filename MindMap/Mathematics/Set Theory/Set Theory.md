@@ -10,4 +10,5 @@ $$ S = \{x: x = a^3, a \in N, 3 \lt a \lt 5 \}$$
 # Empty Set
 - Sets with no elements are said to equal $\phi$.
 # Properities
-- A set $A$ is a subset of another set $B$ if the elements of the $A$ are all present in $B$, this is represented as $A \subseteq B$.
+- A set $A$ is a **subset** of another set $B$ if the elements of the $A$ are all present in $B$, this is represented as $A \subseteq B$.
+- A set $A$ is a **strict subset** of another set $B$ if the elements of the $A$ are all present in $B$ but $A \not= B$ , this is represented as $A \subseteq B$.
