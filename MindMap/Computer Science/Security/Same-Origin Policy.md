@@ -1,1 +1,1 @@
-- **Same-Origin** is a policy prohibiting  
+- **Same-Origin Policy** is a concept in web app security model, under the policy, 
