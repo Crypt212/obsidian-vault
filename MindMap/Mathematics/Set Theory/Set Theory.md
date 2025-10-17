@@ -1,2 +1,3 @@
 - **Set** is a collection of distinct objects, objects does not repeat inside a set.
-- 
+- There are 2 ways to describe a **set**:
+	- Explicit: 
