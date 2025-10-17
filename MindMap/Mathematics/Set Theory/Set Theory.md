@@ -6,4 +6,4 @@ $$ S = \{1, 2, 3, 4, ..., -1, -2, -3, -4, ...\}$$
 	- **Set-Builder Form**: set is expressed with some relations that hold across all its elements, example:
 $$ S = \{x: x = a^3, a \in N, 3 \lt a \lt 5 \}$$
 # Cardinality
-- 
+- Cardinality is the number of elements in a set, represented by $|
