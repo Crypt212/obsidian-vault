@@ -5,4 +5,4 @@ $$S = \{1, 2, 3, 4, 5\}$$
 > For sets containing infinite numbers, we set some of the elements then put `...`.
 $$ S = \{1, 2, 3, 4, ..., -1, -2, -3, -4, ...\}$$
 	- **Set-Builder Form**: set is expressed with some relations that hold across all its elements, example:
-$$ S = \{x: x = a^3, a \belongs \}
+$$ S = \{x: x = a^3, a \belong N, 3 \lt a \lt 5 \}$$
