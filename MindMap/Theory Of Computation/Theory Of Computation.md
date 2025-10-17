@@ -1,1 +1,2 @@
-- Theory of Computation is a branch of computer science and mathematics concerned with understanding the capabilities of  a problem is sovlable 
+- Theory of Computation is a branch of computer science and mathematics concerned with understanding the limitations of computing machines.
+- Computation is the process of performing calculations or solving problems through a series of well-defined steps
