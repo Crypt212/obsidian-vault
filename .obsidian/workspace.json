@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Software Engineering/Languages/Javascript/JSON.md",
+                "file": "MindMap/Mathematics/Set Theory/Set Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON"
+              "title": "Set Theory"
             }
           },
           {
@@ -192,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "713b5fa74a53d361",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
-    "MindMap/Software Engineering/DevOps Engineering/DevOps Engineering.md",
     "MindMap/Software Engineering/Languages/Javascript/JSON.md",
+    "MindMap/Mathematics/Set Theory/Set Theory.md",
+    "MindMap/Mathematics/Set Theory",
+    "MindMap/Software Engineering/DevOps Engineering/DevOps Engineering.md",
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
     "MindMap/Mathematics",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
@@ -226,10 +228,8 @@
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongoose/Mongoose.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongoose",
-    "MindMap/Software Engineering/Technologies/MongoDB/MongoDB.md",
     "MindMap/Software Engineering/Technologies/MongoDB",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver",
-    "MindMap/Software Engineering/Database Engineering/SQL",
     "Untitled.canvas",
     "2025-08-04-192614_screenshot.png",
     "2025-08-14-200447_screenshot.png",
