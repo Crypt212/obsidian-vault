@@ -11,17 +11,10 @@
             "id": "bd5ba2d07e62ecb0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,8 +176,10 @@
   },
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "Goals/Learn OOAD and Software Development Process.md",
+    "MindMap/Software Engineering/Languages/Javascript/Untitled.base",
+    "MindMap/Software Engineering/Languages/Javascript/Modules.md",
     "Untitled.canvas",
+    "Goals/Learn OOAD and Software Development Process.md",
     "Goals/Learn MEAN Stack.md",
     "Goals/BIG GOALS.md",
     "MindMap/Computer Science/Security/Same-Origin Policy.md",
@@ -200,7 +195,6 @@
     "MindMap/Computer Science/Security/Cyber Attacks/XSS.md",
     "MindMap/Computer Science/Theory Of Computation",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
-    "MindMap/Software Engineering/Languages/Javascript/Modules.md",
     "MindMap/Computer Science/Database Design/Normalization.md",
     "MindMap/Software Engineering/Languages/Javascript/IIFE.md",
     "MindMap/Software Engineering/Technologies/Node JS/CommonJS.md",
@@ -218,7 +212,6 @@
     "MindMap/Software Engineering/Concepts/Database Object Mappers/Untitled",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongoose",
-    "MindMap/Software Engineering/Technologies/MongoDB",
     "2025-08-04-192614_screenshot.png",
     "2025-08-14-200447_screenshot.png",
     "2025-08-14-200441_screenshot.png",
