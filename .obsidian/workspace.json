@@ -11,10 +11,17 @@
             "id": "bd5ba2d07e62ecb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Undecided Roadmap.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Undecided Roadmap"
             }
           }
         ]
@@ -174,13 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd5ba2d07e62ecb0",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Undecided Roadmap.canvas",
     "Images/2025-08-14-200430_screenshot.png",
     "Images",
     "MindMap/Software Engineering/Languages/Javascript/Untitled.base",
     "MindMap/Software Engineering/Languages/Javascript/Modules.md",
-    "Untitled.canvas",
     "Goals/Learn OOAD and Software Development Process.md",
     "Goals/Learn MEAN Stack.md",
     "Goals/BIG GOALS.md",
@@ -210,7 +218,6 @@
     "MindMap/Computer Science/Security/Cyber Attacks",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ODM.md",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ORM.md",
-    "MindMap/Software Engineering/Database Engineering/Database Object Mappers/Impedance Missmatch.md",
     "MindMap/Software Engineering/Concepts/Database Object Mappers/Untitled",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers",
     "Images/2025-08-04-192614_screenshot.png",
