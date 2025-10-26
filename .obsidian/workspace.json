@@ -15,8 +15,8 @@
               "state": {
                 "file": "Undecided Roadmap.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 40,
+                  "y": -80,
                   "zoom": 0
                 }
               },
@@ -181,10 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "Untitled.md",
+    "home/crypt/Books/Learning.md",
     "Undecided Roadmap.canvas",
+    "home/crypt/Books",
+    "home/crypt",
+    "home",
+    "Untitled.md",
     "Images/2025-08-14-200430_screenshot.png",
     "Images",
     "MindMap/Software Engineering/Languages/Javascript/Untitled.base",
@@ -215,11 +219,7 @@
     "Goals/Learn Rust.md",
     "Goals/Learn Database Design.md",
     "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
-    "MindMap/Computer Science/Security/Cyber Attacks",
     "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ODM.md",
-    "MindMap/Software Engineering/Database Engineering/Database Object Mappers/ORM.md",
-    "MindMap/Software Engineering/Concepts/Database Object Mappers/Untitled",
-    "MindMap/Software Engineering/Database Engineering/Database Object Mappers",
     "Images/2025-08-04-192614_screenshot.png",
     "Images/2025-08-14-200447_screenshot.png",
     "Images/2025-08-14-200441_screenshot.png",
