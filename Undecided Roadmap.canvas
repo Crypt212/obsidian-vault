@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\n- **Book:** \"Learning SQL\" by Alan Beaulieu or \"SQL Cookbook\"\n- **Practice:** PostgreSQL Exercises, SQLZoo, HackerRank\n- **Goal:** Be able to write any non-analytical query fluently","x":-460,"y":-160,"width":540,"height":160},
+		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals (2-4 weeks)**\n- **Book:** \"Learning SQL\" by Alan Beaulieu or \"SQL Cookbook\"\n- **Practice:** PostgreSQL Exercises, SQLZoo, HackerRank\n- **Goal:** Be able to write any non-analytical query fluently","x":-460,"y":-160,"width":540,"height":160},
 		{"id":"a4fe5e22acf0bf66","x":-460,"y":60,"width":540,"height":180,"type":"text","text":"**INTERMEDIATE SQL (3-4 weeks)**\n- **Topics:** Window functions, CTEs, query optimization, indexing\n- **Practice:** LeetCode medium SQL problems\n- **Goal:** Solve complex business problems efficiently"},
 		{"id":"b9b7fa6ed39314da","x":-460,"y":300,"width":540,"height":160,"type":"text","text":"**POSTGRESQL SPECIFICS (2-3 weeks)**\n- **Topics:** PostgreSQL-specific features, performance tuning\n- **Book:** **NOW \"Master PostgreSQL 17\" becomes relevant**\n- **Goal:** Become a PostgreSQL expert"}
 	],
