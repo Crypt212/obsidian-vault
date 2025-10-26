@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\nBook: [Learning SQL By Alan Beaulieu](file:///home/crypt/Books/Learning SQL - Alan Beaulieu)\nPractice: Do PostgreSQL and solve LeetCode problems\n","x":-180,"y":-160,"width":440,"height":160}
+		{"id":"c8d136f1c7226022","x":323,"y":-74,"width":400,"height":400,"type":"file","file":"Learning SQL - Alan Beaulieu.pdf"},
+		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\nPractice: Do PostgreSQL and solve LeetCode problems\n","x":-180,"y":-160,"width":440,"height":160}
 	],
 	"edges":[]
 }
