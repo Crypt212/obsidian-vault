@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\nBook: Learning SQL By Alan Beaulieu\nPractice: Do PostgreSQL and solve LeetCode problems\n","x":-180,"y":-160,"width":440,"height":160}
+		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\nBook: Learning SQL By Alan Beaulieu\nPractice: Do PostgreSQL and solve LeetCode problems\n","x":-440,"y":-160,"width":440,"height":160},
+		{"id":"a4fe5e22acf0bf66","x":-440,"y":60,"width":440,"height":140,"type":"text","text":"**INTERMEDIATE SQL (3-4 weeks)**\n"}
 	],
 	"edges":[]
 }
