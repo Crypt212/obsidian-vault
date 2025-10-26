@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\nBook: Learning SQL By Alan Beaulieu\nPractice: Do PostgreSQL and solve LeetCode problems\n","x":-440,"y":-160,"width":440,"height":160},
-		{"id":"a4fe5e22acf0bf66","x":-440,"y":60,"width":440,"height":140,"type":"text","text":"**INTERMEDIATE SQL (3-4 weeks)**\n"}
+		{"id":"1c2c00871179072c","type":"text","text":"**SQL Fundamentals**\n- **Book:** \"Learning SQL\" by Alan Beaulieu or \"SQL Cookbook\"\n- **Practice:** PostgreSQL Exercises, SQLZoo, HackerRank\n- **Goal:** Be able to write any non-analytical query fluently","x":-440,"y":-160,"width":520,"height":160},
+		{"id":"a4fe5e22acf0bf66","x":-440,"y":60,"width":520,"height":180,"type":"text","text":"**INTERMEDIATE SQL (3-4 weeks)**\n- **Topics:** Window functions, CTEs, query optimization, indexing\n- **Practice:** LeetCode medium SQL problems\n- **Goal:** Solve complex business problems efficiently"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f5e06be9f14e6ad0","fromNode":"1c2c00871179072c","fromSide":"bottom","toNode":"a4fe5e22acf0bf66","toSide":"top"}
+	]
 }
