@@ -51,7 +51,7 @@
 ## Outlier Detection
 - The process of identifying data points that deviate from the rest of the data classes or clusters, where every cluster or class has a boundary expected behaviour beyond which data points deviate, these boundaries and data that deviate from them are both called outliers.
 - Causes for outliers can be:
-    - malicious activities (e.g., a fraud, cyber attack).
+    - malicious[] activities (e.g., a fraud, cyber attack).
     - change in the environment or system.
     - instrumentation error (e.g., a faulty sensor providing incorrect readings).
     - human error (e.g., a human error in data entry).
