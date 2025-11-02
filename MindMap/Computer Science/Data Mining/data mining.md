@@ -6,11 +6,10 @@
 - **Information**: Ideas that hold meaning, can be concluded or inferred from patterns, associations or relationships among data.
 - **Knowledge**: Information that has been acquired by a person, group or system, and is used to make predictions, decisions or to support decision-making.
 # Why study data mining?
-- Data is growing big and fast, while users demand more sophisticated information from thier data.
-- Data mining is a new field in computer science, which is used to extract useful informations from data and to make predictions about the future.
-
+- Data is growing big and fast, while users demand more sophisticated information from their data.
+- Data mining is a new field in computer science, which is used to extract useful information from data and to make predictions about the future.
 # Performing data mining on databases
-- [[SQL]] queries are not decent enought to extract useful information from data, data mining helps with that.
+- [[SQL]] queries are not decent enough to extract useful information from data, data mining helps with that.
 - Traditional database access is performed using a well-defined stated in a language (such as [[SQL]]), the output data is a subset of the database that satisfies the query, but it can also be an extracted view or may contain aggregations.
 - Data mining access to DB differs in some ways:
     - Queries might not be well-formed or precisely stated.
@@ -18,15 +17,15 @@
     - Output is not a subset of the database, but a different view of the data.
 
 # Knowledge Discovery in Databases
-- **KDD** is a process of discovering **valid**, **novel**, **useful** and ultimatly **understandable** patterns in massive databases, these patterns are the information.
-    - **valid**: the patterns must be statisically significant, meaning they hold true for most future data, not just a fluke.
+- **KDD** is a process of discovering **valid**, **novel**, **useful** and ultimately **understandable** patterns in massive databases, these patterns are the information.
+    - **valid**: the patterns must be statistically significant, meaning they hold true for most future data, not just a fluke.
     - **novel**: the patterns must hold new, important discoveries, not already known, trivial facts.
     - **useful**: the patterns must be useful for decision making, not only for reporting.
     - **understandable**: the patterns must be easy to understand and explain.
 - **KDD** Process:
     [1] - **Learning the application domain** and deciding prior knowledge and goals.
     [2] - **Creating a target data set** by selecting the most important records from the database.
-    [3] - **Data cleaning and preprocessing**, such as removing noise and outliers and deciding strategies for handling missing values.
+    [3] - **Data cleaning and pre-processing**, such as removing noise and outliers and deciding strategies for handling missing values.
     [4] - **Data reduction and transformation** using dimensionality reduction and transformation methods to reduce the number of variables and improve the quality of the data.
     [5] - **Choosing tasks of datamining** to decide the goal of the **KDD process**.
     [6] - **Choosing the data mining algorithm** to perform the task.
