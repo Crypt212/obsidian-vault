@@ -25,8 +25,8 @@
     [1] - **Learning the application domain** and deciding prior knowledge and goals.
     [2] - **Creating a target data set** by selecting the most important records from the database.
     [3] - **Data cleaning and pre-processing**, such as removing noise and outliers and deciding strategies for handling missing values.
-    [4] - **Data reduction and transformation** using dimensionality reduction and transformation methods to reduce the number of variables and improve the quality of the data.
-    [5] - **Choosing tasks of data-mining** to decide the goal of the **KDD process**.
+    [4] - **Data reduction and transformation** using [[dimensionality reduction]] and transformation methods to reduce the number of variables and improve the quality of the data.
+    [5] - **Choosing tasks of data mining** to decide the goal of the **KDD process**.
     [6] - **Choosing the data mining algorithm** to perform the task.
     [7] - **Data mining** using the chosen algorithm.
     [8] - **Pattern evaluation and knowledge presentation**, with possible return to any of steps 1-7 if needed.
@@ -43,7 +43,7 @@
 - Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
 ## Classification
-- Builds a model that creates predefined generalized classes from *training data set* (called "supervied learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
+- Builds a model that creates predefined generalized classes from *training data set* (called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
 - Some algorithms: [[Decision Trees]], [[k-Nearest Neighbors]].
 ## Clustering
 - The process of grouping existing data according to their similarities (similar to classification), but not with predefined classes, instead the classes (clusters) are formed based on the similarity of current existing data points.
