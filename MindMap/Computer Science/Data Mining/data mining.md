@@ -10,7 +10,7 @@
 - Data mining is a new field in computer science, which is used to extract useful information from data and to make predictions about the future.
 # Performing data mining on databases
 - [[SQL]] queries are not decent enough to extract useful information from data, data mining helps with that.
-- Traditional database access is performed using a well-defined stated in a language (such as [[SQL]]), the output data is a subset of the database that satisfies the query, but it can also be an extracted view or may contain aggregations.
+- Traditional database access is performed using a well-defined queries stated in a language (such as [[SQL]]), the output data is a subset of the database that satisfies the query, but it can also be an extracted view or may contain aggregations.
 - Data mining access to DB differs in some ways:
     - Queries might not be well-formed or precisely stated.
     - Data accessed is usually a different version of the original database data (having undergone cleaning and other processing to be mined).
