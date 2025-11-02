@@ -27,7 +27,7 @@
     [2] - **Creating a target data set** by selecting the most important records from the database.
     [3] - **Data cleaning and pre-processing**, such as removing noise and outliers and deciding strategies for handling missing values.
     [4] - **Data reduction and transformation** using dimensionality reduction and transformation methods to reduce the number of variables and improve the quality of the data.
-    [5] - **Choosing tasks of datamining** to decide the goal of the **KDD process**.
+    [5] - **Choosing tasks of data-mining** to decide the goal of the **KDD process**.
     [6] - **Choosing the data mining algorithm** to perform the task.
     [7] - **Data mining** using the chosen algorithm.
     [8] - **Pattern evaluation and knowledge presentation**, with possibile return to any of steps 1-7 if needed.
@@ -35,7 +35,7 @@
 
 # Data Mining Tasks
 - The tasks perform by data mining can be divided in two categories:
-    - **Descriptive Mining**: used for summerizing or characterizing general properties of data in data repository (the "What happend?"). Examples:
+    - **Descriptive Mining**: used for summerizing or characterizing general properties of data in data repository (the "What happened?"). Examples:
         - Clustering, Association Rule Mining, Summarization.
     - **Predictive Mining**: used for deducing or inferring patterns from data for predicting future data. (the "What will happen?"). Examples:
         - Classification, Regression, Anomaly Detection.
