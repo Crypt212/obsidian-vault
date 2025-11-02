@@ -29,7 +29,7 @@
     [5] - **Choosing tasks of data-mining** to decide the goal of the **KDD process**.
     [6] - **Choosing the data mining algorithm** to perform the task.
     [7] - **Data mining** using the chosen algorithm.
-    [8] - **Pattern evaluation and knowledge presentation**, with possibile return to any of steps 1-7 if needed.
+    [8] - **Pattern evaluation and knowledge presentation**, with possible return to any of steps 1-7 if needed.
     [9] - **Use of discovered knowledge for decision making**.
 
 # Data Mining Tasks
