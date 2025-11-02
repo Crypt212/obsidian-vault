@@ -13,9 +13,8 @@
 - Traditional database access is performed using a well-defined queries stated in a language (such as [[SQL]]), the output data is a subset of the database that satisfies the query, but it can also be an extracted view or may contain aggregations.
 - Data mining access to DB differs in some ways:
     - Queries might not be well-formed or precisely stated.
-    - Data accessed is usually a different version of the original database data (having undergone cleaning and other processing to be mined).
+    - Data accessed is usually a different version of the original database data (having undergone cleaning and other processing to be ready for mining).
     - Output is not a subset of the database, but a different view of the data.
-
 # Knowledge Discovery in Databases
 - **KDD** is a process of discovering **valid**, **novel**, **useful** and ultimately **understandable** patterns in massive databases, these patterns are the information.
     - **valid**: the patterns must be statistically significant, meaning they hold true for most future data, not just a fluke.
