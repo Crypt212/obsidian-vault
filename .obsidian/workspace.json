@@ -38,8 +38,7 @@
               "title": "Data Mining"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0700400bd18e855c",
+  "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "Untitled.base",
     "Undecided Roadmap.canvas",
     "Learning SQL - Alan Beaulieu.pdf",
