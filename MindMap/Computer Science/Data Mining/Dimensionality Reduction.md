@@ -3,7 +3,7 @@
 
 # Examples
 **Example 1: Customer Data**
-- **Original:** 50 features (age, income, # purchases, browser type, time on site, etc.)
+- **Original:** 50 features (age, income, number of purchases, browser type, time on site, etc.)
 - **After Dimensionality Reduction:** 3 main "concepts":
     1. "Spending Power" (combines income, purchase value)
     2. "Engagement Level" (combines time on site, frequency)     

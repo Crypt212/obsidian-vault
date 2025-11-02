@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
+                "file": "MindMap/Computer Science/Data Mining/Data Mining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimensionality Reduction"
+              "title": "Data Mining"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "0700400bd18e855c",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Data Mining/data mining.md",
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
+    "MindMap/Computer Science/Data Mining/Data Mining.md",
     "Untitled.base",
     "Undecided Roadmap.canvas",
     "Learning SQL - Alan Beaulieu.pdf",
