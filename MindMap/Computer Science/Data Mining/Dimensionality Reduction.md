@@ -1,1 +1,1 @@
-- Dimensiona
+- Dimensionality reduction is a technique used in [[data mining]] to reduce the 
