@@ -49,9 +49,9 @@
 - The process of grouping existing data according to their similarities (similar to classification), but not with predefined classes, instead the classes (clusters) are formed based on the similarity of current existing data points.
 - Some algorithms: [[k-Means]], [[DBSCAN]].
 ## Outlier Detection
-- The process of identifying data points that deviate from the rest of the data classes or clusters, where every cluster or class has a boundry expected behaviour beyond which data points deviate, these boundries and data that deviate from them are both called outliers.
+- The process of identifying data points that deviate from the rest of the data classes or clusters, where every cluster or class has a boundary expected behaviour beyond which data points deviate, these boundaries and data that deviate from them are both called outliers.
 - Causes for outliers can be:
-    - malicous activities (e.g., a fraud, cyber attack).
+    - malicious activities (e.g., a fraud, cyber attack).
     - change in the environment or system.
     - instrumentation error (e.g., a faulty sensor providing incorrect readings).
     - human error (e.g., a human error in data entry).
