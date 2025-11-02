@@ -11,17 +11,14 @@
             "id": "bd5ba2d07e62ecb0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Undecided Roadmap.canvas",
-                "viewState": {
-                  "x": -87.71320004648638,
-                  "y": 114.28217293898066,
-                  "zoom": -0.3500000000000003
-                }
+                "file": "MindMap/Computer Science/Data Mining/Data Mining.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Undecided Roadmap"
+              "icon": "lucide-file",
+              "title": "Data Mining"
             }
           },
           {
@@ -195,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
+    "Undecided Roadmap.canvas",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "Untitled.base",
-    "Undecided Roadmap.canvas",
     "Learning SQL - Alan Beaulieu.pdf",
     "home/crypt/Books/Learning.md",
     "home/crypt/Books",
@@ -234,7 +231,6 @@
     "MindMap/Computer Science/Database Design/Database Design.md",
     "Goals/Learn Rust.md",
     "Goals/Learn Database Design.md",
-    "MindMap/Software Engineering/Technologies/Node JS/Packages/Mongo Driver/Mongo Driver.md",
     "Images/2025-08-04-192614_screenshot.png",
     "Images/2025-08-14-200447_screenshot.png",
     "Images/2025-08-14-200441_screenshot.png",
