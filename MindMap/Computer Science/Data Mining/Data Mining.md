@@ -38,7 +38,6 @@
         - Clustering, Association Rule Mining, Summarization.
     - **Predictive Mining**: used for deducing or inferring patterns from data for predicting future data. (the "What will happen?"). Examples:
         - Classification, Regression, Anomaly Detection.
-
 ## Association Rule
 - Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
@@ -55,4 +54,3 @@
     - change in the environment or system.
     - instrumentation error (e.g., a faulty sensor providing incorrect readings).
     - human error (e.g., a human error in data entry).
-
