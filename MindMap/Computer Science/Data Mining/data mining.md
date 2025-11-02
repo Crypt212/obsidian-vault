@@ -6,7 +6,7 @@
 - **Information**: Ideas that hold meaning, can be concluded or inferred from patterns, associations or relationships among data.
 - **Knowledge**: Information that has been acquired by a person, group or system, and is used to make predictions, decisions or to support decision-making.
 # Why study data mining?
-- Data is growing big and fast, while users demand more sophisticated informations from thier data.
+- Data is growing big and fast, while users demand more sophisticated information from thier data.
 - Data mining is a new field in computer science, which is used to extract useful informations from data and to make predictions about the future.
 
 # Performing data mining on databases
