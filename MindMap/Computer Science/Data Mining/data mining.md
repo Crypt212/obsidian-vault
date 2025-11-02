@@ -4,7 +4,7 @@
     - Non-Operational/Non-Transactional data: data that is not used for operational or transactional purposes.
     - Metadata: data about the data, such as its structure, format, and content.
 - **Information**: Ideas that hold meaning, can be concluded or inferred from patterns, associations or relationships among data.
-- **Knowledge**: Information that has been acquired by a person, group or system, and is used to make predictions, decisions or to support decision-making.
+- **Knowledge**: Information that has been acquired by a person, group or system, and is used to make predictions, decisions or to support [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[decisio]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]][[[[[[[[[n-making.
 # Why study data mining?
 - Data is growing big and fast, while users demand more sophisticated information from their data.
 - Data mining is a new field in computer science, which is used to extract useful information from data and to make predictions about the future.
