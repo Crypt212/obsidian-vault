@@ -1,1 +1,2 @@
-- Dimensionality reduction is a technique used in [[data mining]] to reduce the 
+- **Dimensionallity reduction** transforms high-dimensional data into a meaningful representation in a lower-dimensional space.
+- Benefits include improved visualization, computational efficiency, and better model performance by eliminating noise and redundancy while preserving essential patterns."
