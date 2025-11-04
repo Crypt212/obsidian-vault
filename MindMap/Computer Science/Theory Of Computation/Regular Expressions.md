@@ -1,1 +1,1 @@
-- **Regular \
+- **Regular Expressions** are a formal way of describing certain kind
