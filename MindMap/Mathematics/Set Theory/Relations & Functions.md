@@ -16,4 +16,5 @@
 - **Insight**: $\#A \geq \#B$ 
 ### Bijective
 - A Function that is both injective and surjective.
-- In other words, 
+- In other words, each element of A is mapped only to one element of B and vice versa.
+- **Insight**: $\# A = 
