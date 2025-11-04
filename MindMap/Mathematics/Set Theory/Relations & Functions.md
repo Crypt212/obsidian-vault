@@ -6,4 +6,6 @@
 - **Domain**: is the set of input elements A.
 - **Co-Domain**: is the set of all possible outputs B.
 - **Range**: is subset of B for which elements are actually mapped from A.
--
+## Types of Functions
+### One-to-One (Injective)
+- A function where each element of A is mapped to 
