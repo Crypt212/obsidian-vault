@@ -2,8 +2,7 @@
 - An N-ary relation R is a subset of the Cartesian product of n sets.
 $$ R \subseteq A_1 \times A_2 \times A_3 \times ... A_n $$
 ## Binary Relation
-- A binary relation between two sets A and B is a subset of the Cartesian product $A\times B$.
-
+- A binary relation is an relation between two sets A and B, defined by the subset of  the Cartesian product $A\times B$.
 # Function
 - A function $f:A \rightarrow B$ is a **binary relation** between A and B where every element of A is mapped once with an element of B.
 - **Domain**: is the set of input elements A.
