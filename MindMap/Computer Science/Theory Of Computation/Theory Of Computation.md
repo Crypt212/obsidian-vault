@@ -33,9 +33,9 @@ language is not regular. It provides a property that all regular language must s
 ## Operations on Languages
 - Languages can be combined and manipulated using various operations:
 - **Union ($L1 ∪ L2$)**: All strings in either $L1$ or $L2$.
+- **Intersection ($L1 ∩ L2$)**: All strings that are in both $L1$ and $L2$.
 - **Concatenation ($L1 · L2$)**: All strings formed by concatenating a string from $L1$ with a string from $L2$.
 - **Kleene Star ($L^*$)**: All strings formed by concatenating zero or more strings from $L$.
-- **Intersection ($L1 ∩ L2$)**: All strings that are in both $L1$ and $L2$.
 # Finite Representation of Language
 - Refers to the method of depicting a language (infinite set of strings) in a compact and precise way with finite structure.
 - **WHY?** Because, while languages can be infinite set of strings, we need to describe or recognize the the language using finite mechanisms, like automata or grammars.
