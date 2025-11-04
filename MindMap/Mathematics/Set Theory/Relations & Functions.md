@@ -2,4 +2,5 @@
 - A binary relation between sets A and B is a subset of the Cartesian product $A\times B$.
 
 # Function
-- A function $f:A \rightarrow B$ is a 
+- A function $f:A \rightarrow B$ is a **binary relation** between A and B where every element of A is mapped once with an element of B.
+- **Domain**: is the set 
