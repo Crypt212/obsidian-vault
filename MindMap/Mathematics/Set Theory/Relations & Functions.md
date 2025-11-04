@@ -5,4 +5,4 @@
 - A function $f:A \rightarrow B$ is a **binary relation** between A and B where every element of A is mapped once with an element of B.
 - **Domain**: is the set of input elements A.
 - **Co-Domain**: is the set of all possible outputs B.
-- **Range**: is the set of 
+- **Range**: is subset of B where 
