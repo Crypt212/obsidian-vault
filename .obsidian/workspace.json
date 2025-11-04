@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Data Mining/Data Mining.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Mining"
+              "title": "Theory Of Computation"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "Undecided Roadmap.canvas",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "Undecided Roadmap.canvas",
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "Untitled.base",
     "Learning SQL - Alan Beaulieu.pdf",
