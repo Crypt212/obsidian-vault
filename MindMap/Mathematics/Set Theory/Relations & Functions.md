@@ -1,2 +1,2 @@
-# Relation
-- A relation bettis a subset of 
+# Binary Relation
+- A binary relation between Sets A is a subset of 
