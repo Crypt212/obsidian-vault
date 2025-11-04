@@ -16,4 +16,3 @@ $$ S = \{x: x = a^3, a \in N, 3 \lt a \lt 5 \}$$
 - The intersect of sets $A$  and $B$ is a new set that contains elements that exist in both $A$ and $B$ at the same time, this is represented as $A \cap B$.
 - **Complement**: The complement of $A$, denoted $A^{c}$, contains all elements not in $A$ relative to a universal set.
 - **Cartesian Product**: The set of ordered pairs $A × B = \{ (a , b)\ |\ a\ \in A\ and\ b\ \in B \}$.
-- z
