@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Mathematics/Set Theory/Relations & Functions.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relations & Functions"
+              "title": "Theory Of Computation"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
-    "MindMap/Mathematics/Set Theory/Set Theory.md",
     "MindMap/Mathematics/Set Theory/Relations & Functions.md",
+    "MindMap/Mathematics/Set Theory/Set Theory.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
     "Undecided Roadmap.canvas",
