@@ -1,1 +1,2 @@
-- **Regular Expressions** are a formal way of describing certain kind
+- **Regular Expressions** are a formal way of describing certain kinds of languages known as **Regular Languages**.
+- 
