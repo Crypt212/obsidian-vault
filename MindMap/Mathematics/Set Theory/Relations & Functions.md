@@ -1,4 +1,4 @@
-# Relation (-ary Relation)
+# Relation (N-ary Relation)
 - An N-ary relation R is a subset of the Cartesian product of n sets.
 $$ R \subseteq A_1 \times A_2 \times A_3 \times ... A_n $$
 ## Binary Relation
