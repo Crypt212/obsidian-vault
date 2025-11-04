@@ -8,4 +8,5 @@
 - **Range**: is subset of B for which elements are actually mapped from A.
 ## Types of Functions
 ### One-to-One (Injective)
-- A function where each element of A is mapped to 
+- A function where each element of A is mapped to a unique element of B.
+- **Insight**: $#A \lessthan #B$ 
