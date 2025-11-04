@@ -10,5 +10,9 @@
 ### One-to-One (Injective)
 - A function where each element of A is mapped to a unique element of B.
 - **Insight**: $\#A \leq \#B$ 
-### Onto (surjective)
-- A function where each element of B are mapped to some elements of A.    (ie, Co-domain = Range)
+### Onto (Surjective)
+- A function where each element of B are mapped to some elements of A.
+- ie, Co-domain = Range
+- **Insight**: $\#A \geq \#B$ 
+### Bijective
+- A Function that is b
