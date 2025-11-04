@@ -1,3 +1,4 @@
+#
 # Binary Relation
 - A binary relation between sets A and B is a subset of the Cartesian product $A\times B$.
 
@@ -17,4 +18,4 @@
 ### Bijective
 - A Function that is both injective and surjective.
 - In other words, each element of A is mapped only to one element of B and vice versa.
-- **Insight**: $\# A = 
+- **Insight**: $\# A = \#B$
