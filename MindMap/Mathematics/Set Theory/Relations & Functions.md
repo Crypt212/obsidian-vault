@@ -1,4 +1,6 @@
-#
+# Relation (-ary Relation)
+- An N-ary relation is a subset of the Cartesian product:
+$$
 # Binary Relation
 - A binary relation between sets A and B is a subset of the Cartesian product $A\times B$.
 
