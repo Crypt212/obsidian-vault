@@ -9,4 +9,5 @@
 ## Types of Functions
 ### One-to-One (Injective)
 - A function where each element of A is mapped to a unique element of B.
-- **Insight**: $#A \lessthan #B$ 
+- **Insight**: $\#A \leq \#B$ 
+### Onto ()
