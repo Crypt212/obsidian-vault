@@ -12,7 +12,8 @@
 - **Insight**: $\#A \leq \#B$ 
 ### Onto (Surjective)
 - A function where each element of B are mapped to some elements of A.
-- ie, Co-domain = Range
+- In other words, Co-domain = Range
 - **Insight**: $\#A \geq \#B$ 
 ### Bijective
-- A Function that is b
+- A Function that is both injective and surjective.
+- In other words, 
