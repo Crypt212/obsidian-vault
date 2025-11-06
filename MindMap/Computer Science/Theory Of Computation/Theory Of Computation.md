@@ -54,7 +54,8 @@
 - **Concatenation ($L1 · L2$)**: All strings formed by concatenating a string from $L1$ with a string from $L2$.
 - **Kleene Star ($L^*$)**: All strings formed by concatenating zero or more strings from $L$.
 ## Pumping Lemmas
-- fundamental tools in **theory of computation** used prove that a language does not belong to 
+- fundamental tools in **theory of computation** used prove that a language does not belong to specific language classes.
+- these lemmas provide a p
 for Regular Languages**: this is used to prove that a given
 language is not regular. It provides a property that all regular language must satisfy, and if a language does not satisfy this, it is not regular.
 - **Pumping Lemma for Context-Free Languages**: similar to the regular pumping lemma, this is used to show that a language is not context-free
