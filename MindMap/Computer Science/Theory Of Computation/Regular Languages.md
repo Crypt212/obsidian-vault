@@ -9,8 +9,8 @@ or recognized by [[finite automata]].
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
 - it has some properties:
-- $L(ε) = {\epsilon}$
-- $L(a) = {"a"}$
+- $L(\varepsilon) = {\varepsilon}$
+- $L(a) = {a}, \forall a \in alphabet \Sigma$
 - $L(a|b) = L(a) ∪ L(b) = {"a", "b"}$
 - $L(ab) = L(a) ∘ L(b) = {"ab"}$
 - L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
