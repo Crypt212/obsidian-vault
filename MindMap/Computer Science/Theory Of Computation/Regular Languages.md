@@ -18,13 +18,11 @@ or recognized by [[finite automata]].
 - kleene star: $L(R^*) = (L(R))^*$
 # Properties
 ## Union (∪)
-If $R1$ and $R2$ are regular expressions, then $R1 \cup R2$ is also a regular expression.
-Example: If$ R1 = a∗$ and R2 = b∗ , then R1 ∪ R2 matches strings made of
+If $R_1$ and $R_2$ are regular expressions, then $R_1 \cup R_2$ is also a regular expression.
+Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 \cup R_2$ matches strings made of
 any number of a’s or b’s.
 ## Concatenation
-If R1 and R2 are regular expressions, then R1 R2 is also a regular expression.
-The concatenation of two languages is defined as:
-L(R1 R2 ) = {xy | x ∈ L(R1 ), y ∈ L(R2 )}
+If $R1$ and $R2$ are regular expressions, then $R1 R2$ is also a regular expression.
 Example: If R1 = a∗ and R2 = b∗ , then R1 R2 matches strings of a’s followed
 by b’s.
 ## Kleene Star (\*)
