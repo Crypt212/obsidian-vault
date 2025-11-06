@@ -10,4 +10,4 @@ $$w = xyz$$
 	1. $|y| > 0$
 	2. $|xy| ≤ p$
 	3. $xy^i z ∈ L, \forall i ≥ 0$
-- **Intuition**: automata recongizing strings in regular languages
+- **Intuition**: automata recongizing strings in regular languages need to hold no memory any previous states, they only hold loops, so if the pattern can't have loops
