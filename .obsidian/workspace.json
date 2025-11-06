@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory Of Computation"
+              "title": "Regular Languages"
             }
           },
           {
@@ -195,10 +195,10 @@
   "active": "bd5ba2d07e62ecb0",
   "lastOpenFiles": [
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
-    "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
+    "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Mathematics/Proofs/Lemmas.md",
     "MindMap/Mathematics/Proofs",
     "MindMap/Mathematics/Set Theory/Relations & Functions.md",
