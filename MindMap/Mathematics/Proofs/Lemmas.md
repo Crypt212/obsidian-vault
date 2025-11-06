@@ -1,1 +1,3 @@
-- Lemma is a helper theorem
+- Lemma is a helper [[theorem]] - it's a proven statement that's used as a stepping stone to prove a larger, more important theorem.
+- - ** it is like a tool or building block for more significant mathematical results.
+- 
