@@ -22,7 +22,7 @@ language is not regular. It provides a property that all regular language must s
 	- **Ambiguity**: a sentence can have multiple meanings.
 	- **Vagueness**: imprecise boundaries and measurements that depend on context. (ex. "tall", "rich", "soon")
 	- **No Extra Learning**: mostly learned in childhood.
-	- **High Expressiveness**: 
+	- **High Expressiveness**: can discuss abstract concepts, emotions, hypotheticals.
 	- **Consistency Hard to Check**: Contradictory rules, Dialectical variations
 ### Formal Language
 - a set of all **strings** that could be generated over an **alphabet** using rules of **Grammar**.
