@@ -10,7 +10,7 @@ or recognized by [[finite automata]].
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
 - it has some properties:
 - $L(\varepsilon) = {\varepsilon}$
-- $L(a) = {a}, \forall a \in alphabet \Sigma$
-- $L(a|b) = L(a) ∪ L(b) = {"a", "b"}$
-- $L(ab) = L(a) ∘ L(b) = {"ab"}$
+- $L(a) = {a}, \forall a \in alphabet\ \Sigma$
+- $L(R|b) = L(a) \cup L(b)$
+- $L(ab) = L(a) ∘ L(b)$
 - L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
