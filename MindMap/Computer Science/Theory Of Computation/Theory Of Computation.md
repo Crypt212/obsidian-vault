@@ -23,7 +23,7 @@ language is not regular. It provides a property that all regular language must s
 	- **Vagueness**: imprecise boundaries and measurements that depend on context. (ex. "tall", "rich", "soon")
 	- **No Extra Learning**: mostly learned in childhood.
 	- **High Expressiveness**: 
-	- **Consistency Hard to Check**: 
+	- **Consistency Hard to Check**: Contradictory rules, Dialectical variations
 ### Formal Language
 - a set of all **strings** that could be generated over an **alphabet** using rules of **Grammar**.
 #### Regular Language**: formal languages recognized by finite automata and described using regular expressions.
