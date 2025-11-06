@@ -20,7 +20,7 @@ language is not regular. It provides a property that all regular language must s
 - is the language we speak and right everyday.
 - it has some characteristics:
 	- **Ambiguity**: a sentence can have multiple meanings.
-	- **Vagueness**: 
+	- **Vagueness**: imprecise boundaries and measurements 
 	- **Context-Dependent**: meaning depends heavily on the situation.
 	- **No Extra Learning**: mostly learned in childhood.
 	- **High Expressiveness**: 
