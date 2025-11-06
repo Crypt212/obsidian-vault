@@ -13,3 +13,10 @@ $$w = xyz$$
 - **Intuition**: 
 	- a property of any [[regular languages|regular language]] is that any string in that language has some section that can be *pumped* (repeated) to generate new string that also is in the language.
 	- the lemma is used to prove a language is not [[Regular Languages|regular]] by finding a string in it that doesn't have any part that could be repeated to generate a string that is also in the language.
+# Pumping Lemma [[for Context-Free Languages]]
+- Let $L$ be a context-free language. Then there exists an integer $p > 0$ such that for every string w ∈ L with |w| ≥ p, we can write:
+$$w = uvxyz$$
+such that:
+1. |vy| > 0
+2. |vxy| ≤ p
+3. For all i ≥ 0, uv i xy i z ∈ L
