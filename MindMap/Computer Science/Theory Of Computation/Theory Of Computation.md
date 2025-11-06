@@ -30,7 +30,7 @@ language is not regular. It provides a property that all regular language must s
 - its syntax is defined mathematically, without and inherent meaning (semantics).
 - **KEY CHARACTERISTICS**:
 	- **Precise Syntax**: the rules for forming a string are strict and unambiguous.
-	- **No Ambiguity**: a string in the language has only one meaning.
+	- **No Ambiguity**: a valid string in the language has only one valid structure.
 	- **Context-Independent**: 
 #### Regular Language
 - formal languages recognized by finite automata and described using regular expressions.
