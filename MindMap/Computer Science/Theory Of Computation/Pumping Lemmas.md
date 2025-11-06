@@ -12,4 +12,4 @@ $$w = xyz$$
 	3. $xy^i z ∈ L, \forall i ≥ 0$
 - **Intuition**: 
 	- a property of any [[regular languages|regular language]] is that any string in that language has some section that can be *pumped* (repeated) to generate new string that also is in the language.
-	- the lemma is used to prove a language is not [[Regular Languages|regular]] by finding a string in it that doesn't have any part that could be repeated to generate a string 
+	- the lemma is used to prove a language is not [[Regular Languages|regular]] by finding a string in it that doesn't have any part that could be repeated to generate a string that is also in the language.
