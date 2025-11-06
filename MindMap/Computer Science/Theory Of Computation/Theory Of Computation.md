@@ -26,7 +26,8 @@ language is not regular. It provides a property that all regular language must s
 	- **High Expressiveness**: can discuss abstract concepts, emotions, hypotheticals.
 	- **Consistency Hard to Check**: Contradictory rules, Dialectical variations
 ### Formal Language
-- a set of all **strings** that could be generated over an **alphabet** using rules of **Grammar**.
+- a language with precise defined set of grammatical rules.
+- its 
 - - 
 #### Regular Language
 - formal languages recognized by finite automata and described using regular expressions.
