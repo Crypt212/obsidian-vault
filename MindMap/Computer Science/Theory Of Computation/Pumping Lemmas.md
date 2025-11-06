@@ -4,10 +4,9 @@
 # Term Analogy (Why "pumping")
 - pumping comes from the fact that we are defining some part in the string in a language that could be pumped (repeated in the same place) with the newly generated string still being in the language.
 # Pumping Lemma for [[Regular Languages]]
-- Let L be a regular language. Then there exists an integer p > 0 (called the pumping length) such that every string w ∈ L with |w| ≥ p can be
-divided into three parts:
-w = xyz
+- Let L be a regular language. Then there exists an integer p > 0 (called the pumping length) such that every string w ∈ L with |w| ≥ p can be divided into three parts:
+$$w = xyz$$
 satisfying the following conditions:
-1. |y| > 0
-2. |xy| ≤ p
-3. For all i ≥ 0, xy i z ∈ L
+1. $|y| > 0$
+2. $|xy| ≤ p$
+3. $xy^i z ∈ L, \forallFor all $i ≥ 0$, $
