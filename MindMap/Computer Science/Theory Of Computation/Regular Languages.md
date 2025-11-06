@@ -5,7 +5,12 @@ or recognized by [[finite automata]].
 - are a formal notation that defines a regular language.
 - specifies a pattern that can be matched by strings over a given alphabet.
 # Formalizing
-- let $L$ be a function:
+- let $L$ be a function that maps any **regular :
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
-- 
+	
+- L(ε) = {""}
+L(a) = {"a"}  
+L(a|b) = L(a) ∪ L(b) = {"a", "b"}
+L(ab) = L(a) ∘ L(b) = {"ab"}
+L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
