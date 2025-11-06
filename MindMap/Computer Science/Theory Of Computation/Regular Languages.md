@@ -43,5 +43,7 @@ $L(R) = \Sigma∗\ -\ L(R)$
 The diﬀerence of two regular languages is also regular:
 $L1 − L2 = L1 \cap L2$
 # Applications of Regular Languages
-- Regular languages are widely used in both theory and practice:
-• =--=
+- Lexical Analysis: Token recognition in compilers.
+- Text Searching: Pattern matching using tools like grep or regex.
+- Protocol Design: Describing simple communication patterns.
+- Automated Verification: Model checking of finite-state systems.
