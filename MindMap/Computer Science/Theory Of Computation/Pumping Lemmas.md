@@ -2,7 +2,12 @@
 - these [[lemma|lemmas]] provide a property that all languages of specific class must satisfy.
 - if the language in test does not satisfy then it is proven to not be of that class.
 # Term Analogy (Why "pumping")
-- pumping comes from the fact that we are defining some part in the string that could be pumped (repeated in the same place) with the newly generated string still being in the language.
-for Regular Languages**: this is used to prove that a given
-language is not regular. It provides a property that all regular language must satisfy, and if a language does not satisfy this, it is not regular.
-- **Pumping Lemma for Context-Free Languages**: similar to the regular pumping lemma, this is used to show that a language is not context-free
+- pumping comes from the fact that we are defining some part in the string in a language that could be pumped (repeated in the same place) with the newly generated string still being in the language.
+# Pumping Lemma for [[Regular Languages]]
+- Let L be a regular language. Then there exists an integer p > 0 (called the pumping length) such that every string w ∈ L with |w| ≥ p can be
+divided into three parts:
+w = xyz
+satisfying the following conditions:
+1. |y| > 0
+2. |xy| ≤ p
+3. For all i ≥ 0, xy i z ∈ L
