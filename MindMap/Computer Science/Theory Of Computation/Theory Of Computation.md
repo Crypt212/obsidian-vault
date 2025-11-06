@@ -17,7 +17,10 @@ language is not regular. It provides a property that all regular language must s
 - **Decidability**: whether a problem can be solved using a turing machine that will halt and provide a correct answer for all inputs.
 ## Language Types
 ### Natural Language
-- is the language we speak and right everydy
+- is the language we speak and right everyday.
+- it has some characteristics:
+	- **Ambiguity**: a sentence can have multiple meanings.
+	- **Context-Dependent**: 
 ### Formal Language
 - a set of all **strings** that could be generated over an **alphabet** using rules of **Grammar**.
 #### Regular Language**: formal languages recognized by finite automata and described using regular expressions.
