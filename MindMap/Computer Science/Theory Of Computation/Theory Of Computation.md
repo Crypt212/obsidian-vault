@@ -29,7 +29,7 @@
 - Refers to the method of depicting a language (infinite set of strings) in a compact and precise way with finite structure.
 - **WHY?** Because, while languages can be infinite set of strings, we need to describe or recognize the the language using finite mechanisms, like automata or grammars.
 - There are common ways of representing languages finitely:
-	- [[Regular Expressions]]
+	- [[Regular Languages]]
 	- [[Finite Automata]]
 	- [[Context-Free Grammars (CFG)|Context-Free Grammars]]
 	- [[Turing Machines]]
