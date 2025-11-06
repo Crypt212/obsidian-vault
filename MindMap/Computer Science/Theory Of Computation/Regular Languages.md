@@ -42,3 +42,6 @@ $L(R) = \Sigma∗\ -\ L(R)$
 ## Diﬀerence (-)
 The diﬀerence of two regular languages is also regular:
 $L1 − L2 = L1 \cap L2$
+# Applications of Regular Languages
+- Regular languages are widely used in both theory and practice:
+• =--=
