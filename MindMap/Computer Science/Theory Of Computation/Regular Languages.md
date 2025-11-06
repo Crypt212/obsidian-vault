@@ -8,9 +8,9 @@ or recognized by [[finite automata]].
 - let $L$ be a function that maps any **regular expression** to the **regular language** that it generates, this function takes:
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
-- assume $\Sigma$ is an alphabet, it has some properties:
+- assume $\Sigma$ is an alphabet, $R_1, R_2, R_3, ..., R_n$ are regular expressions, the $L$ function has some properties:
 - $L(\varepsilon) = {\varepsilon}$
 - $L(a) = {a}, \forall a \in alphabet\ \Sigma$
-- $L(R_1|R_2) = L(R_1) \cup L(R_2), R_1, R_2 are regular expressions$
-- $L(ab) = L(a) ∘ L(b)$
+- $L(R_1|R_2) = L(R_1) \cup L(R_2)$
+- $L() = L(a) ∘ L(b)$
 - L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
