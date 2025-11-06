@@ -38,4 +38,4 @@ If $L$ is a regular language, then the complement $L$ is also regular:
 $L(R) = \Sigma∗\ -\ L(R)$
 ## Diﬀerence (-)
 The diﬀerence of two regular languages is also regular:
-L1 − L2 = L1 ∩ L2
+$L1 − L2 = L1 \cap L2$
