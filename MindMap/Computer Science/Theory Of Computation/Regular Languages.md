@@ -5,4 +5,7 @@ or recognized by [[finite automata]].
 - are a formal notation that defines a regular language.
 - specifies a pattern that can be matched by strings over a given alphabet.
 # Formalizing
-- let $L:RE\rightarrow 2^{\Sigma^*}$ be a function:akes a **regular expression** and outputs a language (set of strings) statisfying this regex.
+- let $L$ be a function:
+	- **Input**: A regular expression $R$
+	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
+- 
