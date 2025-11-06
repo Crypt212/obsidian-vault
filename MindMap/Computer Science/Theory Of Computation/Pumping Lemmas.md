@@ -1,5 +1,5 @@
-- a **Pumping lemma** fundamental tools in **theory of computation** used prove that a language does not belong to specific language classes.
-- these lemmas provide a property that all languages of specific class must satisfy.
+- a **Pumping [[lemma]]** fundamental tools in **theory of computation** used prove that a language does not belong to specific language classes.
+- these [[lemma|lemmas]] provide a property that all languages of specific class must satisfy.
 - if the language in test does not satisfy then it is proven to not be of that class.
 - 
 for Regular Languages**: this is used to prove that a given
