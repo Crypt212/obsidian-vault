@@ -11,6 +11,6 @@ or recognized by [[finite automata]].
 - it has some properties:
 - $L(\varepsilon) = {\varepsilon}$
 - $L(a) = {a}, \forall a \in alphabet\ \Sigma$
-- $L(R|b) = L(a) \cup L(b)$
+- $L(R_1|R_2) = L(R_1) \cup L(R_2), \forall R_1, R_2 \subset $
 - $L(ab) = L(a) ∘ L(b)$
 - L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
