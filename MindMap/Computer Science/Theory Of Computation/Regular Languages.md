@@ -8,6 +8,7 @@ or recognized by [[finite automata]].
 - let $L$ be a function that maps any **regular expression** to the **regular language** that it generates, this function takes:
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
+- so we call $L(R)$ a **regular language** defined by **regular expression** $R$.
 - assume $\Sigma$ is an alphabet, $R_1, R_2, R_3, ..., R_n$ are regular expressions, the $L$ function has some properties:
 - regular expression matches nothing: $L(\phi) = {\phi}$
 - regular expression matches and empty string: $L(\varepsilon) = {\varepsilon}$
