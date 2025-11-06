@@ -26,14 +26,12 @@ If $R_1$ and $R_2$ are regular expressions, then $R_1 R_2$ is also a regular exp
 Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 R_2$ matches strings of a’s followed
 by b’s.
 ## Kleene Star (\*)
-If $R$ is a regular expression, then $R∗$ is also a regular expression. The Kleene
-star operation denotes zero or more repetitions of the language L(R):
-L(R∗ ) = {ϵ} ∪ L(R) ∪ L(RR) ∪ L(RRR) ∪ · · ·
-Example: If R = ab, then R∗ = (ab)∗ matches "", "ab", "abab", and so on.
+If $R$ is a regular expression, then $R∗$ is also a regular expression.
+Example: If $R = ab$, then $R∗ = (ab)∗$ matches "", "ab", "abab", and so on.
 ## Intersection (∩)
-Regular expressions are closed under intersection. If L1 and L2 are regular
+Regular expressions are closed under intersection. If $L_1$ and $L_2$ are regular
 languages, then:
-L1 ∩ L2
+$L1 \cap L_2$
 is also a regular language.
 ## Complement (ň)
 If L is a regular language, then the complement L is also regular:
