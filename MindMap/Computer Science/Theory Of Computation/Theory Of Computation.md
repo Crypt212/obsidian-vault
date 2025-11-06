@@ -10,9 +10,9 @@
 - **Alphabet**: is a set of symbols. In *Automata Theory*, it represents the set of inputs.
 - **String**: a finite concatenation of elements from the **Alphabet**. In *Automata Theory*, it represents the sequence of inputs.
 - **Grammar**: a set of production rules that define how strings in a language are formed.
-- **[[Language]]**: is the set of all strings constructed over an alphabet under the rules of a grammar.
+- **[[Languages|Language]]**: is the set of all strings constructed over an alphabet under the rules of a grammar.
 - **Turing Machine**: an abstract mathematical model of computation that manipulates symbols on infinite tape according to a set of rules.
-- **Decidability**: whether a probleam can be solved using a turing machine that will halt and provide a correct answer for all inputs.
+- **Decidability**: whether a problem can be solved using a turing machine that will halt and provide a correct answer for all inputs.
 ## Language Types
 ### Natural Language
 - is the language we speak and right everyday.
