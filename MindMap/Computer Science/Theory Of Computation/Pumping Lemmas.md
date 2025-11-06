@@ -10,4 +10,4 @@ $$w = xyz$$
 	1. $|y| > 0$
 	2. $|xy| ≤ p$
 	3. $xy^i z ∈ L, \forall i ≥ 0$
-- **Intuition**: automata recongizing strings in regular languages need to hold no memory any previous states, they only hold loops, so if there is no part in a string in a language that can be *pumped up* (repeated) 
+- **Intuition**: automata recongizing strings in regular languages need to hold no memory any previous states, they only hold loops, so if there is no part in a string in a language that can be *pumped up* (repeated) to create new strings also existing in the same language, then this language is not [[Regular Languages|regular language]].
