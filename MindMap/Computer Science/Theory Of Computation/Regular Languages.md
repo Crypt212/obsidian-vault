@@ -22,11 +22,11 @@ If $R_1$ and $R_2$ are regular expressions, then $R_1 \cup R_2$ is also a regula
 Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 \cup R_2$ matches strings made of
 any number of a’s or b’s.
 ## Concatenation
-If $R1$ and $R2$ are regular expressions, then $R1 R2$ is also a regular expression.
-Example: If R1 = a∗ and R2 = b∗ , then R1 R2 matches strings of a’s followed
+If $R_1$ and $R_2$ are regular expressions, then $R_1 R_2$ is also a regular expression.
+Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 R_2$ matches strings of a’s followed
 by b’s.
 ## Kleene Star (\*)
-If R is a regular expression, then R∗ is also a regular expression. The Kleene
+If $R$ is a regular expression, then $R∗$ is also a regular expression. The Kleene
 star operation denotes zero or more repetitions of the language L(R):
 L(R∗ ) = {ϵ} ∪ L(R) ∪ L(RR) ∪ L(RRR) ∪ · · ·
 Example: If R = ab, then R∗ = (ab)∗ matches "", "ab", "abab", and so on.
