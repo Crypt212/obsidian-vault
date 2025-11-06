@@ -9,7 +9,8 @@ or recognized by [[finite automata]].
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
 - assume $\Sigma$ is an alphabet, $R_1, R_2, R_3, ..., R_n$ are regular expressions, the $L$ function has some properties:
-- $L(\varepsilon) = {\varepsilon}$
+- empty regular expression matches nothing: $L(\phi) = {\phi}$
+- regular ex$L(\varepsilon) = {\varepsilon}$
 - $L(a) = {a}, \forall a \in alphabet\ \Sigma$
 - $L(R_1|R_2) = L(R_1) \cup L(R_2)$
 - $L(R_1R_2) = \{ab\ |\ a \in R_1,\ b \in R_2\}$
