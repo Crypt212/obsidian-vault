@@ -16,7 +16,9 @@ $$w = xyz$$
 # Pumping Lemma [[for Context-Free Languages]]
 - Let $L$ be a context-free language. Then there exists an integer $p \gt 0$ such that for every string $w \in L$ with $|w| \geq p$, we can write:
 $$w = uvxyz$$
-such that:
-1. $|vy| \gt 0$
-2. $|vxy| \leq p$
-3. For all i ≥ 0, $uv^i xy^i z ∈ L
+- such that:
+	1. $|vy| \gt 0$
+	2. $|vxy| \leq p$
+	3. $uv^i xy^i z ∈ L, \forall i \geq 0$
+- **Intuition**: 
+	- 
