@@ -31,11 +31,11 @@ Example: If $R = ab$, then $R∗ = (ab)∗$ matches "", "ab", "abab", and so on.
 ## Intersection (∩)
 Regular expressions are closed under intersection. If $L_1$ and $L_2$ are regular
 languages, then:
-$L1 \cap L_2$
+$L_1 \cap L_2$
 is also a regular language.
 ## Complement (ň)
-If L is a regular language, then the complement L is also regular:
-L(R) = Σ∗ \ L(R)
+If $L$ is a regular language, then the complement $L$ is also regular:
+$L(R) = \Sigma∗\ -\ L(R)$
 ## Diﬀerence (-)
 The diﬀerence of two regular languages is also regular:
 L1 − L2 = L1 ∩ L2
