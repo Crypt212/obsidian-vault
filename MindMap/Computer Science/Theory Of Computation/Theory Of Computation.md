@@ -11,6 +11,7 @@
 - **String**: a finite concatenation of elements from the **Alphabet**. In *Automata Theory*, it represents the sequence of inputs.
 - **Grammar**: a set of production rules that define how strings in a language are formed.
 - **[[Languages|Language]]**: is the set of all strings constructed over an alphabet under the rules of a grammar.
+- [[pumping lemmas|pumping lemma]]: fundamental tools in **theory of computation** used prove that a language does not belong to specific language classes.
 - **Turing Machine**: an abstract mathematical model of computation that manipulates symbols on infinite tape according to a set of rules.
 - **Decidability**: whether a problem can be solved using a turing machine that will halt and provide a correct answer for all inputs.
 # Example
@@ -24,15 +25,6 @@
 		3. `S -> ε` (An empty string is balanced)
 	- Using these rules, you can generate `"()(())"` by starting with `S` and applying the rules.
 	- L = { "", (), ()(), ()(()()), }
-
-## Pumping Lemmas
-- fundamental tools in **theory of computation** used prove that a language does not belong to specific language classes.
-- these lemmas provide a property that all languages of specific class must satisfy.
-- if the language in test does not satisfy then it is proven to not be of that class.
-- 
-for Regular Languages**: this is used to prove that a given
-language is not regular. It provides a property that all regular language must satisfy, and if a language does not satisfy this, it is not regular.
-- **Pumping Lemma for Context-Free Languages**: similar to the regular pumping lemma, this is used to show that a language is not context-free
 # Finite Representation of Language
 - Refers to the method of depicting a language (infinite set of strings) in a compact and precise way with finite structure.
 - **WHY?** Because, while languages can be infinite set of strings, we need to describe or recognize the the language using finite mechanisms, like automata or grammars.
