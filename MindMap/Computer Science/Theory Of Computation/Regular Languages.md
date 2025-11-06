@@ -13,4 +13,4 @@ or recognized by [[finite automata]].
 - $L(a) = {a}, \forall a \in alphabet\ \Sigma$
 - $L(R_1|R_2) = L(R_1) \cup L(R_2)$
 - $L(R_1R_2) = \{ab\ |\ a \in R_1,\ b \in R_2\}$
-- L(a*) = (L(a))^* = {"", "a", "aa", "aaa", ...}
+- $L(R^*) = (L(R))^*$
