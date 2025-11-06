@@ -18,10 +18,8 @@ or recognized by [[finite automata]].
 - kleene star: $L(R^*) = (L(R))^*$
 # Properties
 ## Union (∪)
-If R1 and R2 are regular expressions, then R1 ∪R2 is also a regular expression.
-The language described by this operation is:
-L(R1 ∪ R2 ) = L(R1 ) ∪ L(R2 )
-Example: If R1 = a∗ and R2 = b∗ , then R1 ∪ R2 matches strings made of
+If $R1$ and $R2$ are regular expressions, then $R1 \cup R2$ is also a regular expression.
+Example: If$ R1 = a∗$ and R2 = b∗ , then R1 ∪ R2 matches strings made of
 any number of a’s or b’s.
 ## Concatenation
 If R1 and R2 are regular expressions, then R1 R2 is also a regular expression.
