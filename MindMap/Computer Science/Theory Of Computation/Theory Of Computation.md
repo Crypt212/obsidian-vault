@@ -20,8 +20,10 @@ language is not regular. It provides a property that all regular language must s
 - is the language we speak and right everyday.
 - it has some characteristics:
 	- **Ambiguity**: a sentence can have multiple meanings.
+	- **Vagueness**: 
 	- **Context-Dependent**: meaning depends heavily on the situation.
-	- **No Extra Learning**: mostly learned in childhood, new
+	- **No Extra Learning**: mostly learned in childhood.
+	- **High Expressiveness**: 
 ### Formal Language
 - a set of all **strings** that could be generated over an **alphabet** using rules of **Grammar**.
 #### Regular Language**: formal languages recognized by finite automata and described using regular expressions.
