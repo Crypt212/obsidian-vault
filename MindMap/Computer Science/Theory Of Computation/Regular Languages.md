@@ -16,3 +16,4 @@ or recognized by [[finite automata]].
 - union of regular expressions: $L(R_1|R_2) = L(R_1) \cup L(R_2)$
 - concatenation of regular expressions: $L(R_1R_2) = \{ab\ |\ a \in R_1,\ b \in R_2\}$
 - kleene star: $L(R^*) = (L(R))^*$
+# Properties
