@@ -33,7 +33,9 @@ $$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{
 ### maximal itemset (or max-itemset)
 - is an itemset for which there are no supersets that are frequent itemsets.
 - it can't assert its subsets' support counts but can tell they are frequent.
-# Applications
-## Market Basket Analysis
+# Application: Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
 - can help retailers develop marketing strategies by gaining insight into which items are frequently purchased together by customers.
+# Algorithms
+- [[Apriori Al]]
+- [[FPGrowth]]
