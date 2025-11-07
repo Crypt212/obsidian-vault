@@ -5,9 +5,9 @@
 - Let $I = \{I_1, I_2, I_3, ..., I_n\}$ be an *item set*, and $D = \{T_1, T_2, T_3, ..., T_m\}$ be set of transactions in a database where each transaction $T_i$ is a set of items such that $T_i \subseteq I$.
 - Let $A$ be a set of items, a transaction $T_i$ is said to contain $A$ if $A \subseteq T_i$.
 - **Association Rule** is an implication of the form $A \Rightarrow B$ where $A, B \subset I, A \cap B = \phi$.
-- **support**: the likelihood of a transaction in database to contain both $A$ and $B$.
+- **support** of association rule $A \Rightarrow B$ is the likelihood of a transaction in database to contain both $A$ and $B$.
 	- $$support(A \Rightarrow B) = P(A \cup B)$$
-	- **confidence**: the likelihood of a transaction containing $A$ to also contain $B$.
+	- **confidence** of association rule $A \Rightarrow B$ is the likelihood of a transaction containing $A$ to also contain $B$.
 $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 
 # Applications
