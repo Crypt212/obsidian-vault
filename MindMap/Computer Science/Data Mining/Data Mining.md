@@ -33,21 +33,21 @@
     [9] - **Use of discovered knowledge for decision making**.
 
 # Data Mining Tasks
-- The tasks perform by data mining can be divided in two categories:
+- The  data mining tasks performed can be divided in two categories:
     - **Descriptive Mining**: used for summerizing or characterizing general properties of data in data repository (the "What happened?"). Examples:
         - Clustering, Association Rule Mining, Summarization.
     - **Predictive Mining**: used for deducing or inferring patterns from data for predicting future data. (the "What will happen?"). Examples:
         - Classification, Regression, Anomaly Detection.
-## Association Rule
+## [[Association Rule]]
 - Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
-## Classification
+## [[Classification]]
 - Builds a model that creates predefined generalized classes from *training data set* (called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
 - Some algorithms: [[Decision Trees]], [[k-Nearest Neighbors]].
-## Clustering
+## [[Clustering]]
 - The process of grouping existing data according to their similarities (similar to classification), but not with predefined classes, instead the classes (clusters) are formed based on the similarity of current existing data points.
 - Some algorithms: [[k-Means]], [[DBSCAN]].
-## Outlier Detection
+## [[Outlier Detection]]
 - The process of identifying data points that deviate from the rest of the data classes or clusters, where every cluster or class has a boundary expected behaviour beyond which data points deviate, these boundaries and data that deviate from them are both called outliers.
 - Causes for outliers can be:
     - malicious activities (e.g., a fraud, cyber attack).
