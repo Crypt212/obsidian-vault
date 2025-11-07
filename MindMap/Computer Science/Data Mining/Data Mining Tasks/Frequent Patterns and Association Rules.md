@@ -29,7 +29,7 @@ $$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{
 - to solve this, we will mine for more specific types itemsets:
 ### Closed itemset
 - is an itemset for which there are no supersets with same support.
-- it can 
+- it contains complete information regarding its frequent itemsets.
 - **maximal itemset (or max-itemset)**: is an itemset for which there are no supersets that are frequent itemsets.
 
 # Applications
