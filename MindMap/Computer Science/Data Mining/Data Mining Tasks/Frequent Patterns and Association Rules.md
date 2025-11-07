@@ -6,10 +6,10 @@
 - Let $A$ be a set of items, a transaction $T_i$ is said to contain $A$ if $A \subseteq T_i$.
 - **Association Rule** is an implication of the form $A \Rightarrow B$ where $A, B \subset I, A \cap B = \phi$.
 - **support** of association rule $A \Rightarrow B$ is the likelihood of a transaction in database to contain both $A$ and $B$.
-	- $$support(A \Rightarrow B) = P(A \cup B)$$
-	- **confidence** of association rule $A \Rightarrow B$ is the likelihood of a transaction containing $A$ to also contain $B$.
+$$support(A \Rightarrow B) = P(A \cup B)$$
+- **confidence** of association rule $A \Rightarrow B$ is the likelihood of a transaction containing $A$ to also contain $B$.
 $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
-
+- A rule satisfying both a minimum support and confidence theshold is said 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
