@@ -27,7 +27,9 @@ $$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{
 - Thats a huge number for a relatively small amount of items!
 ## The Solution
 - to solve this, we will mine for more specific types itemsets:
-- **closed itemset**: is an itemset for which there are no supersets with same support.
+### Closed itemset
+- is an itemset for which there are no supersets with same support.
+- it can 
 - **maximal itemset (or max-itemset)**: is an itemset for which there are no supersets that are frequent itemsets.
 
 # Applications
