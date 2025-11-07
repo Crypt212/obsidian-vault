@@ -4,4 +4,4 @@
 - the name of the algorithm is based on the fact that it uses prior knowledge of frequent itemset properties.
 # How it works
 - it employs an iterative approach known as **level-wise search**, where k-itemsets are used to explore (k+1)-itemsets, starting by k=1
-- thanks to a property called **Apriori Property  
+- thanks to a property called **Apriori Property**, we can   
