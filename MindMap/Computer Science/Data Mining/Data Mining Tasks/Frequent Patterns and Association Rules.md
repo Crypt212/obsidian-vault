@@ -9,8 +9,10 @@
 $$support(A \Rightarrow B) = P(A \cup B)$$
 - **Confidence** of association rule $A \Rightarrow B$ is the likelihood of a transaction containing $A$ to also contain $B$.
 $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
-- A rule satisfying both a minimum support and confidence threshold is called a strong rule.
-- A set of items is called **itemset**, 
+- A rule satisfying both a minimum **support** and **confidence** threshold is called a strong rule.
+- A set of items is called **itemset**.
+- An **itemset** with $k$ items is called **k-itemset**.
+- 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
