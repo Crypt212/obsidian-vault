@@ -5,4 +5,4 @@
 - the name of the algorithm is based on the fact that it uses prior knowledge of frequent itemset properties.
 # How it works
 - it employs an iterative approach known as **level-wise search**, where k-itemsets are used to explore (k+1)-itemsets, starting by k=1, there are 2 steps involved in each iteration:
-	- **join**: to find the new set of k-itemsets, called $L_k$, we first join
+	- **join**: to find the new set of k-itemsets, called $L_k$, we first join $L_{k-1}$ with itself, 
