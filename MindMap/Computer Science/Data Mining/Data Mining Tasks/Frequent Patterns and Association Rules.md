@@ -4,7 +4,8 @@
 # Formalization
 - Let $I = \{I_1, I_2, I_3, ..., I_n\}$ be an *item set*, and $D = \{T_1, T_2, T_3, ..., T_m\}$ be set of transactions in a database where each transaction $T_i$ is a set of items such that $T_i \subseteq I$.
 - Let $A$ be a set of items, a transaction $T_i$ is said to contain $A$ if $A \subseteq T_i$.
-- An **Association Rule** is an implication of the form $A \rightarrow B$ where $A, B \subset I, A \cap B = \phi$.
+- An **Association Rule** is an implication of the form $A \Rightarrow B$ where $A, B \subset I, A \cap B = \phi$.
+- A rule $A \Rightarrow B$ has a **support** 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
