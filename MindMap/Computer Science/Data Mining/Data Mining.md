@@ -42,10 +42,10 @@
 - Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
 ## [[Classification]]
-- Builds a model that creates predefined generalized classes from *training data set* (called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
+- Builds a model that creates predefined generalized classes from *training data set* (this process is called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
 - Some algorithms: [[Decision Trees]], [[k-Nearest Neighbors]].
 ## [[Clustering]]
-- The process of grouping existing data according to their similarities (similar to classification), but not with predefined classes, instead the classes (clusters) are formed based on the similarity of current existing data points.
+- The process of grouping existing data according to their similarities (similar to classification), but not with predefined classes, instead the classes (clusters) are formed based on the similarity of currently existing data points.
 - Some algorithms: [[k-Means]], [[DBSCAN]].
 ## [[Outlier Detection]]
 - The process of identifying data points that deviate from the rest of the data classes or clusters, where every cluster or class has a boundary expected behaviour beyond which data points deviate, these boundaries and data that deviate from them are both called outliers.
