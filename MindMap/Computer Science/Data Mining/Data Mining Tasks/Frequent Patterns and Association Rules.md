@@ -9,7 +9,7 @@
 	- **support**: the likelihood of a transaction in database to contain both $A$ and $B$. 
 $$support(A \Rightarrow B) = P(A \cup B)$$
 	- **confidence**: the likelihood of a transaction containing $A$ to also contain $B$.
-$$confidence(A \Rightarrow B) = P(B | A)$$
+$$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
