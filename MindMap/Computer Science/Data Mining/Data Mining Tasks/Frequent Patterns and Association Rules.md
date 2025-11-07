@@ -28,7 +28,8 @@ $$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{
 ## The Solution
 - to solve this, we will mine for more specific types itemsets:
 - **closed itemset**: is an itemset for which there are no supersets with same support.
-- **maximal itemset (or max-itemset)**: is an itemset for wich 
+- **maximal itemset (or max-itemset)**: is an itemset for which there are no supersets that are frequent itemsets.
+
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
