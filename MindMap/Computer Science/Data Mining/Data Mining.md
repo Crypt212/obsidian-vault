@@ -35,10 +35,10 @@
 # Data Mining Tasks
 - The  data mining tasks performed can be divided in two categories:
     - **Descriptive Mining**: used for summerizing or characterizing general properties of data in data repository (the "What happened?"). Examples:
-        - Clustering, Association Rule Mining, Summarization.
+        - Clustering, Association Rules, Summarization.
     - **Predictive Mining**: used for deducing or inferring patterns from data for predicting future data. (the "What will happen?"). Examples:
         - Classification, Regression, Anomaly Detection.
-## [[Association Rule]]
+## [[Association Rules]]
 - Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
 ## [[Classification]]
