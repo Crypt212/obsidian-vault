@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Data Mining/Data Mining Tasks/Frequent Patterns and Association Rules.md",
+                "file": "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frequent Patterns and Association Rules"
+              "title": "Apriori Algorithm"
             }
           }
         ]
@@ -178,9 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0700400bd18e855c",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
     "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
     "MindMap/Computer Science/Data Mining/Data Mining Tasks/Frequent Patterns and Association Rules.md",
     "MindMap/Computer Science/Data Mining/Association Rules.md",
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
@@ -217,7 +218,6 @@
     "MindMap/Software Engineering/Backend Development/Backend Development.md",
     "MindMap/Computer Science/Security/Cyber Attacks/XSS.md",
     "MindMap/Software Engineering/Technologies/Node JS/Node JS.md",
-    "MindMap/Computer Science/Database Design/Normalization.md",
     "Images/2025-08-04-192614_screenshot.png",
     "Images/2025-08-14-200447_screenshot.png",
     "Images/2025-08-14-200441_screenshot.png",

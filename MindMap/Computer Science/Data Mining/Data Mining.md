@@ -40,7 +40,7 @@
         - Classification, Regression, Anomaly Detection.
 ## [[Frequent Patterns and Association Rules]]
 - Aims to extract the interesting correlations and relationships among sets of items in a transactional database.
-- Some algorithms: [[FPGrowth]], [[Apriori]].
+- Some algorithms: [[FPGrowth Algorithm]], [[Apriori Algorithm]].
 ## [[Classification]]
 - Builds a model that creates predefined generalized classes from *training data set* (this process is called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.
 - Some algorithms: [[Decision Trees]], [[k-Nearest Neighbors]].
