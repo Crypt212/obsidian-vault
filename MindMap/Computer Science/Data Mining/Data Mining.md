@@ -39,7 +39,7 @@
     - **Predictive Mining**: used for deducing or inferring patterns from data for predicting future data. (the "What will happen?"). Examples:
         - Classification, Regression, Anomaly Detection.
 ## [[Association Rules]]
-- Aims to extract the interesting correlations and frequent patterns among sets of items in a transactional database.
+- Aims to extract the interesting correlations and relationships among sets of items in a transactional database.
 - Some algorithms: [[FPGrowth]], [[Apriori]].
 ## [[Classification]]
 - Builds a model that creates predefined generalized classes from *training data set* (this process is called "supervised learning") in order to automatically predict the class or category to which future data belongs based on similarity of attributes.

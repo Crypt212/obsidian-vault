@@ -1,1 +1,1 @@
-- is the process of discovering 
+- is the process of discovering recurring relationships and 
