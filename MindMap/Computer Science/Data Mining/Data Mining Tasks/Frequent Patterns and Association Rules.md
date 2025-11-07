@@ -22,7 +22,8 @@ $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 - Mining frequent itemsets in a **large database** often generates an absurd amount itemsets that satisify minimum **support** (especially if it is set to a low value)
 - *Why?* if an itemset is frequent, then every subset of it is also frequent.
 - Say we got an frequent itemset of 100 items, that will make all its subsets frequent too, the amount of those subsets are all the combinations of this itemset's items, this will be:
-$$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^10$$
+$$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{100} -1$$
+- Thats a huge number for 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
