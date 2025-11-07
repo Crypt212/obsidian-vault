@@ -12,7 +12,8 @@ $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 - A rule satisfying both a minimum **support** and **confidence** threshold is called a strong rule.
 - A set of items is called **itemset**.
 - An **itemset** with $k$ items is called **k-itemset**.
-- **Occurrence Frequency** of an **itemset** is 
+- the number of transactions containing that **itemset** is called **occurrence Frequency** of an **itemset** is 
+- **
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
