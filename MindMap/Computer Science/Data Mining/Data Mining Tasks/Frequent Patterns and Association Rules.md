@@ -18,6 +18,8 @@ $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 - An **itemset** with $k$ items is called **k-itemset**.
 - Number of transactions containing an **itemset** is called **frequency**, **support count** or **count** of that **itemset**.
 - **frequent itemset** is an **itemset** that satisfies the **minimum support** threshold.
+# Frequent Itemset Challenge
+- Mining often 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
