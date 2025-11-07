@@ -6,7 +6,7 @@
 - Let $A$ be a set of items, a transaction $T_i$ is said to contain $A$ if $A \subseteq T_i$.
 - An **Association Rule** is an implication of the form $A \Rightarrow B$ where $A, B \subset I, A \cap B = \phi$.
 - A rule $A \Rightarrow B$ has a two properties:
-	- **support**: $support(A \Rightarrow B) = P(A \cup B)$
+	- **support**: the probability of  $support(A \Rightarrow B) = P(A \cup B)$
 	- **confidence**: $confidence(A \Rightarrow B) = P(A | B)$
 # Applications
 ## Market Basket Analysis
