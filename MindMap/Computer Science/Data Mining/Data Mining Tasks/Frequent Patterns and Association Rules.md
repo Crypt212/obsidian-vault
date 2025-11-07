@@ -20,7 +20,7 @@ $$confidence(A \Rightarrow B) = P(B | A) = \frac {P(A \cup B)} {P(A)}$$
 - **frequent itemset** is an **itemset** that satisfies the **minimum support** threshold.
 # Frequent Itemset Challenge
 - Mining frequent itemsets in a **large database** often generates an absurd amount itemsets that satisify minimum **support** (especially if it is set to a low value)
-- Why?
+- *Why?* if an itemset is frequent, then every subset of it is also frequent 
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
