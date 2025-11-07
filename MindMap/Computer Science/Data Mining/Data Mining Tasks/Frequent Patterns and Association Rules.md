@@ -29,10 +29,10 @@ $$\binom{100}{1} + \binom{100}{2} + \binom{100}{3} + ... +\binom{100}{100} = 2^{
 - to solve this, we will mine for more specific types itemsets:
 ### Closed itemset
 - is an itemset for which there are no supersets with same support (it has to be less).
-- it contains complete information regarding its frequent itemsets.
+- it can assert its subsets' support counts.
 ### maximal itemset (or max-itemset)
 - is an itemset for which there are no supersets that are frequent itemsets.
-- it can't assert its subset's support count.
+- it can't assert its subsets' support counts but can tell they are frequent.
 # Applications
 ## Market Basket Analysis
 - this is the process of customer buying habits by finding associations between the different items that customers place in their “shopping baskets".
