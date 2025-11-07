@@ -8,7 +8,7 @@
 - A rule $A \Rightarrow B$ has a two properties:
 	- **support**: the likelihood of a transaction in database to contain both $A$ and $B$. 
 $$support(A \Rightarrow B) = P(A \cup B)$$
-	- **confidence**: the likelihood of a transaction containing $B$ to also contain $A$.
+	- **confidence**: the likelihood of a transaction containing $A$ to also contain $B$.
 $$confidence(A \Rightarrow B) = P(B | A)$$
 # Applications
 ## Market Basket Analysis
