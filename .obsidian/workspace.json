@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Data Mining/Data Mining Tasks/Association Rules.md",
+                "file": "MindMap/Computer Science/Data Mining/Frequent Patterns and Association Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Association Rules"
+              "title": "Frequent Patterns and Association Rules"
             }
           }
         ]
@@ -181,10 +181,11 @@
   "active": "0700400bd18e855c",
   "lastOpenFiles": [
     "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "MindMap/Computer Science/Data Mining/Frequent Patterns and Association Rules.md",
+    "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "MindMap/Computer Science/Data Mining/Data Mining Tasks/Association Rules.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Computer Science/Data Mining/Data Mining Tasks",
-    "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "MindMap/Computer Science/Data Mining/Data Mining Algorithms",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
