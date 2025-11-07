@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
+                "file": "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Languages"
+              "title": "Dimensionality Reduction"
             }
           }
         ],
@@ -195,9 +195,9 @@
   },
   "active": "0700400bd18e855c",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
-    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
+    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
     "MindMap/Computer Science/Theory Of Computation/Languages.md",
