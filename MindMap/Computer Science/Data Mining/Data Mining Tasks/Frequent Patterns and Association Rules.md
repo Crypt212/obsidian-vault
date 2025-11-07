@@ -1,1 +1,1 @@
-> Frequent patterns mining and association rules mining are t2
+> Frequent patterns mining and association rules mining are 2 data mining tasks 
