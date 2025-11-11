@@ -1,2 +1,2 @@
 # Definitions
-- **Bioinformatics**: is the science of 
+- **Bioinformatics**: is the science concerned by using mathematical, statistical and computing methods to 
