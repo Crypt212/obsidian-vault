@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
+                "file": "MindMap/Biology/Bioinformatics/DNA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Bioinfromatics"
+              "title": "DNA"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "0700400bd18e855c",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
     "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
+    "MindMap/Biology/Bioinformatics/DNA.md",
+    "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
     "MindMap/Biology/Bioinformatics",
     "MindMap/Biology",
     "MindMap/Untitled.md",
@@ -217,7 +218,6 @@
     "MindMap/Computer Science/Security/Same-Origin Policy.md",
     "MindMap/Software Engineering/Languages/Javascript/JSON.md",
     "MindMap/Software Engineering/DevOps Engineering/DevOps Engineering.md",
-    "MindMap/Software Engineering/Backend Development/Backend Development.md",
     "Images/2025-08-04-192614_screenshot.png",
     "Images/2025-08-14-200447_screenshot.png",
     "Images/2025-08-14-200441_screenshot.png",

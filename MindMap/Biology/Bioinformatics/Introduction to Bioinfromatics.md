@@ -7,5 +7,6 @@
 - Acts to transfer pieces of information to different parts of cell.
 - Provide templates to synthesize into [[proteins]].
 ## [[Proteins]]
-- Form enzymes that send signals to other cells and regulate gene a.
-- 
+- Form enzymes that send signals to other cells and regulate gene activity.
+- Workhouses of the cells.
+- Form body's major components (e.g. hair, skin, ... etc).
