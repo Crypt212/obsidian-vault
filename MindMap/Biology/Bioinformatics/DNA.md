@@ -6,4 +6,5 @@
 	- **Guanine (G)**
 	- **Thymine (T)**
 	- **Cytosine (C)**
-- the 2 strands are connected by connecting pairing complementary neucleteads 
+- the 2 strands are connected by connecting complementary pairs of neucleteads: *A-T*, *C-G*.
+- 
