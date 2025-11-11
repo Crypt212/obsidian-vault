@@ -11,14 +11,10 @@
             "id": "0700400bd18e855c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MindMap/Biology/Bioinformatics/DNA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DNA"
+              "title": "New tab"
             }
           }
         ]
@@ -178,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0700400bd18e855c",
+  "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
     "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
     "MindMap/Biology/Bioinformatics/DNA.md",
