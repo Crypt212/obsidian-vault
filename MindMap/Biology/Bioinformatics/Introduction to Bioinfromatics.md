@@ -5,4 +5,6 @@
 - Hold information about how cell works.
 ## [[RNA]] (Ribonucleic Acid)
 - Acts to transfer pieces of information to different parts of cell.
-- Provide templatesto synthesize into pr
+- Provide templates to synthesize into [[proteins]].
+## [[Proteins]]
+- Form enzymes that send 
