@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a77b95215b7b5e64",
+        "id": "2ef636c89da7eea8",
         "type": "tabs",
         "children": [
           {
-            "id": "0700400bd18e855c",
+            "id": "36e3d47c26fd83e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0700400bd18e855c",
+  "active": "36e3d47c26fd83e9",
   "lastOpenFiles": [
     "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
     "MindMap/Biology/Bioinformatics/DNA.md",
