@@ -42,7 +42,7 @@ $L(R) = \Sigma∗\ -\ L(R)$
 ## Diﬀerence (-)
 The diﬀerence of two regular languages is also regular:
 $L1 − L2 = L1 \cap L2$
-# Matching Binary Strings
+# Regular
 ## Basic Symbols
 - $0\ and\ 1$: Match the literal characters 0 and 1.
 - $ε$: Represents the empty string.
