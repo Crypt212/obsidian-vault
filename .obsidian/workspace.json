@@ -35,8 +35,7 @@
               "title": "Regular Languages"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d8f8a5cc3402a10",
+  "active": "36e3d47c26fd83e9",
   "lastOpenFiles": [
+    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/regular expression.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
-    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
     "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",

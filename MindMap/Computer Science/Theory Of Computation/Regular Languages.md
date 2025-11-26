@@ -40,13 +40,7 @@ $L(R) = \Sigma∗\ -\ L(R)$
 The diﬀerence of two regular languages is also regular:
 $L1 − L2 = L1 \cap L2$
 # Regular
-## Basic Symbols
-- $0\ and\ 1$: Match the literal characters 0 and 1.
-- $ε$: Represents the empty string.
-- $(r_1)+(r_2)$: Union (logical OR) e.g., 0 + 1 means 0 or 1. (old alternative: $(r_1)|(r_2)$
-- $(r_1)(r_2)$: Concatenation of two regular expressions.
-- $(r)^*$: Kleene star zero or more repetitions of r.
-- $(r)+$ : One or more repetitions of r.
+
 # Applications of Regular Languages
 - Lexical Analysis: Token recognition in compilers.
 - Text Searching: Pattern matching using tools like grep or regex.
