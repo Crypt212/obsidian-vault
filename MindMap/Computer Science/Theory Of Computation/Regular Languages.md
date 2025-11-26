@@ -1,4 +1,4 @@
-Regular Languages: These are the simplest class of languages in the
+**Regular Languages**: These are the simplest class of languages in the
 Chomsky hierarchy, and they can be defined using **regular expressions**
 or recognized by [[finite automata]].
 - A language L over an alphabet Σ is called a regular language if it can be
