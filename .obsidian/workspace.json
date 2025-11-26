@@ -11,10 +11,14 @@
             "id": "36e3d47c26fd83e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MindMap/Computer Science/Theory Of Computation/Languages.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Languages"
             }
           }
         ]
@@ -176,6 +180,7 @@
   },
   "active": "36e3d47c26fd83e9",
   "lastOpenFiles": [
+    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
     "MindMap/Biology/Bioinformatics/DNA.md",
     "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
@@ -186,7 +191,6 @@
     "MindMap/Computer Science/Data Mining/Data Mining Tasks/Frequent Patterns and Association Rules.md",
     "MindMap/Computer Science/Data Mining/Association Rules.md",
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
-    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Computer Science/Data Mining/Data Mining Tasks",
     "MindMap/Computer Science/Data Mining/Data Mining Algorithms",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
