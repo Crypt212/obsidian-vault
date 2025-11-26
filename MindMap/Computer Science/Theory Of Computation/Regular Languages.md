@@ -42,6 +42,8 @@ $L(R) = \Sigma∗\ -\ L(R)$
 ## Diﬀerence (-)
 The diﬀerence of two regular languages is also regular:
 $L1 − L2 = L1 \cap L2$
+# Matching Binary Strings
+
 # Applications of Regular Languages
 - Lexical Analysis: Token recognition in compilers.
 - Text Searching: Pattern matching using tools like grep or regex.
