@@ -48,7 +48,7 @@ $L1 − L2 = L1 \cap L2$
 - ε: Represents the empty string.
 - +: Union (logical OR) e.g., 0 + 1 means 0 or 1.
 - (r1 )(r2 ): Concatenation of two regular expressions.
-- (r)∗ : Kleene star zero or more repetitions of r.
+- $r^*$: Kleene star zero or more repetitions of r.
 - (r)+ : One or more repetitions of r.
 # Applications of Regular Languages
 - Lexical Analysis: Token recognition in compilers.
