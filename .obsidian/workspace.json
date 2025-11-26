@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Languages"
+              "title": "Regular Expressions"
+            }
+          },
+          {
+            "id": "9d8f8a5cc3402a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MindMap/Computer Science/Theory Of Computation/regular expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "regular expression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36e3d47c26fd83e9",
+  "active": "9d8f8a5cc3402a10",
   "lastOpenFiles": [
+    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
+    "MindMap/Computer Science/Theory Of Computation/regular expression.md",
+    "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
     "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
@@ -195,9 +213,7 @@
     "MindMap/Computer Science/Data Mining/Dimensionality Reduction.md",
     "MindMap/Computer Science/Data Mining/Data Mining Tasks",
     "MindMap/Computer Science/Data Mining/Data Mining Algorithms",
-    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
-    "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
     "MindMap/Mathematics/Proofs/Lemmas.md",
     "MindMap/Mathematics/Proofs",
     "MindMap/Mathematics/Set Theory/Relations & Functions.md",
@@ -217,7 +233,6 @@
     "Goals/BIG GOALS.md",
     "MindMap/Computer Science/Security/Same-Origin Policy.md",
     "MindMap/Software Engineering/Languages/Javascript/JSON.md",
-    "MindMap/Software Engineering/DevOps Engineering/DevOps Engineering.md",
     "Images/2025-08-04-192614_screenshot.png",
     "Images/2025-08-14-200447_screenshot.png",
     "Images/2025-08-14-200441_screenshot.png",
