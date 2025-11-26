@@ -9,24 +9,24 @@ by a finite automaton (deterministic or non-deterministic).
 	- **Input**: A regular expression $R$
 	- **Output**: The language $L(R) \subseteq \Sigma^*$ (set of all strings matching $R$)
 - so we call $L(R)$ a **regular language** defined by **[[Regular Expressions|regular expression]]** $R$.
-- assume $\Sigma$ is an alphabet, $R_1, R_2, R_3, ..., R_n$ are [[Regular Expressions]], the $L$ function has some properties:
+- assume $\Sigma$ is an alphabet, $R_1, R_2, R_3, ..., R_n$ are [[regular expressions]], the $L$ function has some properties:
 - regular expression matches nothing: $L(\phi) = {\phi}$
 - regular expression matches and empty string: $L(\varepsilon) = {\varepsilon}$
 - regular expression of a symbol will match that symbol: $L(a) = {a}, \forall a \in alphabet\ \Sigma$
 - union of regular expressions: $L(R_1|R_2) = L(R_1) \cup L(R_2)$
-- concatenation of [[Regular Expressions]]: $L(R_1R_2) = \{ab\ |\ a \in R_1,\ b \in R_2\}$
+- concatenation of [[regular expressions]]: $L(R_1R_2) = \{ab\ |\ a \in R_1,\ b \in R_2\}$
 - kleene star: $L(R^*) = (L(R))^*$
 # Properties
 ## Union (∪)
-If $R_1$ and $R_2$ are [[Regular Expressions]], then $R_1 \cup R_2$ is also a [[regular expression]].
+If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
 Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 \cup R_2$ matches strings made of
 any number of a’s or b’s.
 ## Concatenation
-If $R_1$ and $R_2$ are [[Regular Expressions]], then $R_1 R_2$ is also a [[regular expression]].
+If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 R_2$ is also a [[Regular Expressions|regular expression]].
 Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 R_2$ matches strings of a’s followed
 by b’s.
 ## Kleene Star (\*)
-If $R$ is a [[regular expression]], then $R∗$ is also a [[regular expression]].
+If $R$ is a [[Regular Expressions|regular expression]], then $R∗$ is also a [[Regular Expressions|regular expression]].
 Example: If $R = ab$, then $R∗ = (ab)∗$ matches "", "ab", "abab", and so on.
 ## Intersection (∩)
 [[Regular Expressions]] are closed under intersection. If $L_1$ and $L_2$ are regular
