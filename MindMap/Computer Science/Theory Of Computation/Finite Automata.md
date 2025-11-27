@@ -13,4 +13,4 @@
 	- $q_0$ is the starting state.
 	- $F \subseteq Q$ is the set of accepting (final) states.
 - This is also the definition of a DFA.
-- NFA is basically the same, with 
+- NFA is the same i with these differences
