@@ -42,6 +42,11 @@
 
 ## Example
 Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Transition table:
+
+| State | Input = 0 | Input = 1 |
+| ----- | --------- | --------- |
+| q_0   |           |           |
+
 Σ = {0, 1},
 q0 = start state,
 F = {q2 }4.5.
