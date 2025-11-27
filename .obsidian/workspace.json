@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Expressions"
+              "title": "Pumping Lemmas"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "Regular Languages"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,15 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53166122650253fe",
+  "active": "36e3d47c26fd83e9",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Data Mining/Data Mining.md",
+    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
+    "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
+    "MindMap/Computer Science/Data Mining/Data Mining.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/regular expression.md",
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
-    "MindMap/Computer Science/Theory Of Computation/Languages.md",
-    "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Biology/Bioinformatics/Introduction to Bioinfromatics.md",
     "MindMap/Biology/Bioinformatics/DNA.md",
     "MindMap/Computer Science/Data Mining/Data Mining Algorithms/Apriori Algorithm.md",
