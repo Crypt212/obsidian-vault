@@ -32,7 +32,6 @@
 	- $q_0^′$ = $\epsilon$-closure($q_0$)
 	- $F^′\ =\ \{S\ \in\ Q^′\ |\ S\ \cap\ F\ \not=\ \phi\}$
 ## Algorithm Steps
-
 1. Compute $\epsilon$-closure of the start state $q_0$ ; this will be the start state of the DFA.
 2. For each DFA state (subset of NFA states) and for each input symbol $a \in \Sigma$:
 	1. Determine all states reachable from any state in the subset on input a.
@@ -40,8 +39,9 @@
 	3. The resulting set forms a new DFA state.
 3. Repeat Step 2 until no new states are produced.
 4. Mark as final states all DFA states that contain at least one NFA final state.
-> $\epsilon$-closure of a state in NFA is the set containing this state and s
-## Example
+
+> $\epsilon$-closure of a state in NFA is the set containing this state and the states it can reach using the $\epsilon$ input.
+# Example
 Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Σ = {0, 1}, $q_0$ = start state, $F = \{q_2\}$
 ### Transition table:
 
