@@ -2,4 +2,7 @@
 - Finite automata operate on strings of symbols from a given alphabet and decide whether the input string belongs to a particular language.
 - Finite automata are characterized by a finite number of states, and they make state transitions based on input symbols.
 # Types of Finite Automata
-## Deterministic Finite Automate ()
+- Both DFA and NFA recognize the same class of languages, known as the [[regular languages]].
+## Deterministic Finite Automate (DFA)
+
+## Non-deterministic Finite Automate (NFA)
