@@ -32,12 +32,9 @@
 	- $q_0^′$ = $\epsilon$-closure($q_0$)
 	- $F^′\ =\ \{S\ \in\ Q^′\ |\ S\ \cap\ F\ \not=\ \phi\}$
 ## Algorithm Steps
-1. Compute $\$-closure of the start state $q_0$ ; this will be the start state of
-the DFA.
-2. For each DFA state (subset of NFA states) and for each input symbol
-a ∈ Σ:
-(a) Determine all states reachable from any state in the subset on
-input a.
+1. Compute $\epsilon$-closure of the start state $q_0$ ; this will be the start state of the DFA.
+2. For each DFA state (subset of NFA states) and for each input symbol $a \in \Sigma$:
+a) Determine all states reachable from any state in the subset on input a.
 (b) Compute ε-closure() of all these reachable states.
 (c) The resulting set forms a new DFA state.
 3. Repeat Step 2 until no new states are produced.
