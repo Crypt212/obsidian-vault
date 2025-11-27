@@ -22,17 +22,16 @@
 # Powerset/Subset Construction
 - The process of converting an NFA into an equivalent DFA is known as the **subset construction** or **powerset construction**.
 - Given: An NFA: N = (Q, Σ, δ, q0 , F ), where
-- Q = finite set of NFA states
-• Σ = input alphabet
-• δ = transition function, δ : Q × Σ → 2Q
-• q0 = start state
-• F = set of accepting (final) states
-Construct: An equivalent DFA D = (Q′ , Σ, δ ′ , q0′ , F ′ ), where
-• Q′ = 2Q (set of all subsets of Q)
-• q0′ = ε-closure(q0 )
-• F ′ = {S ∈ Q′ | S ∩ F ̸= ∅}
-4.5.7
-Algorithm Steps
+	- $Q$ = finite set of NFA states
+	- $Σ$ = input alphabet
+	- $δ$ = transition function, δ : Q × Σ → 2Q
+	- $q0$ = start state
+	- $F$ = set of accepting (final) states
+- Construct: An equivalent DFA D = (Q′ , Σ, δ ′ , q0′ , F ′ ), where
+	- Q′ = 2Q (set of all subsets of Q)
+	- q0′ = ε-closure(q0 )
+	- F ′ = {S ∈ Q′ | S ∩ F ̸= ∅}
+## Algorithm Steps
 1. Compute ε-closure of the start state q0 ; this will be the start state of
 the DFA.
 2. For each DFA state (subset of NFA states) and for each input symbol
