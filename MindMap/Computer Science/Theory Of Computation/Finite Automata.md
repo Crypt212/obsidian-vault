@@ -13,4 +13,4 @@
 	- $q_0$ is the starting state.
 	- $F \subseteq Q$ is the set of accepting (final) states.
 - This is also the definition of a DFA.
-- NFA is the same i with these differences
+- NFA is the same with small differences:  $M = (Q, \Sigma, \delta, q_0, F)$
