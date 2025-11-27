@@ -50,15 +50,15 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
 | $q_1$ | $\phi$         | $\{q_2\}$ |
 | $q_2$ | $\phi$         | $\phi$    |
 ### Construction of DFA:
-- Start state: {q0 }
-- On input 0: δ ′ ({q0 }, 0) = {q0 , q1 }
-- On input 1: δ ′ ({q0 }, 1) = {q0 }
-- From {q0 , q1 }:
-	- On 0: {q0 , q1 }
-	- On 1: {q0 , q2 }
-- From {q0 , q2 }:
-	- On 0: {q0 , q1 }
-	- On 1: {q0 }
+- Start state: $\{q_0 \}$
+- On input 0: $δ ′ ({q_0 }, 0) = {q_0 , q_1 }
+- On input 1: $δ ′ ({q_0 }, 1) = {q_0 }
+- From ${q_0 , q_1 }:
+	- On 0: ${q_0 , q_1 }
+	- On 1: ${q_0 , q_2 }
+- From ${q_0 , q_2 }:
+	- On 0: {q_0 , q_1 }
+	- On 1: {q_0 }
 ### DFA Transition Table:
 
 | DFA State | Input = 0 | Input = 1 | Final State? |
