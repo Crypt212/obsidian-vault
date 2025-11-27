@@ -15,4 +15,5 @@
 - This is also the definition of a DFA.
 - NFA is the same with small difference: 
 	- $\delta: (Q \cup \epsilon) \times \Sigma \rightarrow 2^Q$ is a transition function; except that:
-		- it can take empty string $\epsilon$ is
+		- it can take empty string $\epsilon$ as input.
+		- it outputes
