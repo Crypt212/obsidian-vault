@@ -27,9 +27,9 @@
 	- $δ$ = transition function, $\delta : Q \times \Sigma \rightarrow 2^Q$
 	- $q_0$ = start state
 	- $F$ = set of accepting (final) states
-- Construct: An equivalent DFA $N = (Q`, \Sigma`, \delta, q_0 , F)$, where
-	- Q′ = 2Q (set of all subsets of Q)
-	- q0′ = ε-closure(q0 )
+- Construct: An equivalent DFA $D = (Q^`, \Sigma^`, \delta^`, q_0^`, F^`)$, where
+	- $Q^`$ = $2^Q$ (set of all subsets of $Q$)
+	- $q_0^′$ = ε-closure(q0 )
 	- F ′ = {S ∈ Q′ | S ∩ F ̸= ∅}
 ## Algorithm Steps
 1. Compute ε-closure of the start state q0 ; this will be the start state of
