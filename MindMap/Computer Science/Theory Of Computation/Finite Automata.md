@@ -61,11 +61,11 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
 	- On 1: $\{q_0 \}$
 ### DFA Transition Table:
 
-| DFA State      | Input = 0      | Input = 1 | Final State? |
-| -------------- | -------------- | --------- | ------------ |
-| $\{q_0\}$      | $\{q_0, q_1\}$ | $\{q_0\}$ | No           |
-| $\{q_0, q_1\}$ | $\{\}$         | $\{\}$    | No           |
-| $\{\}$         | $\{\}$         | $\{\}$    | Yes          |
+| DFA State      | Input = 0      | Input = 1      | Final State? |
+| -------------- | -------------- | -------------- | ------------ |
+| $\{q_0\}$      | $\{q_0, q_1\}$ | $\{q_0\}$      | No           |
+| $\{q_0, q_1\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | No           |
+| $\{q_0, q_2\}$ | $\{\}$         | $\{\}$         | Yes          |
 
 Final States:
 DFA StateInput = 0Input = 1Final?
