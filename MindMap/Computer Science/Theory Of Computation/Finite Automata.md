@@ -41,14 +41,10 @@
 4. Mark as final states all DFA states that contain at least one NFA final state.
 
 ## Example
-Given NFA: $N = (Q, Σ, δ, q_0, F)$
-where
-Q = {q0 , q1 , q2 },
-Transition table:
+Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Transition table:
 Σ = {0, 1},
 q0 = start state,
 F = {q2 }4.5.
-NONDETERMINISTIC FINITE AUTOMATON (NFA)
 StateInput = 0Input = 1
 q0{q0 , q1 }{q0 }
 q1∅{q2 }
