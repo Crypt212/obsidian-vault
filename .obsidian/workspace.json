@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "53166122650253fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "9d8f8a5cc3402a10",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Regular Languages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36e3d47c26fd83e9",
+  "active": "53166122650253fe",
   "lastOpenFiles": [
     "MindMap/Computer Science/Data Mining/Data Mining.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
