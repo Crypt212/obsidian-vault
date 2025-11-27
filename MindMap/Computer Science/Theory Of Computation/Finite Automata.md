@@ -8,4 +8,5 @@
 # Formalization
 - a Finite Automata is defined as a 5-tuple: $M = (Q, \Sigma, \delta, q_0, F)$, where:
 	- $Q$ is the set of states
-	- $\Sigma$ is the set
+	- $\Sigma$ is a finite input alphabet.
+	- $\delta: Q \cross \Sigma \rightarrow Q$ is 
