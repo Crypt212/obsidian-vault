@@ -41,7 +41,7 @@
 4. Mark as final states all DFA states that contain at least one NFA final state.
 
 ## Example
-Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
+Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Σ = {0, 1}, $q_0$ = start state, $F = \{q_2\}
 ### Transition table:
 
 | State | Input = 0      | Input = 1 |
@@ -66,7 +66,7 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
 | $\{q_0\}$      | $\{q_0, q_1\}$ | $\{q_0\}$      | No           |
 | $\{q_0, q_1\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | No           |
 | $\{q_0, q_2\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | Yes          |
-### Final States:
+### Final States: $F = \{\{ q_\}\}$
 DFA StateInput = 0Input = 1Final?
 {q0 }{q0 , q1 }{q0 }No
 {q0 , q1 }{q0 , q1 }{q0 , q2 }No
