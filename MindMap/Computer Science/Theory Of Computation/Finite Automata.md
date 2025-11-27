@@ -12,4 +12,5 @@
 	- $\delta: Q \times \Sigma \rightarrow Q$ is a transition function; a mapping that defines what is the new state $q_{new} \in Q$ resulting from current state $q_{current} \in Q$ with an input $a \in \Sigma$ applied to it (ex, $\delta(q_1, A) = q_3, A \in \Sigma$).
 	- $q_0$ is the starting state.
 	- $F \subseteq Q$ is the set of accepting (final) states.
-- this is also the definition of a DFA, 
+- This is also the definition of a DFA.
+- NFA is basically the same, with 
