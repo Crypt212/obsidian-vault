@@ -41,18 +41,59 @@
 4. Mark as final states all DFA states that contain at least one NFA final state.
 
 ## Example
-Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Transition table:
+Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
+
+### Transition table:
 
 | State | Input = 0      | Input = 1 |
 | ----- | -------------- | --------- |
 | $q_0$ | $\{q_0, q_1\}$ | $\{q_0\}$ |
 | $q_1$ | $\phi$         | $\{q_2\}$ |
 | $q_2$ | $\phi$         | $\phi$    |
-
-Σ = {0, 1},
-q0 = start state,
-F = {q2 }4.5.
-StateInput = 0Input = 1
-q0{q0 , q1 }{q0 }
-q1∅{q2 }
-q2∅∅
+### Construction of DFA:
+- Start state: {q0 }
+- On input 0: δ ′ ({q0 }, 0) = {q0 , q1 }
+- On input 1: δ ′ ({q0 }, 1) = {q0 }
+- From {q0 , q1 }:
+	- On 0: {q0 , q1 }
+	- On 1: {q0 , q2 }
+- From {q0 , q2 }:
+	- On 0: {q0 , q1 }
+	- On 1: {q0 }
+DFA Transition Table:
+Final States:
+DFA StateInput = 0Input = 1Final?
+{q0 }{q0 , q1 }{q0 }No
+{q0 , q1 }{q0 , q1 }{q0 , q2 }No
+{q0 , q2 }{q0 , q1 }{q0 }Yes
+Any DFA state containing q2 is a final state:
+F ′ = {{q0 , q2 }}
+4.5.9
+Diagram Representation
+NFA:
+0
+q0 −
+→ {q0 , q1 },
+1
+1
+q0 −
+→ {q0 },
+q1 −
+→ {q2 }
+Equivalent DFA:
+0
+{q0 } −
+→ {q0 , q1 },
+0
+1
+{q0 } −
+→ {q0 }
+1
+{q0 , q1 } →
+− {q0 , q1 },{q0 , q1 } →
+− {q0 , q2 }
+0{q0 , q2 } −
+→ {q0 }
+{q0 , q2 } −
+→ {q0 , q1 },
+Final state: {q0 , q2 }
