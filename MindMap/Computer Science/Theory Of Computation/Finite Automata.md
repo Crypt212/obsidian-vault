@@ -30,9 +30,9 @@
 - Construct: An equivalent DFA $D = (Q^`, \Sigma^`, \delta^`, q_0^`, F^`)$, where
 	- $Q^`$ = $2^Q$ (set of all subsets of $Q$)
 	- $q_0^′$ = $\epsilon$-closure($q_0$)
-	- $F^′\ =\ \{S\ \in\ Q^′\ |\ S\ \cap\ F\ \not\ \phi\}$
+	- $F^′\ =\ \{S\ \in\ Q^′\ |\ S\ \cap\ F\ \not=\ \phi\}$
 ## Algorithm Steps
-1. Compute ε-closure of the start state q0 ; this will be the start state of
+1. Compute $\$-closure of the start state $q_0$ ; this will be the start state of
 the DFA.
 2. For each DFA state (subset of NFA states) and for each input symbol
 a ∈ Σ:
