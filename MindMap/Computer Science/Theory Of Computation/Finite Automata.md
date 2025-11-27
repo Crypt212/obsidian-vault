@@ -17,4 +17,4 @@
 	- $\delta: (Q \cup \epsilon) \times \Sigma \rightarrow 2^Q$ is a transition function; except that:
 		- it can take empty string $\epsilon$ as input.
 		- it outputs a **set of states**, meaning that on some states, one output could transition to any state of that output set (that's why it is called non-deterministic)
-- NFA are more flexible 
+- Although NFA could be more flexible and convenient, both NFA and DFA recognize the same class of languages: [[Regular Languages]]
