@@ -1,0 +1,2 @@
+- Finite automata (FA) are one of the most fundamental computational models used in the study of formal languages and automata theory. They are used to recognize and classify patterns within input data, and are essential
+for understanding regular languages.
