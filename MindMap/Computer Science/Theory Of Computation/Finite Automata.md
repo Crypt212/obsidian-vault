@@ -45,7 +45,9 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, T
 
 | State | Input = 0 | Input = 1 |
 | ----- | --------- | --------- |
-| q_0   |           |           |
+| $q_0$ | $\{\}$    | $\{\}$    |
+| $q_1$ | $\phi$    | $\{\}$    |
+| $q_2$ | $\phi$    | $\phi$    |
 
 Σ = {0, 1},
 q0 = start state,
