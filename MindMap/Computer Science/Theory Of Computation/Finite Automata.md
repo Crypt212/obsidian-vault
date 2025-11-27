@@ -21,13 +21,13 @@
 - A fundamental result in automata theory states that for every NFA, there exists an equivalent DFA that recognizes the same language.
 # Powerset/Subset Construction
 - The process of converting an NFA into an equivalent DFA is known as the **subset construction** or **powerset construction**.
-- Given: An NFA: N = (Q, Σ, δ, q0 , F)$, where
+- Given: An NFA: $N = (Q, \Sigma, \delta, q_0 , F)$, where
 	- $Q$ = finite set of NFA states
 	- $\Sigma$ = input alphabet
 	- $δ$ = transition function, $\delta : Q \times \Sigma \rightarrow 2^Q$
 	- $q_0$ = start state
 	- $F$ = set of accepting (final) states
-- Construct: An equivalent DFA D = (Q′ , Σ, δ ′ , q0′ , F ′ ), where
+- Construct: An equivalent DFA $N = (Q`, \Sigma`, \delta, q_0 , F)$, where
 	- Q′ = 2Q (set of all subsets of Q)
 	- q0′ = ε-closure(q0 )
 	- F ′ = {S ∈ Q′ | S ∩ F ̸= ∅}
