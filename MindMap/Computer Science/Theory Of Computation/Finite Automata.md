@@ -6,9 +6,10 @@
 	- Non-deterministic Finite Automate (NFA)
 - Both DFA and NFA recognize the same class of languages, known as the [[regular languages]].
 # Formalization
-- a Finite Automata is defined as a 5-tuple: $M = (Q, \Sigma, \delta, q_0, F)$, where:
+- A Finite Automata is defined as a 5-tuple: $M = (Q, \Sigma, \delta, q_0, F)$, where:
 	- $Q$ is the set of states
 	- $\Sigma$ is a finite input alphabet.
 	- $\delta: Q \times \Sigma \rightarrow Q$ is a transition function; a mapping that defines what is the new state $q_{new} \in Q$ resulting from current state $q_{current} \in Q$ with an input $a \in \Sigma$ applied to it (ex, $\delta(q_1, A) = q_3, A \in \Sigma$).
 	- $q_0$ is the starting state.
-	- $F \subseteq Q$ is the set of accepting (final) states, 
+	- $F \subseteq Q$ is the set of accepting (final) states.
+- this is also the definition of a DFA, 
