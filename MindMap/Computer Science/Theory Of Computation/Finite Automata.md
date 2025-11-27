@@ -42,7 +42,6 @@
 
 ## Example
 Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
-
 ### Transition table:
 
 | State | Input = 0      | Input = 1 |
@@ -60,7 +59,14 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$
 - From {q0 , q2 }:
 	- On 0: {q0 , q1 }
 	- On 1: {q0 }
-DFA Transition Table:
+### DFA Transition Table:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+
 Final States:
 DFA StateInput = 0Input = 1Final?
 {q0 }{q0 , q1 }{q0 }No
