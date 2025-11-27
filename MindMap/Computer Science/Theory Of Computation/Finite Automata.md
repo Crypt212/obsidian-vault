@@ -21,3 +21,41 @@
 - A fundamental result in automata theory states that for every NFA, there exists an equivalent DFA that recognizes the same language.
 # Powerset/Subset Construction
 - The process of converting an NFA into an equivalent DFA is known as the **subset construction** or **powerset construction**.
+- Given: An NFA: N = (Q, Σ, δ, q0 , F ), where
+- Q = finite set of NFA states
+• Σ = input alphabet
+• δ = transition function, δ : Q × Σ → 2Q
+• q0 = start state
+• F = set of accepting (final) states
+Construct: An equivalent DFA D = (Q′ , Σ, δ ′ , q0′ , F ′ ), where
+• Q′ = 2Q (set of all subsets of Q)
+• q0′ = ε-closure(q0 )
+• F ′ = {S ∈ Q′ | S ∩ F ̸= ∅}
+4.5.7
+Algorithm Steps
+1. Compute ε-closure of the start state q0 ; this will be the start state of
+the DFA.
+2. For each DFA state (subset of NFA states) and for each input symbol
+a ∈ Σ:
+(a) Determine all states reachable from any state in the subset on
+input a.
+(b) Compute ε-closure() of all these reachable states.
+(c) The resulting set forms a new DFA state.
+3. Repeat Step 2 until no new states are produced.
+4. Mark as final states all DFA states that contain at least one NFA
+final state.
+4.5.8
+Example
+Given NFA:
+N = (Q, Σ, δ, q0 , F )
+where
+Q = {q0 , q1 , q2 },
+Transition table:
+Σ = {0, 1},
+q0 = start state,
+F = {q2 }4.5.
+NONDETERMINISTIC FINITE AUTOMATON (NFA)
+StateInput = 0Input = 1
+q0{q0 , q1 }{q0 }
+q1∅{q2 }
+q2∅∅
