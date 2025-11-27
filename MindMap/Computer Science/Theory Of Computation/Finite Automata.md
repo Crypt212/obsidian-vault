@@ -9,4 +9,4 @@
 - a Finite Automata is defined as a 5-tuple: $M = (Q, \Sigma, \delta, q_0, F)$, where:
 	- $Q$ is the set of states
 	- $\Sigma$ is a finite input alphabet.
-	- $\delta: Q \cross \Sigma \rightarrow Q$ is 
+	- $\delta: Q \times \Sigma \rightarrow Q$ is a transition function; a mapping that defines what every alphabet input
