@@ -35,15 +35,13 @@
 1. Compute $\epsilon$-closure of the start state $q_0$ ; this will be the start state of the DFA.
 2. For each DFA state (subset of NFA states) and for each input symbol $a \in \Sigma$:
 	1. Determine all states reachable from any state in the subset on input a.
-	2. Compute $$-closure() of all these reachable states.
+	2. Compute $\epsilon$-closure() of all these reachable states.
 	3. The resulting set forms a new DFA state.
 3. Repeat Step 2 until no new states are produced.
-4. Mark as final states all DFA states that contain at least one NFA
-final state.
-4.5.8
-Example
-Given NFA:
-N = (Q, Σ, δ, q0 , F )
+4. Mark as final states all DFA states that contain at least one NFA final state.
+
+## Example
+Given NFA: $N = (Q, Σ, δ, q_0, F)$
 where
 Q = {q0 , q1 , q2 },
 Transition table:
