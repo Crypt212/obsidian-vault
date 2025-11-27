@@ -5,4 +5,5 @@
 	- Deterministic Finite Automate (DFA)
 	- Non-deterministic Finite Automate (NFA)
 - Both DFA and NFA recognize the same class of languages, known as the [[regular languages]].
-- 
+# Formalization
+- a Finite Automata is defined as a 5-tuple: $M = (Q, \sum)$
