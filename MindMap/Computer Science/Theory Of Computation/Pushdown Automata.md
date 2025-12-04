@@ -10,20 +10,15 @@
 - $F \subseteq Q$ is the set of accepting states.
 # Explanation
 - The PDA operates similarly to a finite automaton, but with an additional stack data structure, which allows it to store and retrieve symbols in a Last-In-First-Out (LIFO) manner. This stack enables the PDA to handle nested structures, such as matching parentheses or palindromes, which finite automata alone cannot recognize.
-During computation, the PDA reads input symbols from the input tape,
-transitions between states, and pushes or pops symbols from the stack de-
-pending on the transition rules.
-Formal Description
-Each transition of a PDA depends on three things:
-• The current state of the PDA.
-• The input symbol being read (or ϵ for an empty input transition).
-• The top symbol of the stack (or ϵ for an empty stack transition).
-Given this information, the PDA moves to a new state, and the stack
-may be modified by pushing or popping symbols. The stack operations
-allow the PDA to recognize languages that require memory beyond what
-finite automata can manage.
-Acceptance
-A PDA can accept a string in two ways:
+- During computation, the PDA reads input symbols from the input tape, transitions between states, and pushes or pops symbols from the stack depending on the transition rules.
+# Formal Description
+- Each transition of a PDA depends on three things:
+	- The current state of the PDA.
+	- The input symbol being read (or ϵ for an empty input transition).
+	- The top symbol of the stack (or ϵ for an empty stack transition).
+- Given this information, the PDA moves to a new state, and the stack may be modified by pushing or popping symbols. The stack operations allow the PDA to recognize languages that require memory beyond what finite automata can manage.
+## Acceptance
+- A PDA can accept a string in two ways:
 • By final state: The PDA accepts if it reaches an accepting state after
 reading the entire input.
 • By empty stack: The PDA accepts if the input is fully read and the
