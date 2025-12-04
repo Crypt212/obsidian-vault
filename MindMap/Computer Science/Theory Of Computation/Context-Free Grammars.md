@@ -18,9 +18,10 @@ $$ A \rightarrow aA\ |\ b $$
 	- using first rule:
 $$ S \rightarrow aAb $$
 	- using second rule:
-$$ aAb \rightarrow aaAbb $$
+$$ aAb \rightarrow aaAb $$
 	- using second rule:
-$$ aaAbb \rightarrow aa\ \epsilon\ bb \rightarrow aabb$$
+$$ aaAb \rightarrow aa\ \epsilon\ b \rightarrow aab$$
+- so the resulting string "aab" is in the language.
 # Properties
 ## Union (∪)
 If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
