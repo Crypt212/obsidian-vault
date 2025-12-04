@@ -22,10 +22,10 @@ A PDA can accept a string in two ways:
 - By final state: The PDA accepts if it reaches an accepting state after reading the entire input.
 - By empty stack: The PDA accepts if the input is fully read and the stack is empty,  regardless of the current state.
 # Example
-- Consider a PDA that recognizes the language $L = {an bn | n ≥ 0}$, which consists of strings with an equal number of ’a’s followed by ’b’s.
-•-  States: $Q = {q0 , q1 , q2 }$
-- Input alphabet: $Σ = {a, b}$
-- Stack alphabet: $Γ = {A, Z0 }$, where $Z0$ is the initial stack symbol.
+- Consider a PDA that recognizes the language $L = \{a_n b_n | n \geq 0\}$, which consists of strings with an equal number of ’a’s followed by ’b’s.
+- States: $Q = {q_0 , q_1 , q_2 }$
+- Input alphabet: $\Sigma = \{a, b\}$
+- Stack alphabet: $\Gamma = \{A, Z_0\}$, where $Z_0$ is the initial stack symbol.
 - Transitions:
 $δ(q_0 , a, A^nZ_0 ) = (q_0 , A^{n+1}Z_0), \forall n \geq 0$
 $δ(q_0 , b, A^nZ_0 ) = (q_1 , A^{n-1}Z_0), \forall n \gt 0$
