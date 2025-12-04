@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
+                "file": "MindMap/Computer Science/Theory Of Computation/Context-Free Grammars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pumping Lemmas"
+              "title": "Context-Free Grammars"
             }
           },
           {
@@ -206,12 +206,12 @@
   },
   "active": "36e3d47c26fd83e9",
   "lastOpenFiles": [
-    "MindMap/Computer Science/Theory Of Computation/Context-Free Languages.md",
+    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
+    "MindMap/Computer Science/Theory Of Computation/Context-Free Grammars.md",
     "MindMap/Computer Science/Theory Of Computation/Pumping Lemmas.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Computer Science/Theory Of Computation/Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Theory Of Computation.md",
-    "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
     "MindMap/Computer Science/Theory Of Computation/Regular Expressions.md",
     "MindMap/Computer Science/Data Mining/Data Mining.md",
     "MindMap/Computer Science/Theory Of Computation/regular expression.md",
