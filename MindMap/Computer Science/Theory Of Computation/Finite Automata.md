@@ -76,6 +76,6 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 - Those fragments are combined together using $\epsilon$-transitions.
 ## Building Blocks
 - **Single Symbol**: start state transitions to final state using that symbol.
-- **Concatenation**: 
+- **Concatenation**: ending state of NFA of first expression connects to starting state of NFA of second expression
 - **Union**:
 - **Kleene Star**:
