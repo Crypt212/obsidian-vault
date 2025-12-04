@@ -70,4 +70,6 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 ### Final States: $F = \{\{ q_0, q_2 \}\}$
 # Thompsons Construction Algorithm
 - A systematic method for inducing a NFA from a [[Regular Expressions|regular expression]], the resulting NFA accepts exactly the same language as described by [[Regular Expressions|regular expression]].
-- It is a fundamental feature of lexical analysis and compiler 
+- It is a fundamental feature of lexical analysis and compiler design; where regular expressions are transformed into finite automata for token recognition.
+## How it works
+- Every 
