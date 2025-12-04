@@ -12,15 +12,15 @@ These grammars are instrumental in the field of computer science, particularly i
 - Terminals: $\Sigma = \{a, b\}$
 - Production Rules:
 $$ S \rightarrow aAb $$
-$$ A \rightarrow aA\ |\ b\ |\ \epsilon $$
+$$ A \rightarrow aA\ |\ b $$
 - Start Symbol: S
 - we can construct a string like this:
-
+	- using first rule:
 $$ S \rightarrow aAb $$
-
+	- using second rule:
 $$ aAb \rightarrow aaAbb $$
-
-$$ aaAbb \rightarrow aa| \epsilon bb $$
+	- using second rule:
+$$ aaAbb \rightarrow aa\ \epsilon\ bb \rightarrow aabb$$
 # Properties
 ## Union (∪)
 If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
