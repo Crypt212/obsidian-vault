@@ -3,11 +3,11 @@
 # Formalization
 - A **Pushdown Automaton** is a 6-tuple $P = (Q, \Sigma, \Gamma, \delta, q_0 , F )$, where:
 - $Q$ is a finite set of states.
-- $Σ$ is the input alphabet (finite set of input symbols).
-- $Γ$ is the stack alphabet (finite set of stack symbols).
-- $δ$ is the transition function, defined as: $δ : Q × (Σ ∪ {ϵ}) × (\Gamma ∪ {\ep}) → P(Q × \Gamma∗ )$. It specifies the transitions based on the current state, input symbol, and top of the stack.
-- $q_0 ∈ Q$ is the initial state.
-- $F ⊆ Q$ is the set of accepting states.
+- $\Sigma$ is the input alphabet (finite set of input symbols).
+- $\Gamma$ is the stack alphabet (finite set of stack symbols).
+- $δ$ is the transition function, defined as: $\delta : Q × (\Sigma \cup {\epsilon}) × (\Gamma \cup {\epsilon}) → P(Q × \Gamma∗ )$. It specifies the transitions based on the current state, input symbol, and top of the stack.
+- $q_0 \in Q$ is the initial state.
+- $F \supseteq Q$ is the set of accepting states.
 Explanation
 The PDA operates similarly to a finite automaton, but with an additional
 stack data structure, which allows it to store and retrieve symbols in a
