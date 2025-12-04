@@ -72,4 +72,5 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 - A systematic method for inducing a NFA from a [[Regular Expressions|regular expression]], the resulting NFA accepts exactly the same language as described by [[Regular Expressions|regular expression]].
 - It is a fundamental feature of lexical analysis and compiler design; where regular expressions are transformed into finite automata for token recognition.
 ## How it works
-- Each [[Regular Expressions|regular expression]] operation (concatenation, union, )
+- Each [[Regular Expressions|regular expression]] operation (concatenation, union, Kleene star) corresponds to a small NFA fragment with a single starting state and ending state.
+- 
