@@ -68,3 +68,5 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 | $\{q_0, q_1\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | No           |
 | $\{q_0, q_2\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | Yes          |
 ### Final States: $F = \{\{ q_0, q_2 \}\}$
+# Thompsons Construction Algorithm
+- A systematic 
