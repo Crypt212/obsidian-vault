@@ -7,15 +7,9 @@
 - $\Gamma$ is the stack alphabet (finite set of stack symbols).
 - $δ$ is the transition function, defined as: $\delta : Q × (\Sigma \cup {\epsilon}) × (\Gamma \cup {\epsilon}) → P(Q × \Gamma∗ )$. It specifies the transitions based on the current state, input symbol, and top of the stack.
 - $q_0 \in Q$ is the initial state.
-- $F \supseteq Q$ is the set of accepting states.
-Explanation
-The PDA operates similarly to a finite automaton, but with an additional
-stack data structure, which allows it to store and retrieve symbols in a
-Last-In-First-Out (LIFO) manner. This stack enables the PDA to handle
-nested structures, such as matching parentheses or palindromes, which finite
-automata alone cannot recognize.
-121122
-6. PUSHDOWN AUTOMATA (PDA)
+- $F \subseteq Q$ is the set of accepting states.
+# Explanation
+- The PDA operates similarly to a finite automaton, but with an additional stack data structure, which allows it to store and retrieve symbols in a Last-In-First-Out (LIFO) manner. This stack enables the PDA to handle nested structures, such as matching parentheses or palindromes, which finite automata alone cannot recognize.
 During computation, the PDA reads input symbols from the input tape,
 transitions between states, and pushes or pops symbols from the stack de-
 pending on the transition rules.
