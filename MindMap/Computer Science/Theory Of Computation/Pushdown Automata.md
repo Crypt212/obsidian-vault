@@ -40,6 +40,6 @@ This PDA works as follows:
 Thus, the PDA accepts strings like aabb, aaabbb, but rejects strings like abb or aabbb, since they don’t have matching numbers of ’a’s and ’b’s.
 # Applications
 Pushdown Automata are commonly used in the following areas:
-- Parsing in compilers for programming languages, especially for parsing context-free grammars.
+- Parsing in compilers for programming languages, especially for parsing [[context-free grammars]].
 - Recognition of context-free languages such as balanced parentheses or palindromes.
 - Describing the behavior of recursive algorithms and nested structures.
