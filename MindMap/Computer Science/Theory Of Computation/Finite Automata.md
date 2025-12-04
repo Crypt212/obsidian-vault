@@ -77,5 +77,5 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 ## Building Blocks
 - **Single Symbol**: start state transitions to final state using that symbol.
 - **Concatenation**: ending state of NFA of first expression connects to starting state of NFA of second expression using  $\epsilon$-transition.
-- **Union**: a start state is created and transitions using  $\epsilon$-transitions
-- **Kleene Star**:
+- **Union**: a start state is created and transitions using  $\epsilon$-transitions to start state of first expression and second expression, then the ends of both expression are connected to a single final state using  $\epsilon$-transition.
+- **Kleene Star**: a start 
