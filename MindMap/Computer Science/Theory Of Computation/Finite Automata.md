@@ -80,8 +80,7 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, �
 - **Union**: a start state is created and transitions using  $\epsilon$-transitions to start state of first expression and second expression, then the ends of both expression are connected to a single final state using  $\epsilon$-transition.
 - **Kleene Star**: a start state transitions to the expression NFA and the end of that NFA connects to end state using  $\epsilon$-transitions, the end state loops back to start state using  $\epsilon$-transition.
 ## Properties of Algorithm
-• The NFA produced always has exactly one start and one accept state.
-• The number of states is linear in the length of the regular expression.
-• It uses ε-transitions extensively.
-• This NFA can be further converted into a DFA using the Subset Con-
-struction Algorithm.
+- The NFA produced always has exactly one start and one accept state.
+- The number of states is linear in the length of the regular expression.
+- It uses ε-transitions extensively.
+- This NFA can be further converted into a DFA using the Subset Construction Algorithm.
