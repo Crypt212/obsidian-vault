@@ -69,4 +69,4 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 | $\{q_0, q_2\}$ | $\{q_0, q_1\}$ | $\{q_0, q_2\}$ | Yes          |
 ### Final States: $F = \{\{ q_0, q_2 \}\}$
 # Thompsons Construction Algorithm
-- A systematic method for inducing a NFA from a regular expression, the resulting NFA accepts the same 
+- A systematic method for inducing a NFA from a [[Regular Expressions|regular expression]], the resulting NFA accepts exactly the same language as described by [[regular expression]]
