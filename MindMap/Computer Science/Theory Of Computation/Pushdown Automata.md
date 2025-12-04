@@ -27,8 +27,8 @@ A PDA can accept a string in two ways:
 • Input alphabet: $Σ = {a, b}$
 • Stack alphabet: $Γ = {A, Z0 }$, where $Z0$ is the initial stack symbol.
 • Transitions:
-$δ(q0 , a, A^nZ0 ) = (q0 , A^{n+1}Z0), \forall n \gteq$
-δ(q0 , a, A) = (q0 , AA)
+$δ(q_0 , a, A^nZ_0 ) = (q_0 , A^{n+1}Z_0), \forall n \geq 0$
+$δ(q0 , b, A^nZ0 ) = (q1 , A^{n+1}Z0), \forall n \geq 0$
 δ(q0 , b, A) = (q1 , ϵ)
 δ(q1 , b, A) = (q1 , ϵ)
 δ(q1 , ϵ, Z0 ) = (q2 , Z0 )
