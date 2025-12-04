@@ -23,18 +23,16 @@ A PDA can accept a string in two ways:
 - By empty stack: The PDA accepts if the input is fully read and the stack is empty,  regardless of the current state.
 # Example
 - Consider a PDA that recognizes the language $L = {an bn | n ≥ 0}$, which consists of strings with an equal number of ’a’s followed by ’b’s.
-• States: $Q = {q0 , q1 , q2 }$
-• Input alphabet: $Σ = {a, b}$
-• Stack alphabet: $Γ = {A, Z0 }$, where $Z0$ is the initial stack symbol.
-• Transitions:
+•-  States: $Q = {q0 , q1 , q2 }$
+- Input alphabet: $Σ = {a, b}$
+- Stack alphabet: $Γ = {A, Z0 }$, where $Z0$ is the initial stack symbol.
+- Transitions:
 $δ(q_0 , a, A^nZ_0 ) = (q_0 , A^{n+1}Z_0), \forall n \geq 0$
 $δ(q_0 , b, A^nZ_0 ) = (q_1 , A^{n-1}Z_0), \forall n \gt 0$
 $δ(q_1 , b, A^nZ_0 ) = (q_1 , A^{n-1}Z_0), \forall n \gt 0$
-δ(q0 , b, A) = (q1 , ϵ)
-δ(q1 , b, A) = (q1 , ϵ)
-δ(q1 , ϵ, Z0 ) = (q2 , Z0 )
-• Start state: q_0
-• Accepting state: q_2
+$δ(q_1 , \epsilon, Z_0 ) = (q_2 , Z_0)$
+- Start state: $q_0$
+- Accepting state: $q_2$
 This PDA works as follows:
 • In state q0 , for every ’a’ encountered, the PDA pushes an ’A’ onto the
 stack.
