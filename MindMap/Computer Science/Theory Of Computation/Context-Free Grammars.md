@@ -23,32 +23,6 @@ $$ aAb \rightarrow aaAb $$
 $$ aaAb \rightarrow aa\ \epsilon\ b \rightarrow aab$$
 - so the resulting string "aab" is in the language.
 # Properties
-## Union (∪)
-If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
-Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 \cup R_2$ matches strings made of
-any number of a’s or b’s.
-## Concatenation
-If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 R_2$ is also a [[Regular Expressions|regular expression]].
-Example: If $R_1 = a∗$ and $R_2 = b∗$ , then $R_1 R_2$ matches strings of a’s followed
-by b’s.
-## Kleene Star (\*)
-If $R$ is a [[Regular Expressions|regular expression]], then $R∗$ is also a [[Regular Expressions|regular expression]].
-Example: If $R = ab$, then $R∗ = (ab)∗$ matches "", "ab", "abab", and so on.
-## Intersection (∩)
-[[Regular Expressions]] are closed under intersection. If $L_1$ and $L_2$ are regular
-languages, then:
-$L_1 \cap L_2$
-is also a regular language.
-## Complement (ň)
-If $L$ is a regular language, then the complement $L$ is also regular:
-$L(R) = \Sigma∗\ -\ L(R)$
-## Diﬀerence (-)
-The diﬀerence of two regular languages is also regular:
-$L1 − L2 = L1 \cap L2$
-# Regular
-
-# Applications of Regular Languages
-- Lexical Analysis: Token recognition in compilers.
-- Text Searching: Pattern matching using tools like grep or regex.
-- Protocol Design: Describing simple communication patterns.
-- Automated Verification: Model checking of finite-state systems.
+- CFGs can describe a wide variety of languages, including many programming languages and natural languages.
+- They are less powerful than unrestricted grammars but more powerful than regular grammars.
+- The languages defined by CFGs can be parsed using algorithms like the CYK algorithm or LL and LR parsing techniques.
