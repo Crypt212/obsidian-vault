@@ -73,4 +73,4 @@ Given NFA: $N = (Q, \Sigma, \delta, q_0, F)$, where $Q = \{q_0 , q_1 , q_2\}$, Î
 - It is a fundamental feature of lexical analysis and compiler design; where regular expressions are transformed into finite automata for token recognition.
 ## How it works
 - Each [[Regular Expressions|regular expression]] operation (concatenation, union, Kleene star) corresponds to a small NFA fragment with a single starting state and ending state.
-- 
+- Those fragments are combined together using $\epsilon$-transitions to express
