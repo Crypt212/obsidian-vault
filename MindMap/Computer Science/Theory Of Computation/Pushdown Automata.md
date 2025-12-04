@@ -29,14 +29,12 @@ A PDA can accept a string in two ways:
 • Transitions:
 $δ(q_0 , a, A^nZ_0 ) = (q_0 , A^{n+1}Z_0), \forall n \geq 0$
 $δ(q_0 , b, A^nZ_0 ) = (q_1 , A^{n-1}Z_0), \forall n \gt 0$
-$δ(q_1 , b, A^nZ_0 ) = (q_0 , A^{n-1}Z_0), \forall n \gt 0$
+$δ(q_1 , b, A^nZ_0 ) = (q_1 , A^{n-1}Z_0), \forall n \gt 0$
 δ(q0 , b, A) = (q1 , ϵ)
 δ(q1 , b, A) = (q1 , ϵ)
 δ(q1 , ϵ, Z0 ) = (q2 , Z0 )
-• Start state: q0
-• Accepting state: q26.1. EXAMPLES OF PUSHDOWN AUTOMATA (PDA)
-123
-Explanation of Example
+• Start state: q_0
+• Accepting state: q_2
 This PDA works as follows:
 • In state q0 , for every ’a’ encountered, the PDA pushes an ’A’ onto the
 stack.
