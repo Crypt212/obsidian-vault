@@ -34,10 +34,9 @@ $δ(q_1 , \epsilon, Z_0 ) = (q_2 , Z_0)$
 - Start state: $q_0$
 - Accepting state: $q_2$
 This PDA works as follows:
-• In state q0 , for every ’a’ encountered, the PDA pushes an ’A’ onto the
-stack.
-• When the first ’b’ is encountered, the PDA switches to state q1 and starts popping ’A’s from the stack for every ’b’ read.
-• When all ’A’s are popped, the PDA checks if the input is fully processed and if the stack is empty, transitioning to the accepting state q2 .
+-  In state $q_0$, for every ’a’ encountered, the PDA pushes an ’A’ onto the stack.
+- When the first ’b’ is encountered, the PDA switches to state $q_1$ and starts popping ’A’s from the stack for every ’b’ read.
+- When all ’A’s are popped, the PDA checks if the input is fully processed and if the stack is empty, transitioning to the accepting state $q_2$.
 Thus, the PDA accepts strings like aabb, aaabbb, but rejects strings like abb or aabbb, since they don’t have matching numbers of ’a’s and ’b’s.
 # Applications
 Pushdown Automata are commonly used in the following areas:
