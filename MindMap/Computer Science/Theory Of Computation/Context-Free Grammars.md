@@ -10,11 +10,11 @@ These grammars are instrumental in the field of computer science, particularly i
 - Consider the following **CFG** $G = (V, \Sigma, R, S)$:
 - Variables: $V = \{S, A\}$
 - Terminals: $\Sigma = \{a, b\}$
-
-• Production Rules:
-S → aAb
-A → aA | b
-• Start Symbol: S
+- Production Rules:
+$$ S \rightarrow aAb $$
+$$ A \rightarrow aA\ |\ b $$
+- Start Symbol: S
+- 
 # Properties
 ## Union (∪)
 If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
