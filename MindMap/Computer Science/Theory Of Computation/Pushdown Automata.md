@@ -18,14 +18,14 @@
 	- The top symbol of the stack (or ϵ for an empty stack transition).
 - Given this information, the PDA moves to a new state, and the stack may be modified by pushing or popping symbols. The stack operations allow the PDA to recognize languages that require memory beyond what finite automata can manage.
 ## Acceptance
-- A PDA can accept a string in two ways:
-	- By final state: The PDA accepts if it reaches an accepting state after reading the entire input.
-	- By empty stack: The PDA accepts if the input is fully read and the stack is empty,  regardless of the current state.
+A PDA can accept a string in two ways:
+- By final state: The PDA accepts if it reaches an accepting state after reading the entire input.
+- By empty stack: The PDA accepts if the input is fully read and the stack is empty,  regardless of the current state.
 # Example
-- Consider a PDA that recognizes the language L = {an bn | n ≥ 0}, which consists of strings with an equal number of ’a’s followed by ’b’s.
-• States: Q = {q0 , q1 , q2 }
-• Input alphabet: Σ = {a, b}
-• Stack alphabet: Γ = {A, Z0 }, where Z0 is the initial stack symbol.
+- Consider a PDA that recognizes the language $L = {an bn | n ≥ 0}$, which consists of strings with an equal number of ’a’s followed by ’b’s.
+• States: $Q = {q0 , q1 , q2 }$
+• Input alphabet: $Σ = {a, b}$
+• Stack alphabet: $Γ = {A, Z0 }$, where $Z0$ is the initial stack symbol.
 • Transitions:
 δ(q0 , a, Z0 ) = (q0 , AZ0 )
 δ(q0 , a, A) = (q0 , AA)
@@ -42,8 +42,8 @@ stack.
 • When the first ’b’ is encountered, the PDA switches to state q1 and starts popping ’A’s from the stack for every ’b’ read.
 • When all ’A’s are popped, the PDA checks if the input is fully processed and if the stack is empty, transitioning to the accepting state q2 .
 Thus, the PDA accepts strings like aabb, aaabbb, but rejects strings like abb or aabbb, since they don’t have matching numbers of ’a’s and ’b’s.
-Applications
+# Applications
 Pushdown Automata are commonly used in the following areas:
-• Parsing in compilers for programming languages, especially for parsing context-free grammars.
-• Recognition of context-free languages such as balanced parentheses or palindromes.
-• Describing the behavior of recursive algorithms and nested structures.
+- Parsing in compilers for programming languages, especially for parsing context-free grammars.
+- Recognition of context-free languages such as balanced parentheses or palindromes.
+- Describing the behavior of recursive algorithms and nested structures.
