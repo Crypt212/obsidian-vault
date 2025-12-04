@@ -12,7 +12,7 @@ These grammars are instrumental in the field of computer science, particularly i
 - Terminals: $\Sigma = \{a, b\}$
 - Production Rules:
 $$ S \rightarrow aAb $$
-$$ A \rightarrow aA\ |\ b $$
+$$ A \rightarrow aA\ |\ b\ |\ \epsilon $$
 - Start Symbol: S
 - we can construct a string like this:
 
@@ -20,7 +20,7 @@ $$ S \rightarrow aAb $$
 
 $$ aAb \rightarrow aaAbb $$
 
-$$ S \rightarrow aAb $$
+$$ aaAbb \rightarrow aa| \epsilon bb $$
 # Properties
 ## Union (∪)
 If $R_1$ and $R_2$ are [[regular expressions]], then $R_1 \cup R_2$ is also a [[Regular Expressions|regular expression]].
