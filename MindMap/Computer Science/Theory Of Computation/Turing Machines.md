@@ -41,7 +41,7 @@ marking.
 	4. $\delta(q_2,⊔) \rightarrow (q_0, ⊔, R)$: state $q_0$, head on `X`.
 	5. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on second `X`.
 	6. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on `⊔`.
-	7. $\delta(q_0,\) \rightarrow (q_3, ⊔, L)$: state $q_3$, head on `X`.
+	7. $\delta(q_0,\sqcup) \rightarrow (q_3, ⊔, L)$: state $q_3$, head on `X`.
 	8. $\delta(q_3,X) \rightarrow (q_3, X, R)$: head on `X`.
 	9. $\delta(q_3,X) \rightarrow (q_3, X, R)$: head on `⊔`.
 	10. $\delta(q_3,⊔) \rightarrow (q_{accept}, ⊔, R)$: **accept**.- Start state: $q_0$
