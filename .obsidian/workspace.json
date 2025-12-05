@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 277.5
   },
   "right": {
     "id": "47a550eb51dfa794",
@@ -175,9 +175,9 @@
   },
   "active": "d8ebd2dd3f286b37",
   "lastOpenFiles": [
+    "Untitled.base",
     "Untitled 5.base",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
-    "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled 3.base",
