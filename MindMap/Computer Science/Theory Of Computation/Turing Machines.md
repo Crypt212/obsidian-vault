@@ -12,16 +12,15 @@
 	- $q_{reject} \in Q$ is the rejecting state, where $q_{reject} \not= q_{accept}$.
 ## Components of a Turing Machine
 The Turing Machine consists of three primary components:
-- Tape: An infinite tape divided into cells, each capable of holding a symbol from the tape alphabet $\Gamma$. The tape serves as both input and unlimited memory.
-- Head: The machine has a head that can read and write symbols on the tape and move either left ($L$) or right ($R$) on the tape.
-- State Register: This holds the current state of the Turing Machine, which is one of the states from $Q$.
-Operation of a Turing Machine
+- **Tape**: An infinite tape divided into cells, each capable of holding a symbol from the tape alphabet $\Gamma$. The tape serves as both input and unlimited memory.
+- **Head**: The machine has a head that can read and write symbols on the tape and move either left ($L$) or right ($R$) on the tape.
+- **State Register**: This holds the current state of the Turing Machine, which is one of the states from $Q$.
+## Operation of a Turing Machine
 The machine operates as follows:
-- The machine begins in the initial state $q_0$ and starts reading the input on the tape, which is written from left to right, and the rest of the
-tape is blank.
+- The machine begins in the initial state $q_0$ and starts reading the input on the tape, which is written from left to right, and the rest of the tape is blank.
 - Based on the current state and the symbol under the tape head, the machine follows the transition function $\delta$ to update its state, write a symbol on the tape, and move the tape head either left or right.
 - The computation continues until the machine reaches either the accepting state $q_{accept}$ or the rejecting state $q_{reject}$.
-Formal Definition of the Transition Function
+## Formal Definition of the Transition Function
 The transition function $\delta$ can be formally defined as:
 $\delta : Q × \Gamma → Q × \Gamma × \{L, R\}$
 For each pair of current state and tape symbol, the transition function provides:
