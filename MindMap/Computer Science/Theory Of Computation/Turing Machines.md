@@ -4,7 +4,7 @@
 # Formal Definition
 - A **Turing Machine** is a 7-tuple $M = (Q, \Sigma, \Gamma, \delta, q_0 , q_{accept} , q_{reject})$, where:
 	- $Q$ is a finite set of states.
-	- $\Sigma$ is the input alphabet, which does not include the blank symbol \sqcup.
+	- $\Sigma$ is the input alphabet, which does not include the blank symbol $\sqcup$.
 	- $\Gamma$ is the tape alphabet, where $\Sigma \subseteq \Gamma$ and $\sqcup \in \Gamma$ is the blank symbol.
 	- $\delta : Q × \Gamma \rightarrow Q × \Gamma × \{L, R\}$ is the transition function, which specifies the machine’s movement.
 	- $q_0 \in Q$ is the initial state.
@@ -31,14 +31,14 @@ For each pair of current state and tape symbol, the transition function provides
 Consider a **Turing Machine** that recognizes the language $L = \{w\ \in\ {0, 1}∗\ |\ w\ contains\ an\ equal\ number\ of\ 0’s\ and\ 1’s\}$.
 - States: $Q = \{q_0 , q_1 , q_{accept} , q_{reject} \}$
 - Input alphabet: $\Sigma = \{0, 1\}$.
-- Tape alphabet: $\Gamma = \{0, 1, X, ⊔\}$, where $X$ is a symbol used for
+- Tape alphabet: $\Gamma = \{0, 1, X, \sqcup\}$, where $X$ is a symbol used for
 marking.
 - Transitions:
 	1. Start: `0 1 ⊔` head at `0`, state $q_0$​.  
 	    $\delta(q_0,0) \rightarrow (q_1, X, R)$: tape `X 1 ⊔`, state $q_1$, head on `1`.
 	2. $\delta(q_1,1) \rightarrow (q_2, X, L)$: tape `X X ⊔`, state $q_2$, head on `X` (first).
 	3. $\delta(q_2,X) \rightarrow (q_2, X, L)$: move left to `⊔` left of first symbol.
-	4. $\delta(q_2,⊔) \rightarrow (q_0, \sqcup, R)$: state $q_0$, head on `X`.
+	4. $\delta(q_2,\sqcup) \rightarrow (q_0, \sqcup, R)$: state $q_0$, head on `X`.
 	5. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on second `X`.
 	6. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on `\sqcup`.
 	7. $\delta(q_0,\sqcup) \rightarrow (q_3, \sqcup, L)$: state $q_3$, head on `X`.
