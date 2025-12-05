@@ -30,15 +30,14 @@ For each pair of current state and tape symbol, the transition function provides
 • The direction to move the head (left or right).
 ## Example
 Consider a **Turing Machine** that recognizes the language $L = \{w\ \in\ {0, 1}∗\ |\ w\ contains\ an\ equal\ number\ of\ 0’s\ and\ 1’s\}$.
-• States: Q = \{q_0 , q_1 , q_{accept} , q_{reject} \}
-• Input alphabet: \Sigma = {0, 1}7.2. TURING MACHINE EXAMPLES
-131
-• Tape alphabet: \Gamma = {0, 1, X, ⊔}, where X is a symbol used for
+• States: $Q = \{q_0 , q_1 , q_{accept} , q_{reject} \}$
+• Input alphabet: $\Sigma = \{0, 1\}$.
+• Tape alphabet: $\Gamma = \{0, 1, X, ⊔\}$, where $X$ is a symbol used for
 marking.
 • Transitions:
-\delta(q0 , 0) = (q1 , X, R)
-\delta(q1 , 1) = (q0 , X, L)
-• Start state: q0
+$\delta(q_0 , 0) = (q_1 , X, R)$
+$\delta(q_1 , 1) = (q_0 , X, L)$
+• Start state: $q_0$
 • Accepting state: q_{accept}
 • Rejecting state: q_{reject}
 This Turing Machine operates as follows:
