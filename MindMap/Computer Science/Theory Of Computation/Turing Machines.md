@@ -5,12 +5,12 @@
 - A **Turing Machine** is a 7-tuple $M = (Q, \Sigma, \Gamma, \delta, q_0 , q_{accept} , q_{reject})$, where:
 • Q is a finite set of states.
 • $\Sigma$ is the input alphabet, which does not include the blank symbol ⊔.
-• $\Gamma$ is the tape alphabet, where \Sigma \subseteq \Gamma and ⊔ \in \Gamma is the blank symbol.
-• \delta : Q × \Gamma → Q × \Gamma × {L, R} is the transition function, which specifies
+• $\Gamma$ is the tape alphabet, where $\Sigma \subseteq \Gamma$ and ⊔ \in \Gamma is the blank symbol.
+• $\delta : Q × \Gamma → Q × \Gamma × {L, R}$ is the transition function, which specifies
 the machine’s movement.
 • q0 \in Q is the initial state.
-• qaccept \in Q is the accepting state.
-• qreject \in Q is the rejecting state, where qreject ̸= qaccept .
+• q_{accept} \in Q is the accepting state.
+• q_{reject} \in Q is the rejecting state, where q_{reject} \not= q_{accept} .
 Components of a Turing Machine
 The Turing Machine consists of three primary components:
 129130
@@ -31,7 +31,7 @@ tape is blank.
 machine follows the transition function \delta to update its state, write a
 symbol on the tape, and move the tape head either left or right.
 • The computation continues until the machine reaches either the ac-
-cepting state qaccept or the rejecting state qreject .
+cepting state q_{accept} or the rejecting state q_{reject} .
 Formal Definition of the Transition Function
 The transition function \delta can be formally defined as:
 \delta : Q × \Gamma → Q × \Gamma × {L, R}
@@ -43,7 +43,7 @@ vides:
 Example
 Consider a Turing Machine that recognizes the language L = {w \in {0, 1}∗ |
 w contains an equal number of 0’s and 1’s}.
-• States: Q = {q0 , q1 , qaccept , qreject }
+• States: Q = {q0 , q1 , q_{accept} , q_{reject} }
 • Input alphabet: \Sigma = {0, 1}7.2. TURING MACHINE EXAMPLES
 131
 • Tape alphabet: \Gamma = {0, 1, X, ⊔}, where X is a symbol used for
@@ -52,8 +52,8 @@ marking.
 \delta(q0 , 0) = (q1 , X, R)
 \delta(q1 , 1) = (q0 , X, L)
 • Start state: q0
-• Accepting state: qaccept
-• Rejecting state: qreject
+• Accepting state: q_{accept}
+• Rejecting state: q_{reject}
 This Turing Machine operates as follows:
 • It replaces the first unmarked 0 with an X and then searches to the
 right for an unmarked 1, replacing it with X.
