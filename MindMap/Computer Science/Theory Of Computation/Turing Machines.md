@@ -5,18 +5,18 @@
 - A **Turing Machine** is a 7-tuple $M = (Q, \Sigma, \Gamma, \delta, q_0 , q_{accept} , q_{reject})$, where:
 • Q is a finite set of states.
 • $\Sigma$ is the input alphabet, which does not include the blank symbol ⊔.
-• $\Gamma$ is the tape alphabet, where Σ ⊆ Γ and ⊔ ∈ Γ is the blank symbol.
-• δ : Q × Γ → Q × Γ × {L, R} is the transition function, which specifies
+• $\Gamma$ is the tape alphabet, where \Sigma \subseteq \Gamma and ⊔ \in \Gamma is the blank symbol.
+• \delta : Q × \Gamma → Q × \Gamma × {L, R} is the transition function, which specifies
 the machine’s movement.
-• q0 ∈ Q is the initial state.
-• qaccept ∈ Q is the accepting state.
-• qreject ∈ Q is the rejecting state, where qreject ̸= qaccept .
+• q0 \in Q is the initial state.
+• qaccept \in Q is the accepting state.
+• qreject \in Q is the rejecting state, where qreject ̸= qaccept .
 Components of a Turing Machine
 The Turing Machine consists of three primary components:
 129130
 7. INTRODUCTION TO TURING MACHINES
 • Tape: An infinite tape divided into cells, each capable of holding a
-symbol from the tape alphabet Γ. The tape serves as both input and
+symbol from the tape alphabet \Gamma. The tape serves as both input and
 unlimited memory.
 • Head: The machine has a head that can read and write symbols on
 the tape and move either left (L) or right (R) on the tape.
@@ -28,29 +28,29 @@ The machine operates as follows:
 on the tape, which is written from left to right, and the rest of the
 tape is blank.
 • Based on the current state and the symbol under the tape head, the
-machine follows the transition function δ to update its state, write a
+machine follows the transition function \delta to update its state, write a
 symbol on the tape, and move the tape head either left or right.
 • The computation continues until the machine reaches either the ac-
 cepting state qaccept or the rejecting state qreject .
 Formal Definition of the Transition Function
-The transition function δ can be formally defined as:
-δ : Q × Γ → Q × Γ × {L, R}
+The transition function \delta can be formally defined as:
+\delta : Q × \Gamma → Q × \Gamma × {L, R}
 For each pair of current state and tape symbol, the transition function pro-
 vides:
 • The next state.
 • The symbol to be written on the tape.
 • The direction to move the head (left or right).
 Example
-Consider a Turing Machine that recognizes the language L = {w ∈ {0, 1}∗ |
+Consider a Turing Machine that recognizes the language L = {w \in {0, 1}∗ |
 w contains an equal number of 0’s and 1’s}.
 • States: Q = {q0 , q1 , qaccept , qreject }
-• Input alphabet: Σ = {0, 1}7.2. TURING MACHINE EXAMPLES
+• Input alphabet: \Sigma = {0, 1}7.2. TURING MACHINE EXAMPLES
 131
-• Tape alphabet: Γ = {0, 1, X, ⊔}, where X is a symbol used for
+• Tape alphabet: \Gamma = {0, 1, X, ⊔}, where X is a symbol used for
 marking.
 • Transitions:
-δ(q0 , 0) = (q1 , X, R)
-δ(q1 , 1) = (q0 , X, L)
+\delta(q0 , 0) = (q1 , X, R)
+\delta(q1 , 1) = (q0 , X, L)
 • Start state: q0
 • Accepting state: qaccept
 • Rejecting state: qreject
