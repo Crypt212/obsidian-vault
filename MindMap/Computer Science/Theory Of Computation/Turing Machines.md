@@ -38,22 +38,14 @@ marking.
 $\delta(q_0 , 0) = (q_1 , X, R)$
 $\delta(q_1 , 1) = (q_0 , X, L)$
 • Start state: $q_0$
-• Accepting state: q_{accept}
-• Rejecting state: q_{reject}
+• Accepting state: $q_{accept}$
+• Rejecting state: $q_{reject}$
 This Turing Machine operates as follows:
-• It replaces the first unmarked 0 with an X and then searches to the
-right for an unmarked 1, replacing it with X.
+• It replaces the first unmarked 0 with an X and then searches to the right for an unmarked 1, replacing it with X.
 • The machine repeats this process until all 0’s and 1’s are marked.
-• If it finds the input contains an equal number of 0’s and 1’s, it reaches
-the accepting state; otherwise, it moves to the rejecting state.
-Applications of Turing Machines
-Turing Machines are a powerful model of computation and are used to for-
-malize the concept of what it means for a function to be computable. Some
-common applications include:
-• Algorithm Design: Turing Machines help in analyzing the compu-
-tational complexity of algorithms.
-• Language Recognition: TMs recognize context-sensitive languages
-and can simulate other simpler automata like finite automata and
-pushdown automata.
-• Decidability: Turing Machines are used to study the limits of what
-problems can and cannot be solved by a computer.
+• If it finds the input contains an equal number of 0’s and 1’s, it reaches the accepting state; otherwise, it moves to the rejecting state.
+# Applications of Turing Machines
+Turing Machines are a powerful model of computation and are used to formalize the concept of what it means for a function to be computable. Some common applications include:
+• **Algorithm Design**: Turing Machines help in analyzing the computational complexity of algorithms.
+• **Language Recognition**: TMs recognize context-sensitive languages and can simulate other simpler automata like finite automata and [[pushdown automata]].
+• **Decidability**: **Turing Machines** are used to study the limits of what problems can and cannot be solved by a computer.
