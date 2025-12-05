@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 300.5
   },
   "right": {
     "id": "47a550eb51dfa794",
@@ -173,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8ebd2dd3f286b37",
+  "active": "66b84a904da09ef6",
   "lastOpenFiles": [
+    "MindMap/Computer Science/Theory Of Computation/Untitled.base",
     "Untitled.base",
     "Untitled 5.base",
     "MindMap/Computer Science/Theory Of Computation/Regular Languages.md",
@@ -182,7 +183,6 @@
     "Untitled 2.base",
     "Untitled 3.base",
     "Untitled 4.base",
-    "MindMap/Computer Science/Theory Of Computation/Untitled.base",
     "MindMap/Computer Science/Theory Of Computation/Turing Machines.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
     "MindMap/Computer Science/Theory Of Computation/Pushdown Automata.md",
