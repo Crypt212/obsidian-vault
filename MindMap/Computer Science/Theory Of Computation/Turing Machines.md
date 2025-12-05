@@ -3,14 +3,14 @@
 - Turing Machines can recognize the class of languages known as recursively enumerable languages.
 # Formal Definition
 - A **Turing Machine** is a 7-tuple $M = (Q, \Sigma, \Gamma, \delta, q_0 , q_{accept} , q_{reject})$, where:
-• Q is a finite set of states.
+• $Q$ is a finite set of states.
 • $\Sigma$ is the input alphabet, which does not include the blank symbol ⊔.
-• $\Gamma$ is the tape alphabet, where $\Sigma \subseteq \Gamma$ and ⊔ \in \Gamma is the blank symbol.
+• $\Gamma$ is the tape alphabet, where $\Sigma \subseteq \Gamma$ and $⊔ \in \Gamma$ is the blank symbol.
 • $\delta : Q × \Gamma → Q × \Gamma × {L, R}$ is the transition function, which specifies
 the machine’s movement.
-• q0 \in Q is the initial state.
-• q_{accept} \in Q is the accepting state.
-• q_{reject} \in Q is the rejecting state, where q_{reject} \not= q_{accept} .
+• $q0 \in Q$ is the initial state.
+• $q_{accept} \in Q$ is the accepting state.
+• $q_{reject} \in Q$ is the rejecting state, where $q_{reject} \not= q_{accept}$.
 Components of a Turing Machine
 The Turing Machine consists of three primary components:
 129130
