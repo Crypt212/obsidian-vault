@@ -4,8 +4,8 @@
 # Formal Definition
 - A **Turing Machine** is a 7-tuple $M = (Q, \Sigma, \Gamma, \delta, q_0 , q_{accept} , q_{reject})$, where:
 • Q is a finite set of states.
-• Σ is the input alphabet, which does not include the blank symbol ⊔.
-• Γ is the tape alphabet, where Σ ⊆ Γ and ⊔ ∈ Γ is the blank symbol.
+• $\Sigma$ is the input alphabet, which does not include the blank symbol ⊔.
+• $\Gamma$ is the tape alphabet, where Σ ⊆ Γ and ⊔ ∈ Γ is the blank symbol.
 • δ : Q × Γ → Q × Γ × {L, R} is the transition function, which specifies
 the machine’s movement.
 • q0 ∈ Q is the initial state.

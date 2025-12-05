@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53166122650253fe",
+  "active": "2d99cde948719905",
   "lastOpenFiles": [
     "MindMap/Computer Science/Theory Of Computation/Context-Free Grammars.md",
     "MindMap/Computer Science/Theory Of Computation/Finite Automata.md",
