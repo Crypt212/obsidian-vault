@@ -6,7 +6,7 @@
 	- $Q$ is a finite set of states.
 	- $\Sigma$ is the input alphabet, which does not include the blank symbol ⊔.
 	- $\Gamma$ is the tape alphabet, where $\Sigma \subseteq \Gamma$ and $⊔ \in \Gamma$ is the blank symbol.
-	- $\delta : Q × \Gamma → Q × \Gamma × \{L, R\}$ is the transition function, which specifies the machine’s movement.
+	- $\delta : Q × \Gamma \rightarrow Q × \Gamma × \{L, R\}$ is the transition function, which specifies the machine’s movement.
 	- $q_0 \in Q$ is the initial state.
 	- $q_{accept} \in Q$ is the accepting state.
 	- $q_{reject} \in Q$ is the rejecting state, where $q_{reject} \not= q_{accept}$.
@@ -22,7 +22,7 @@ The machine operates as follows:
 - The computation continues until the machine reaches either the accepting state $q_{accept}$ or the rejecting state $q_{reject}$.
 ## Formal Definition of the Transition Function
 The transition function $\delta$ can be formally defined as:
-$\delta : Q × \Gamma → Q × \Gamma × \{L, R\}$
+$\delta : Q × \Gamma \rightarrow Q × \Gamma × \{L, R\}$
 For each pair of current state and tape symbol, the transition function provides:
 - The next state.
 - The symbol to be written on the tape.
@@ -35,16 +35,16 @@ Consider a **Turing Machine** that recognizes the language $L = \{w\ \in\ {0, 1}
 marking.
 - Transitions:
 	1. Start: `0 1 ⊔` head at `0`, state $q_0$​.  
-	    $\delta(q_0,0) → (q_1, X, R)$: tape `X 1 ⊔`, state $q_1$, head on `1`.
-	2. $\delta(q_1,1) → (q_2, X, L)$: tape `X X ⊔`, state $q_2$, head on `X` (first).
-	3. $\delta(q_2,X) → (q_2, X, L)$: move left to `⊔` left of first symbol.
-	4. $\delta(q_2,⊔) → (q_0, ⊔, R)$: state $q_0$, head on `X`.
-	5. $\delta(q_0,X) → (q_0, X, R)$: head on second `X`.
-	6. $\delta(q_0,X) → (q_0, X, R)$: head on `⊔`.
-	7. $\delta(q_0,⊔) → (q_3, ⊔, L)$: state $q_3$, head on `X`.
-	8. $\delta(q_3,X) → (q_3, X, R)$: head on `X`.
-	9. $\delta(q_3,X) → (q_3, X, R)$: head on `⊔`.
-	10. $\delta(q_3,⊔) → (q_{accept}, ⊔, R)$: **accept**.- Start state: $q_0$
+	    $\delta(q_0,0) \rightarrow (q_1, X, R)$: tape `X 1 ⊔`, state $q_1$, head on `1`.
+	2. $\delta(q_1,1) \rightarrow (q_2, X, L)$: tape `X X ⊔`, state $q_2$, head on `X` (first).
+	3. $\delta(q_2,X) \rightarrow (q_2, X, L)$: move left to `⊔` left of first symbol.
+	4. $\delta(q_2,⊔) \rightarrow (q_0, ⊔, R)$: state $q_0$, head on `X`.
+	5. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on second `X`.
+	6. $\delta(q_0,X) \rightarrow (q_0, X, R)$: head on `⊔`.
+	7. $\delta(q_0,\) \rightarrow (q_3, ⊔, L)$: state $q_3$, head on `X`.
+	8. $\delta(q_3,X) \rightarrow (q_3, X, R)$: head on `X`.
+	9. $\delta(q_3,X) \rightarrow (q_3, X, R)$: head on `⊔`.
+	10. $\delta(q_3,⊔) \rightarrow (q_{accept}, ⊔, R)$: **accept**.- Start state: $q_0$
 - Accepting state: $q_{accept}$
 - Rejecting state: $q_{reject}$
 This Turing Machine operates as follows:
