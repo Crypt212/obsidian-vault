@@ -1,6 +1,6 @@
 **Context-Free Grammar**: These are a type of formal grammars used to define context-free languages.
 These grammars are instrumental in the field of computer science, particularly in the design of **programming languages** and **compilers**.
-# Formalization
+# Formal Definition
 - A **Context-Free Grammar** can be defined using a 4-tuple: $G = (V, \Sigma, R, S)$, where:
 	- **V** is a finite set of **variables** that are used by **production rules** as placeholders for patterns of strings.
 	- $\Sigma$ is a finite set of **alphabet** (terminals) used to make up the actual content of the language (aka, used to construct strings).

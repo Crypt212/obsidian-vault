@@ -1,7 +1,7 @@
 - A **Turing Machine (TM)** is a theoretical computational model that was introduced by Alan Turing in 1936.
 - It is one of the most powerful models of computation and can simulate any algorithm.
 - Turing Machines can recognize the class of languages known as recursively enumerable languages.
-# Definition
+# Formal Definition
 A Turing Machine is a 7-tuple M = (Q, Σ, Γ, δ, q0 , qaccept , qreject ), where:
 • Q is a finite set of states.
 • Σ is the input alphabet, which does not include the blank symbol ⊔.

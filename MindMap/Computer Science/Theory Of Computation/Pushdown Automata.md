@@ -1,6 +1,6 @@
 - A **Pushdown Automaton (PDA)** is a computational model that extends [[finite automata]] by including a stack as an additional storage mechanism.
 - This extra memory allows PDAs to recognize a broader class of languages, specifically the class of [[Context-Free Grammars|context-free languages (CFLs)]].
-# Formalization
+# Formal Definition
 - A **Pushdown Automaton** is a 6-tuple $P = (Q, \Sigma, \Gamma, \delta, q_0 , F )$, where:
 - $Q$ is a finite set of states.
 - $\Sigma$ is the input alphabet (finite set of input symbols).
