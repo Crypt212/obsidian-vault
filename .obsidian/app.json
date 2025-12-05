@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newFileFolderPath": "Topics"
+  "newFileFolderPath": "Topics",
+  "vimMode": true
 }
