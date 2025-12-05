@@ -35,13 +35,13 @@ Consider a **Turing Machine** that recognizes the language $L = \{w\ \in\ {0, 1}
 marking.
 - Transitions:
 	1. Start: `0 1 ⊔` head at `0`, state $q_0$​.  
-	    $δ(q0,0) → (q1, X, R)$: tape `X 1 ⊔`, state q1, head on `1`.
-	2. $δ(q1,1) → (q2, X, L)$: tape `X X ⊔`, state q2, head on `X` (first).
+	    $δ(q_0,0) → (q_1, X, R)$: tape `X 1 ⊔`, state $q_1$, head on `1`.
+	2. $δ(q_1,1) → (q_2, X, L)$: tape `X X ⊔`, state $q_2$, head on `X` (first).
 	3. $δ(q2,X) → (q2, X, L)$: move left to `⊔` left of first symbol.
-	4. $δ(q2,⊔) → (q0, ⊔, R)$: state q0, head on `X`.
-	5. $δ(q0,X) → (q0, X, R)$: head on second `X`.
-	6. $δ(q0,X) → (q0, X, R)$: head on `⊔`.
-	7. $δ(q0,⊔) → (q3, ⊔, L)$: state q3, head on `X`.
+	4. $δ(q2,⊔) → (q_0, ⊔, R)$: state $q_0$, head on `X`.
+	5. $δ(q_0,X) → (q_0, X, R)$: head on second `X`.
+	6. $δ(q_0,X) → (q_0, X, R)$: head on `⊔`.
+	7. $δ(q_0,⊔) → (q3, ⊔, L)$: state $q_3$, head on `X`.
 	8. $δ(q3,X) → (q3, X, R)$: head on `X`.
 	9. $δ(q3,X) → (q3, X, R)$: head on `⊔`.
 	10. $δ(q_3,⊔) → (q_{accept}, ⊔, R)$: **accept**.- Start state: $q_0$
